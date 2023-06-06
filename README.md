@@ -12,7 +12,8 @@ mailpoet<br>
 translation<br>
 Multi-Site<br>
 
-<img src="https://raw.githubusercontent.com/Iceex/Wordpress/main/Portafolio/1.2.%20shop-pizza.PNG" style="width:70%">
+<p>Check Portafolio files <a href="https://github.com/Iceex/Wordpress/tree/main/Portafolio">Check here</a></p>
+
 
 <div class="mySlides">
     <div class="numbertext">Some examples</div>

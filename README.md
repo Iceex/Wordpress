@@ -11,6 +11,7 @@ contact-form-7<br>
 mailpoet<br>
 translation<br>
 Multi-Site<br>
+And others...<br>
 
 <p>Check Portafolio files <a href="https://github.com/Iceex/Wordpress/tree/main/Portafolio">Check here</a></p>
 

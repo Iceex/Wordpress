@@ -16,9 +16,9 @@ https://github.com/Iceex/Wordpress/blob/main/Portafolio/3.1.%20paintball.png?raw
 
 <div class="mySlides">
     <div class="numbertext">2 / 6</div>
-    <img src="https://raw.githubusercontent.com/Iceex/Wordpress/main/Portafolio/2.1.%20expdocument.PNG" style="width:40%"><br>
-    <img src="https://raw.githubusercontent.com/Iceex/Wordpress/main/Portafolio/2.1.%20expdocument.PNG" style="width:20%">
-    <img src="https://raw.githubusercontent.com/Iceex/Wordpress/main/Portafolio/2.1.%20expdocument.PNG" style="width:20%">
-    <img src="https://raw.githubusercontent.com/Iceex/Wordpress/main/Portafolio/2.1.%20expdocument.PNG" style="width:20%">
-    <img src="https://raw.githubusercontent.com/Iceex/Wordpress/main/Portafolio/2.1.%20expdocument.PNG" style="width:20%">
+    <img src="https://raw.githubusercontent.com/Iceex/Wordpress/main/Portafolio/2.1.%20expdocument.PNG" style="width:50%"><br>
+    <img src="https://raw.githubusercontent.com/Iceex/Wordpress/main/Portafolio/2.2.%20expdocument-blog3.PNG" style="width:20%">
+    <img src="https://raw.githubusercontent.com/Iceex/Wordpress/main/Portafolio/2.3.%20expdocument-blog1.PNG" style="width:20%">
+    <img src="https://raw.githubusercontent.com/Iceex/Wordpress/main/Portafolio/2.4.%20expdocument-blog2.PNG" style="width:20%">
+    <img src="https://raw.githubusercontent.com/Iceex/Wordpress/main/Portafolio/2.5.%20expdocument-blog.PNG" style="width:20%">
   </div>

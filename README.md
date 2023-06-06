@@ -9,7 +9,10 @@ wp-responsive-menu<br>
 woocommerce<br>
 contact-form-7<br>
 mailpoet<br>
+translation<br>
+Multi-Site<br>
 
+<img src="https://raw.githubusercontent.com/Iceex/Wordpress/main/Portafolio/1.2.%20shop-pizza.PNG" style="width:70%">
 
 <div class="mySlides">
     <div class="numbertext">Some examples</div>

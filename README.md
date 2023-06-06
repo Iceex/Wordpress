@@ -10,13 +10,9 @@ woocommerce<br>
 contact-form-7<br>
 mailpoet<br>
 
-https://raw.githubusercontent.com/Iceex/Wordpress/main/Portafolio/1.2.%20shop-pizza.PNG
-https://raw.githubusercontent.com/Iceex/Wordpress/main/Portafolio/2.1.%20expdocument.PNG
-https://github.com/Iceex/Wordpress/blob/main/Portafolio/3.1.%20paintball.png?raw=true
-
 
 <div class="mySlides">
-    <div class="numbertext">1 / 2</div>
+    <div class="numbertext">Some examples</div>
     <img src="https://raw.githubusercontent.com/Iceex/Wordpress/main/Portafolio/4.1.%20electronic-woocommerce.png" style="width:40%">
     <img src="https://github.com/Iceex/Wordpress/blob/main/Portafolio/3.1.%20paintball.png?raw=true" style="width:40%">
   </div>  

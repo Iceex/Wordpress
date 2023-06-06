@@ -17,7 +17,7 @@ https://github.com/Iceex/Wordpress/blob/main/Portafolio/3.1.%20paintball.png?raw
 
 <div class="mySlides">
     <div class="numbertext">1 / 2</div>
-    <img src="https://raw.githubusercontent.com/Iceex/Wordpress/main/Portafolio/2.3.%20expdocument-blog1.PNG" style="width:40%">
+    <img src="https://raw.githubusercontent.com/Iceex/Wordpress/main/Portafolio/4.1.%20electronic-woocommerce.png" style="width:40%">
     <img src="https://raw.githubusercontent.com/Iceex/Wordpress/main/Portafolio/1.%20Shop-Pizza-main.PNG" style="width:40%">
 
   </div>
@@ -25,6 +25,6 @@ https://github.com/Iceex/Wordpress/blob/main/Portafolio/3.1.%20paintball.png?raw
 <div class="mySlides">
     <div class="numbertext">2 / 2</div>
     <img src="https://github.com/Iceex/Wordpress/blob/main/Portafolio/3.1.%20paintball.png?raw=true" style="width:40%">
-	<img src="https://raw.githubusercontent.com/Iceex/Wordpress/main/Portafolio/4.1.%20electronic-woocommerce.png" style="width:40%">
+	<img src="https://raw.githubusercontent.com/Iceex/Wordpress/main/Portafolio/2.3.%20expdocument-blog1.PNG" style="width:40%">
 
   </div>  

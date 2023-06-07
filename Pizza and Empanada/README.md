@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/Iceex/Wordpress/main/Portafolio/1.%20Shop-Pizza-main.PNG" style="width:100%">
+<img src="https://raw.githubusercontent.com/Iceex/Wordpress/main/Portafolio/1.%20Shop-Pizza-main.PNG" style="width:60%">

@@ -1,0 +1,718 @@
+
+@font-face {
+  font-family: "technocy-icon";
+  src: url("../../../fonts/icons/technocy-icon-2.0.0.eot");
+  src: url("../../../fonts/icons/technocy-icon-2.0.0.eot?#iefix") format("eot"), url("../../../fonts/icons/technocy-icon-2.0.0.woff2") format("woff2"), url("../../../fonts/icons/technocy-icon-2.0.0.woff") format("woff"), url("../../../fonts/icons/technocy-icon-2.0.0.ttf") format("truetype"), url("../../../fonts/icons/technocy-icon-2.0.0.svg#technocy-icon-2.0.0") format("svg");
+}
+[class*=technocy-icon-] {
+  font-family: "technocy-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+}
+
+.technocy-icon-account:before {
+  content: "";
+}
+
+.technocy-icon-address:before {
+  content: "";
+}
+
+.technocy-icon-air-conditioners:before {
+  content: "";
+}
+
+.technocy-icon-angle-down:before {
+  content: "";
+}
+
+.technocy-icon-angle-left:before {
+  content: "";
+}
+
+.technocy-icon-angle-right:before {
+  content: "";
+}
+
+.technocy-icon-angle-up:before {
+  content: "";
+}
+
+.technocy-icon-calendar:before {
+  content: "";
+}
+
+.technocy-icon-cart-plus:before {
+  content: "";
+}
+
+.technocy-icon-cart:before {
+  content: "";
+}
+
+.technocy-icon-chat:before {
+  content: "";
+}
+
+.technocy-icon-check-square-solid:before {
+  content: "";
+}
+
+.technocy-icon-clock:before {
+  content: "";
+}
+
+.technocy-icon-compare:before {
+  content: "";
+}
+
+.technocy-icon-delivery-1:before {
+  content: "";
+}
+
+.technocy-icon-delivery-2:before {
+  content: "";
+}
+
+.technocy-icon-delivery:before {
+  content: "";
+}
+
+.technocy-icon-eye:before {
+  content: "";
+}
+
+.technocy-icon-filter-ul:before {
+  content: "";
+}
+
+.technocy-icon-gaming:before {
+  content: "";
+}
+
+.technocy-icon-heart-1:before {
+  content: "";
+}
+
+.technocy-icon-hot-deal:before {
+  content: "";
+}
+
+.technocy-icon-kitchen:before {
+  content: "";
+}
+
+.technocy-icon-laptops:before {
+  content: "";
+}
+
+.technocy-icon-mail-1:before {
+  content: "";
+}
+
+.technocy-icon-mobile-2:before {
+  content: "";
+}
+
+.technocy-icon-mouse:before {
+  content: "";
+}
+
+.technocy-icon-offer:before {
+  content: "";
+}
+
+.technocy-icon-payment:before {
+  content: "";
+}
+
+.technocy-icon-pen:before {
+  content: "";
+}
+
+.technocy-icon-phone-2:before {
+  content: "";
+}
+
+.technocy-icon-phone:before {
+  content: "";
+}
+
+.technocy-icon-quality:before {
+  content: "";
+}
+
+.technocy-icon-quote2:before {
+  content: "";
+}
+
+.technocy-icon-refrigerators:before {
+  content: "";
+}
+
+.technocy-icon-return-1:before {
+  content: "";
+}
+
+.technocy-icon-return:before {
+  content: "";
+}
+
+.technocy-icon-search-1:before {
+  content: "";
+}
+
+.technocy-icon-secure:before {
+  content: "";
+}
+
+.technocy-icon-smartphone:before {
+  content: "";
+}
+
+.technocy-icon-support-2:before {
+  content: "";
+}
+
+.technocy-icon-support-phone:before {
+  content: "";
+}
+
+.technocy-icon-tablet-1:before {
+  content: "";
+}
+
+.technocy-icon-tablets:before {
+  content: "";
+}
+
+.technocy-icon-tv:before {
+  content: "";
+}
+
+.technocy-icon-twitte-1:before {
+  content: "";
+}
+
+.technocy-icon-warranty:before {
+  content: "";
+}
+
+.technocy-icon-washing-machine:before {
+  content: "";
+}
+
+.technocy-icon-360:before {
+  content: "";
+}
+
+.technocy-icon-bars:before {
+  content: "";
+}
+
+.technocy-icon-caret-down:before {
+  content: "";
+}
+
+.technocy-icon-caret-left:before {
+  content: "";
+}
+
+.technocy-icon-caret-right:before {
+  content: "";
+}
+
+.technocy-icon-caret-up:before {
+  content: "";
+}
+
+.technocy-icon-cart-empty:before {
+  content: "";
+}
+
+.technocy-icon-check-square:before {
+  content: "";
+}
+
+.technocy-icon-circle:before {
+  content: "";
+}
+
+.technocy-icon-cloud-download-alt:before {
+  content: "";
+}
+
+.technocy-icon-comment:before {
+  content: "";
+}
+
+.technocy-icon-comments:before {
+  content: "";
+}
+
+.technocy-icon-contact:before {
+  content: "";
+}
+
+.technocy-icon-credit-card:before {
+  content: "";
+}
+
+.technocy-icon-dot-circle:before {
+  content: "";
+}
+
+.technocy-icon-edit:before {
+  content: "";
+}
+
+.technocy-icon-envelope:before {
+  content: "";
+}
+
+.technocy-icon-expand-alt:before {
+  content: "";
+}
+
+.technocy-icon-external-link-alt:before {
+  content: "";
+}
+
+.technocy-icon-file-alt:before {
+  content: "";
+}
+
+.technocy-icon-file-archive:before {
+  content: "";
+}
+
+.technocy-icon-filter:before {
+  content: "";
+}
+
+.technocy-icon-folder-open:before {
+  content: "";
+}
+
+.technocy-icon-folder:before {
+  content: "";
+}
+
+.technocy-icon-frown:before {
+  content: "";
+}
+
+.technocy-icon-gift:before {
+  content: "";
+}
+
+.technocy-icon-grid:before {
+  content: "";
+}
+
+.technocy-icon-grip-horizontal:before {
+  content: "";
+}
+
+.technocy-icon-heart-fill:before {
+  content: "";
+}
+
+.technocy-icon-heart:before {
+  content: "";
+}
+
+.technocy-icon-history:before {
+  content: "";
+}
+
+.technocy-icon-home:before {
+  content: "";
+}
+
+.technocy-icon-info-circle:before {
+  content: "";
+}
+
+.technocy-icon-instagram:before {
+  content: "";
+}
+
+.technocy-icon-level-up-alt:before {
+  content: "";
+}
+
+.technocy-icon-list:before {
+  content: "";
+}
+
+.technocy-icon-map-marker-check:before {
+  content: "";
+}
+
+.technocy-icon-meh:before {
+  content: "";
+}
+
+.technocy-icon-minus-circle:before {
+  content: "";
+}
+
+.technocy-icon-minus:before {
+  content: "";
+}
+
+.technocy-icon-mobile-android-alt:before {
+  content: "";
+}
+
+.technocy-icon-money-bill:before {
+  content: "";
+}
+
+.technocy-icon-pencil-alt:before {
+  content: "";
+}
+
+.technocy-icon-play-circle:before {
+  content: "";
+}
+
+.technocy-icon-play:before {
+  content: "";
+}
+
+.technocy-icon-plus-circle:before {
+  content: "";
+}
+
+.technocy-icon-plus:before {
+  content: "";
+}
+
+.technocy-icon-quote:before {
+  content: "";
+}
+
+.technocy-icon-random:before {
+  content: "";
+}
+
+.technocy-icon-reply-all:before {
+  content: "";
+}
+
+.technocy-icon-reply:before {
+  content: "";
+}
+
+.technocy-icon-search-plus:before {
+  content: "";
+}
+
+.technocy-icon-search:before {
+  content: "";
+}
+
+.technocy-icon-shield-check:before {
+  content: "";
+}
+
+.technocy-icon-shopping-basket:before {
+  content: "";
+}
+
+.technocy-icon-shopping-cart:before {
+  content: "";
+}
+
+.technocy-icon-sign-out-alt:before {
+  content: "";
+}
+
+.technocy-icon-smile:before {
+  content: "";
+}
+
+.technocy-icon-spinner:before {
+  content: "";
+}
+
+.technocy-icon-square:before {
+  content: "";
+}
+
+.technocy-icon-star:before {
+  content: "";
+}
+
+.technocy-icon-store:before {
+  content: "";
+}
+
+.technocy-icon-sync:before {
+  content: "";
+}
+
+.technocy-icon-tachometer-alt:before {
+  content: "";
+}
+
+.technocy-icon-th-large:before {
+  content: "";
+}
+
+.technocy-icon-th-list:before {
+  content: "";
+}
+
+.technocy-icon-thumbtack:before {
+  content: "";
+}
+
+.technocy-icon-ticket:before {
+  content: "";
+}
+
+.technocy-icon-times-circle:before {
+  content: "";
+}
+
+.technocy-icon-times:before {
+  content: "";
+}
+
+.technocy-icon-trophy-alt:before {
+  content: "";
+}
+
+.technocy-icon-truck:before {
+  content: "";
+}
+
+.technocy-icon-user-headset:before {
+  content: "";
+}
+
+.technocy-icon-user-shield:before {
+  content: "";
+}
+
+.technocy-icon-user:before {
+  content: "";
+}
+
+.technocy-icon-video:before {
+  content: "";
+}
+
+.technocy-icon-adobe:before {
+  content: "";
+}
+
+.technocy-icon-amazon:before {
+  content: "";
+}
+
+.technocy-icon-android:before {
+  content: "";
+}
+
+.technocy-icon-angular:before {
+  content: "";
+}
+
+.technocy-icon-apper:before {
+  content: "";
+}
+
+.technocy-icon-apple:before {
+  content: "";
+}
+
+.technocy-icon-atlassian:before {
+  content: "";
+}
+
+.technocy-icon-behance:before {
+  content: "";
+}
+
+.technocy-icon-bitbucket:before {
+  content: "";
+}
+
+.technocy-icon-bitcoin:before {
+  content: "";
+}
+
+.technocy-icon-bity:before {
+  content: "";
+}
+
+.technocy-icon-bluetooth:before {
+  content: "";
+}
+
+.technocy-icon-btc:before {
+  content: "";
+}
+
+.technocy-icon-centos:before {
+  content: "";
+}
+
+.technocy-icon-chrome:before {
+  content: "";
+}
+
+.technocy-icon-codepen:before {
+  content: "";
+}
+
+.technocy-icon-cpanel:before {
+  content: "";
+}
+
+.technocy-icon-discord:before {
+  content: "";
+}
+
+.technocy-icon-dochub:before {
+  content: "";
+}
+
+.technocy-icon-docker:before {
+  content: "";
+}
+
+.technocy-icon-dribbble:before {
+  content: "";
+}
+
+.technocy-icon-dropbox:before {
+  content: "";
+}
+
+.technocy-icon-drupal:before {
+  content: "";
+}
+
+.technocy-icon-ebay:before {
+  content: "";
+}
+
+.technocy-icon-facebook:before {
+  content: "";
+}
+
+.technocy-icon-figma:before {
+  content: "";
+}
+
+.technocy-icon-firefox:before {
+  content: "";
+}
+
+.technocy-icon-google-plus:before {
+  content: "";
+}
+
+.technocy-icon-google:before {
+  content: "";
+}
+
+.technocy-icon-grunt:before {
+  content: "";
+}
+
+.technocy-icon-gulp:before {
+  content: "";
+}
+
+.technocy-icon-html5:before {
+  content: "";
+}
+
+.technocy-icon-joomla:before {
+  content: "";
+}
+
+.technocy-icon-link-brand:before {
+  content: "";
+}
+
+.technocy-icon-linkedin:before {
+  content: "";
+}
+
+.technocy-icon-mailchimp:before {
+  content: "";
+}
+
+.technocy-icon-opencart:before {
+  content: "";
+}
+
+.technocy-icon-paypal:before {
+  content: "";
+}
+
+.technocy-icon-pinterest-p:before {
+  content: "";
+}
+
+.technocy-icon-reddit:before {
+  content: "";
+}
+
+.technocy-icon-skype:before {
+  content: "";
+}
+
+.technocy-icon-slack:before {
+  content: "";
+}
+
+.technocy-icon-snapchat:before {
+  content: "";
+}
+
+.technocy-icon-spotify:before {
+  content: "";
+}
+
+.technocy-icon-trello:before {
+  content: "";
+}
+
+.technocy-icon-twitter:before {
+  content: "";
+}
+
+.technocy-icon-vimeo:before {
+  content: "";
+}
+
+.technocy-icon-whatsapp:before {
+  content: "";
+}
+
+.technocy-icon-wordpress:before {
+  content: "";
+}
+
+.technocy-icon-yoast:before {
+  content: "";
+}
+
+.technocy-icon-youtube:before {
+  content: "";
+}
+

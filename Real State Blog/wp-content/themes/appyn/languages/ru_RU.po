@@ -1,0 +1,2653 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-07-12 07:16-0500\n"
+"PO-Revision-Date: 2022-07-12 07:16-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:5
+msgid "La página que estás buscando no existe."
+msgstr "Страница, которую вы ищете, не существует."
+
+#: 404.php:7 admin/panel.php:1015 amp/header.php:90 functions.php:126
+#: includes/template-functions.php:1187
+msgid "Buscar una aplicación"
+msgstr "Поиск приложений"
+
+#: admin/class-eps.php:24 admin/class-eps.php:83
+msgid "Error: La API Key es inválida."
+msgstr "Ошибка: ключ API недействителен."
+
+#: admin/class-eps.php:24 admin/class-eps.php:77 admin/class-eps.php:83
+#: admin/panel.php:1387
+msgid "Más información"
+msgstr "Больше информации"
+
+#: admin/class-eps.php:33
+msgid "Error: No hay URL de Playstore en este post"
+msgstr "Ошибка: в этом сообщении нет URL-адреса PlayStore"
+
+#: admin/class-eps.php:44
+msgid "Error: Al parecer la URL no existe. Verifique nuevamente."
+msgstr "Ошибка: очевидно, URL-адрес не существует. Проверить снова."
+
+#: admin/class-eps.php:77
+msgid "Error: Este dominio no está habilitado."
+msgstr "Ошибка: этот домен не включен."
+
+#: admin/class-eps.php:89
+msgid "Error: No se pudo obtener los datos de esta app."
+msgstr "Ошибка: не удается получить данные из этого приложения."
+
+#: admin/class-eps.php:174
+msgid "Información importada."
+msgstr "Импортированная информация."
+
+#: admin/class-eps.php:175
+#, php-format
+msgid "Entrada \"%s\" creada."
+msgstr "Сообщение \"%s\" создано."
+
+#: admin/class-eps.php:175 admin/panel.php:130
+msgid "Ver post"
+msgstr "Посмотреть сообщение"
+
+#: admin/class-eps.php:227
+msgid "Información actualizada."
+msgstr "Обновленная информация."
+
+#: admin/class-eps.php:228
+#, php-format
+msgid "Entrada \"%s\" actualizada."
+msgstr "Сообщение \"%s\" обновлено."
+
+#: admin/class-eps.php:370
+msgid "Se encontró un archivo APK y OBB"
+msgstr "Обнаружены файлы APK и OBB"
+
+#: admin/class-eps.php:371 admin/class-eps.php:379
+msgid "Descargando archivo..."
+msgstr "Скачивание файла ..."
+
+#: admin/class-eps.php:371 admin/class-eps.php:379 includes/ajax.php:239
+msgid "En proceso..."
+msgstr "В ходе выполнения..."
+
+#: admin/class-eps.php:372
+#, php-format
+msgid "Subiendo a %s en ZIP"
+msgstr "Загрузка в %s в формате ZIP"
+
+#: admin/class-eps.php:375
+msgid "Se encontró un archivo APK"
+msgstr "Найден APK-файл"
+
+#: admin/class-eps.php:377
+msgid "Se encontró un archivo ZIP"
+msgstr "ZIP-файл найден"
+
+#: admin/class-eps.php:380
+#, php-format
+msgid "Subiendo a %s"
+msgstr "Загрузка в %s"
+
+#: admin/class-eps.php:391
+#, php-format
+msgid "Error: La aplicación que desea importar ya existe. %s"
+msgstr ""
+"Ошибка: приложение, которое вы хотите импортировать, уже существует. %s"
+
+#: admin/class-eps.php:391
+msgid "Ver entrada"
+msgstr "Посмотреть сообщение"
+
+#: admin/panel.php:12
+msgid "Importar contenido"
+msgstr "импортировать контент"
+
+#: admin/panel.php:14 admin/panel.php:91
+msgid "Reportes"
+msgstr "Отчеты"
+
+#: admin/panel.php:16 admin/panel.php:39 admin/panel.php:188
+#: includes/admin.php:231
+msgid "Apps por actualizar"
+msgstr "Приложения для обновления"
+
+#: admin/panel.php:37 admin/panel.php:49 includes/admin.php:198
+msgid "Importar contenido (Google Play)"
+msgstr "Импортировать контент (Google Play)"
+
+#: admin/panel.php:41
+msgid "Registro de cambios"
+msgstr "Журнал изменений"
+
+#: admin/panel.php:43
+msgid "Documentación"
+msgstr "Документация"
+
+#: admin/panel.php:52
+msgid "Importar datos"
+msgstr "Импортировать данные"
+
+#: admin/panel.php:56
+msgid ""
+"Al hacer clic en \"Importar datos\" se creará un post con toda la "
+"información importada basándose en las opciones mostradas a continuación..."
+msgstr ""
+"Нажатие на «Импортировать данные» создаст сообщение со всей информацией, "
+"извлеченной в соответствии с параметрами, показанными ниже ..."
+
+#: admin/panel.php:57
+msgid "Opciones al importar datos"
+msgstr "Параметры при импорте данных"
+
+#: admin/panel.php:59 admin/panel.php:429
+msgid "Estado del post"
+msgstr "Статус публикации"
+
+#: admin/panel.php:59 admin/panel.php:434
+msgid "Publicado"
+msgstr "Публиковать"
+
+#: admin/panel.php:59 admin/panel.php:432
+msgid "Borrador"
+msgstr "Проект"
+
+#: admin/panel.php:60
+msgid "Crear categoría si no existe"
+msgstr "Создайте категорию, если она не существует"
+
+#: admin/panel.php:60 admin/panel.php:61 admin/panel.php:62 admin/panel.php:69
+#: admin/panel.php:70
+msgid "No"
+msgstr "Нет"
+
+#: admin/panel.php:60 admin/panel.php:61 admin/panel.php:62 admin/panel.php:69
+#: admin/panel.php:70
+msgid "Sí"
+msgstr "да"
+
+#: admin/panel.php:61
+msgid "Crear taxonomía <i>Desarrollador</i> si no existe"
+msgstr "Создайте таксономию <i>Разработчик</i>, если она не существует"
+
+#: admin/panel.php:62 admin/panel.php:454
+msgid "Obtener APK"
+msgstr "Скачать APK"
+
+#: admin/panel.php:65 admin/panel.php:464
+msgid "Servidor de subida"
+msgstr "Загрузить сервер"
+
+#: admin/panel.php:68
+msgid "Cantidad de imágenes importadas"
+msgstr "Количество импортированных изображений"
+
+#: admin/panel.php:69 admin/panel.php:492 functions.php:484 functions.php:488
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: admin/panel.php:70 admin/panel.php:499
+msgid "Apps duplicadas"
+msgstr "Дубликаты приложений"
+
+#: admin/panel.php:72
+msgid "Cambiar opciones"
+msgstr "Изменить параметры"
+
+#: admin/panel.php:92
+#, php-format
+msgid "%s entrada reportada"
+msgstr "%s сообщил о сообщении"
+
+#: admin/panel.php:92
+#, php-format
+msgid "%s entradas reportadas"
+msgstr "%s сообщений, на которые отправили жалобу"
+
+#: admin/panel.php:98 admin/panel.php:279 admin/panel.php:524 functions.php:326
+#: includes/class-list-table-atul.php:141 includes/widget-categories.php:45
+#: includes/widget-facebook.php:44 includes/widget-mas-calificados.php:69
+#: includes/widget-mas-vistos-blog.php:60 includes/widget-mas-vistos.php:69
+#: includes/widget-mejor-calificados.php:70 includes/widget-twitter.php:42
+#: includes/widget-ultimos-posts-blog.php:59
+#: includes/widget-ultimos-posts.php:68 includes/widget-youtube.php:40
+msgid "Título"
+msgstr "заглавие"
+
+#: admin/panel.php:99 includes/ajax.php:176
+msgid "Detalles"
+msgstr "Подробности"
+
+#: admin/panel.php:100
+msgid "Acción"
+msgstr "Действия"
+
+#: admin/panel.php:112 includes/class-list-table-atul.php:105
+msgid "Editar post"
+msgstr "Редактировать пост"
+
+#: admin/panel.php:136
+msgid "No hay reportes"
+msgstr "Нет отчетов"
+
+#: admin/panel.php:143
+msgid "Borrar reportes"
+msgstr "Удалить отчеты"
+
+#: admin/panel.php:196 search.php:5
+msgid "Buscar"
+msgstr "Поиск"
+
+#: admin/panel.php:227
+msgid "Theme"
+msgstr "Theme"
+
+#: admin/panel.php:228 functions.php:325 functions.php:460 functions.php:1700
+#: functions.php:1771 includes/ajax.php:27 includes/template-actions.php:440
+#: includes/template-actions.php:1505 template-parts/loop/app-slider.php:13
+#: template-parts/loop/app.php:11 template-parts/template-download.php:18
+msgid "Versión"
+msgstr "Версия"
+
+#: admin/panel.php:231 admin/panel.php:758 admin/panel.php:934
+msgid "Opciones generales"
+msgstr "Общие настройки"
+
+#: admin/panel.php:234 admin/panel.php:274
+msgid "Home"
+msgstr "Дом"
+
+#: admin/panel.php:237 admin/panel.php:732
+msgid "Single"
+msgstr "Single"
+
+#: admin/panel.php:240 admin/panel.php:402
+msgid "Importador de contenido"
+msgstr "Импортер контента"
+
+#: admin/panel.php:243 admin/panel.php:898
+msgid "Historial de versiones"
+msgstr "История версий"
+
+#: admin/panel.php:246 includes/template-actions.php:128
+msgid "Blog"
+msgstr "Блог"
+
+#: admin/panel.php:249 admin/panel.php:1348
+msgid "Colores"
+msgstr "Цвета"
+
+#: admin/panel.php:252
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: admin/panel.php:255 admin/panel.php:1446
+msgid "Anuncios"
+msgstr "Рекламные объявления"
+
+#: admin/panel.php:258 admin/panel.php:1382 admin/panel.php:1385
+msgid "AMP"
+msgstr "AMP"
+
+#: admin/panel.php:261
+msgid "Footer"
+msgstr "Footer"
+
+#: admin/panel.php:264 admin/panel.php:1607
+msgid "Info"
+msgstr "Информация"
+
+#: admin/panel.php:268
+msgid "Guardar cambios"
+msgstr "Сохранить изменения"
+
+#: admin/panel.php:280
+msgid "Coloca el título del Home"
+msgstr "Поместите название Дома"
+
+#: admin/panel.php:286 admin/panel.php:526 admin/panel.php:845
+#: functions.php:456 includes/template-actions.php:394
+msgid "Descripción"
+msgstr "Описание"
+
+#: admin/panel.php:287
+msgid "Coloca la descripción del Home"
+msgstr "Поместите описание Дома"
+
+#: admin/panel.php:292
+msgid "Imágenes de Portada"
+msgstr "Обложка изображений"
+
+#: admin/panel.php:293
+msgid ""
+"Sube hasta 5 imágenes para que aparezca en el Home aleatoriamente. De "
+"preferencia imágenes mayores de 1300px de ancho y 300px de altura"
+msgstr ""
+"Загрузите до 5 изображений, которые будут случайным образом появляться на "
+"главной странице. Предпочтительно изображения размером более 1300 пикселей в "
+"ширину и 300 пикселей в высоту."
+
+#: admin/panel.php:311 includes/widget-mas-calificados.php:9
+#: includes/widget-mas-calificados.php:19
+#: includes/widget-mas-calificados.php:65
+msgid "Apps más calificadas"
+msgstr "Самые популярные приложения"
+
+#: admin/panel.php:312
+msgid "Slider con las aplicaciones más descargadas."
+msgstr "Слайдер с самыми скачиваемыми приложениями."
+
+#: admin/panel.php:324 admin/panel.php:344 admin/panel.php:385
+#: admin/panel.php:904 admin/panel.php:1291 admin/panel.php:1302
+msgid "Entradas"
+msgstr "Posts"
+
+#: admin/panel.php:329
+msgid "Ocultar entradas"
+msgstr "Скрыть сообщения"
+
+#: admin/panel.php:330
+msgid "Oculta las entradas del inicio."
+msgstr "Скрыть домашние сообщения."
+
+#: admin/panel.php:338
+msgid "Entradas por página"
+msgstr "Постов на странице"
+
+#: admin/panel.php:339
+msgid "Límite de entradas."
+msgstr "Лимит сообщений."
+
+#: admin/panel.php:347
+msgid "Orden de las entradas"
+msgstr "Заказ сообщений"
+
+#: admin/panel.php:348
+msgid "Ordena las entradas del Home por fecha, por modificación o aleatorio."
+msgstr ""
+"Сортируйте публикации на главной странице по дате, по модификации или "
+"случайным образом."
+
+#: admin/panel.php:352
+msgid "Por fecha"
+msgstr "По дате"
+
+#: admin/panel.php:352 admin/panel.php:774 admin/panel.php:835
+#: admin/panel.php:972 admin/panel.php:1191
+msgid "(Por defecto)"
+msgstr "(дефолт)"
+
+#: admin/panel.php:354
+msgid "Por modificación"
+msgstr "По дате последнего изменения"
+
+#: admin/panel.php:356
+msgid "Aleatorio"
+msgstr "Случайный"
+
+#: admin/panel.php:360
+msgid "Posts Categorías Home"
+msgstr "Сообщения Категории Главная"
+
+#: admin/panel.php:361
+msgid ""
+"Escoge qué categorías y cuántos de estos quieres que aparezca en el Home "
+"debajo de los últimos posts"
+msgstr ""
+"Выберите, какие категории и в каком количестве вы хотите отображать на "
+"главной странице под последними сообщениями."
+
+#: admin/panel.php:390
+msgid "Ocultar blog"
+msgstr "Скрыть блог"
+
+#: admin/panel.php:391
+msgid "Oculta las entradas del blog"
+msgstr "Скрыть домашние сообщения.Скрыть сообщения в блоге"
+
+#: admin/panel.php:406 admin/panel.php:683
+msgid "API Key"
+msgstr "API Key"
+
+#: admin/panel.php:407
+msgid ""
+"Clave única que se necesita para poder utilizar el importador de contenido."
+msgstr "Уникальный ключ, необходимый для использования импортера контента."
+
+#: admin/panel.php:407
+msgid "¿Cómo obtengo el mio?"
+msgstr "Как мне получить свой?"
+
+#: admin/panel.php:412
+msgid "Roles"
+msgstr "Роли"
+
+#: admin/panel.php:413
+msgid "Tipo de usuario a quienes aparecerá el importador de contenido."
+msgstr "Тип пользователя, которому будет показан импортер контента."
+
+#: admin/panel.php:421
+msgid "Administrador"
+msgstr "Администратор"
+
+#: admin/panel.php:422
+msgid "Administrador y Editor"
+msgstr "Администратор и редактор"
+
+#: admin/panel.php:423
+msgid "Administrador, Editor y Autor"
+msgstr "Администратор, редактор и автор"
+
+#: admin/panel.php:424
+msgid "Administrador, Editor, Autor y Colaborador"
+msgstr "Администратор, редактор, автор и соавтор"
+
+#: admin/panel.php:438
+msgid "Crear categoría"
+msgstr "Создать категорию"
+
+#: admin/panel.php:439
+msgid "Crea la categoría si no existe"
+msgstr "Создайте категорию, если она не существует"
+
+#: admin/panel.php:446
+msgid "Crear taxonomía 'Desarrollador'"
+msgstr "Создать таксономию \"Разработчик\""
+
+#: admin/panel.php:447
+msgid "Crea la taxonomía 'Desarrollador' si no existe"
+msgstr "Создайте таксономию \"Разработчик\", если она не существует"
+
+#: admin/panel.php:465
+msgid "Seleccionar servidor para subir los archivos APK."
+msgstr "Выберите сервер для загрузки файлов APK."
+
+#: admin/panel.php:468 includes/template-functions.php:1154
+msgid "Mi servidor"
+msgstr "Мой сервер"
+
+#: admin/panel.php:469 admin/panel.php:544 includes/template-functions.php:1144
+msgid "Google Drive"
+msgstr "Google Drive"
+
+#: admin/panel.php:470 admin/panel.php:587 includes/template-functions.php:1146
+msgid "Dropbox"
+msgstr "Dropbox"
+
+#: admin/panel.php:471 admin/panel.php:626 includes/template-functions.php:1148
+msgid "FTP"
+msgstr "FTP"
+
+#: admin/panel.php:472 admin/panel.php:674 includes/template-functions.php:1150
+msgid "1Fichier"
+msgstr "1Fichier"
+
+#: admin/panel.php:473 admin/panel.php:688 includes/template-functions.php:1152
+msgid "OneDrive"
+msgstr "OneDrive"
+
+#: admin/panel.php:477
+msgid "Slug"
+msgstr "Slug"
+
+#: admin/panel.php:478
+msgid "Agrega automáticamente un texto al final del nombre del archivo."
+msgstr "Автоматически добавлять текст в конец имени файла."
+
+#: admin/panel.php:481 admin/panel.php:815 admin/panel.php:827
+msgid "Ejemplo"
+msgstr "Пример"
+
+#: admin/panel.php:485
+msgid "Capturas de pantalla"
+msgstr "Скриншоты"
+
+#: admin/panel.php:486
+msgid "Cantidad de capturas de pantalla de la aplicación."
+msgstr "Количество скриншотов приложения."
+
+#: admin/panel.php:489
+msgid "Capturas"
+msgstr "Скриншоты"
+
+#: admin/panel.php:493
+msgid "Tomar las calificaciones de la aplicación."
+msgstr "Взять рейтинги приложений."
+
+#: admin/panel.php:500
+msgid "Poder importar aplicaciones duplicadas"
+msgstr "Уметь импортировать повторяющиеся приложения"
+
+#: admin/panel.php:507
+msgid "Al actualizar información de una app"
+msgstr "При обновлении информации в приложении"
+
+#: admin/panel.php:511
+msgid "Crear una nueva versión"
+msgstr "Создать новую версию"
+
+#: admin/panel.php:512
+msgid "Crea un post con la versión nueva cuando actualiza una app."
+msgstr "Создайте сообщение с новой версией при обновлении приложения."
+
+#: admin/panel.php:518
+msgid "Deshabilitar campos"
+msgstr "Отключить поля"
+
+#: admin/panel.php:519
+msgid ""
+"Campos a deshabilitar al momento de actualizar la información de una "
+"aplicación."
+msgstr "Поля, которые нужно отключить при обновлении информации о приложении."
+
+#: admin/panel.php:528
+msgid "Contenido"
+msgstr "Содержание"
+
+#: admin/panel.php:530 includes/template-actions.php:1541
+msgid "Ícono"
+msgstr "Значок"
+
+#: admin/panel.php:532 admin/panel.php:746 admin/panel.php:851
+#: functions.php:627 functions.php:632 includes/template-actions.php:381
+#: includes/template-actions.php:1064
+msgid "Enlaces de descarga"
+msgstr "Ссылки для скачивания"
+
+#: admin/panel.php:536
+msgid "Eliminar imagen destacada antigua"
+msgstr "Удалить старое избранное изображение"
+
+#: admin/panel.php:537
+msgid ""
+"Elimina la imagen destacada antigua del post. Afectará también a las "
+"versiones antiguas."
+msgstr "Удалите старое изображение из поста. Это коснется и старых версий."
+
+#: admin/panel.php:550
+msgid ""
+"Crea una API de Google Drive y coloca el ID de cliente y código secreto en "
+"los siguientes campos."
+msgstr ""
+"Создайте API Google Drive и введите идентификатор клиента и секретный код в "
+"следующие поля."
+
+#: admin/panel.php:550
+#, php-format
+msgid "Siga el %s para crear la API."
+msgstr "Следуйте %s, чтобы создать API."
+
+#: admin/panel.php:550
+msgid "Tutorial"
+msgstr "Руководство"
+
+#: admin/panel.php:553 admin/panel.php:697
+msgid "ID de cliente"
+msgstr "ID клиента"
+
+#: admin/panel.php:557 admin/panel.php:701
+msgid "Secreto del cliente"
+msgstr "Секретный клиент"
+
+#: admin/panel.php:561 admin/panel.php:705
+msgid "Carpeta"
+msgstr "Папка"
+
+#: admin/panel.php:561
+msgid ""
+"Coloca el nombre de una carpeta que se creará automáticamente y se subirán "
+"allí todos los archivos."
+msgstr ""
+"Укажите название папки, которая будет создана автоматически и туда будут "
+"загружены все файлы."
+
+#: admin/panel.php:570 admin/panel.php:609 admin/panel.php:714
+msgid "Conectar nueva cuenta"
+msgstr "Подключить новую учетную запись"
+
+#: admin/panel.php:570 admin/panel.php:714
+msgid ""
+"Haga clic aquí solo si ha añadido un nuevo ID de cliente y Secreto. "
+"Aparecerá nuevamente el botón de conectar que deberá pulsar."
+msgstr ""
+"Щелкните здесь, только если вы добавили новый идентификатор клиента и "
+"секрет. Кнопка подключения, которую вы должны нажать, появится снова."
+
+#: admin/panel.php:577
+msgid "Conectado a Google Drive"
+msgstr "Подключено к Google Drive"
+
+#: admin/panel.php:579 admin/panel.php:618 admin/panel.php:723
+msgid "Recuerda guardar los cambios antes de realizar la conexión"
+msgstr "Не забудьте сохранить изменения перед подключением"
+
+#: admin/panel.php:580
+msgid "Conectar a Google Drive"
+msgstr "Подключиться к Google Drive"
+
+#: admin/panel.php:593
+msgid ""
+"Crea una app en Dropbox y coloca el app key y app secret en los siguientes "
+"campos."
+msgstr ""
+"Создайте приложение в Dropbox и введите ключ приложения и секрет приложения "
+"в следующие поля."
+
+#: admin/panel.php:593 admin/panel.php:680 admin/panel.php:694
+#, php-format
+msgid "Siga el %s."
+msgstr "Следуйте %s."
+
+#: admin/panel.php:593 admin/panel.php:680 admin/panel.php:694
+msgid "tutorial"
+msgstr "руководство"
+
+#: admin/panel.php:596
+msgid "App key"
+msgstr "App key"
+
+#: admin/panel.php:600
+msgid "App secret"
+msgstr "App secret"
+
+#: admin/panel.php:609
+msgid ""
+"Haga clic aquí solo si ha añadido un nuevo app key y app secret. Aparecerá "
+"nuevamente el botón de conectar que deberá pulsar."
+msgstr ""
+"Нажмите здесь, только если вы добавили новый ключ приложения и секрет "
+"приложения. Снова появится кнопка подключения, которую необходимо нажать."
+
+#: admin/panel.php:616
+msgid "Conectado a Dropbox"
+msgstr "Подключено к Dropbox"
+
+#: admin/panel.php:619
+msgid "Conectar a Dropbox"
+msgstr "Подключиться к Dropbox"
+
+#: admin/panel.php:632
+msgid ""
+"¿Tienes un servidor externo? Realiza la conexión vía FTP para que los "
+"archivos importados sea subido a su propio servidor."
+msgstr ""
+"У вас есть внешний сервер? Установите соединение через FTP, чтобы "
+"импортированные файлы можно было загрузить на ваш собственный сервер."
+
+#: admin/panel.php:635
+msgid "Nombre o IP del servidor"
+msgstr "Имя сервера или IP"
+
+#: admin/panel.php:639
+msgid "Puerto"
+msgstr "Порт"
+
+#: admin/panel.php:643 includes/widget-twitter.php:46
+msgid "Usuario"
+msgstr "Пользователь"
+
+#: admin/panel.php:647
+msgid "Contraseña"
+msgstr "Пароль"
+
+#: admin/panel.php:651
+msgid "Directorio"
+msgstr "Каталог"
+
+#: admin/panel.php:652
+msgid "Ubica la ruta exacta donde se guardarán los archivos"
+msgstr "Найдите точный путь, по которому файлы будут сохранены"
+
+#: admin/panel.php:659
+msgid "URL"
+msgstr "URL"
+
+#: admin/panel.php:660
+msgid "Coloca la dirección con la que se accederá a tus archivos"
+msgstr "Укажите адрес, с которого будут доступны ваши файлы"
+
+#: admin/panel.php:667
+msgid "Recuerda guardar los cambios para probar la conexión"
+msgstr "Не забудьте сохранить изменения, чтобы проверить соединение"
+
+#: admin/panel.php:668
+msgid "Probar conexión FTP"
+msgstr "Проверить FTP-соединение"
+
+#: admin/panel.php:680
+msgid "Genera una API Key en 1Fichier"
+msgstr "Сгенерируйте API-ключ в 1Fichier"
+
+#: admin/panel.php:694
+msgid "Crea una app en OneDrive"
+msgstr "Создайте приложение в OneDrive"
+
+#: admin/panel.php:721
+msgid "Conectado a OneDrive"
+msgstr "Подключено к OneDrive"
+
+#: admin/panel.php:724
+msgid "Conectar a OneDrive"
+msgstr "Подключиться к OneDrive"
+
+#: admin/panel.php:735 functions.php:1268
+msgid "Leer más"
+msgstr "Подробнее"
+
+#: admin/panel.php:736
+msgid "Muestra todo el contenido del post o déjalo con el botón 'leer más'"
+msgstr ""
+"Показать все содержание сообщения или оставить его, нажав кнопку «подробнее»"
+
+#: admin/panel.php:740
+msgid "Leer más (defecto)"
+msgstr "Узнать больше (по умолчанию)"
+
+#: admin/panel.php:742
+msgid "Mostrar todo"
+msgstr "Показать все"
+
+#: admin/panel.php:747
+msgid "¿Cómo funciona esto?"
+msgstr "Как это работает?"
+
+#: admin/panel.php:749
+msgid "Normal"
+msgstr "Обычный"
+
+#: admin/panel.php:751
+msgid "Página interna"
+msgstr "Внутренняя страница"
+
+#: admin/panel.php:752
+msgid "Página interna con doble paso"
+msgstr "Внутренняя страница с двойным шагом"
+
+#: admin/panel.php:753
+msgid "Página única"
+msgstr "одна страница"
+
+#: admin/panel.php:758
+msgid "Completar reCaptcha"
+msgstr "Завершить reCaptcha"
+
+#: admin/panel.php:758
+#, php-format
+msgid ""
+"Tiene que completar los códigos de reCaptcha v2 en los campos requeridos en "
+"%s"
+msgstr "Вы должны заполнить коды reCaptcha v2 в обязательных полях в %s"
+
+#: admin/panel.php:759
+msgid ""
+"Opción que solicitará al usuario completar el reCaptcha para ver los enlaces "
+"de descarga."
+msgstr ""
+"Опция, которая попросит пользователя заполнить reCaptcha, чтобы увидеть "
+"ссылки для скачивания."
+
+#: admin/panel.php:770
+msgid "Estilo de los enlaces de descarga"
+msgstr "Стиль ссылок для скачивания"
+
+#: admin/panel.php:771
+msgid "Escoge el estilo de los enlaces de descarga"
+msgstr "Выберите стиль ссылок для скачивания"
+
+#: admin/panel.php:774
+msgid "En fila"
+msgstr "В линию"
+
+#: admin/panel.php:776
+msgid "En fila centrado"
+msgstr "По центру строки"
+
+#: admin/panel.php:778
+msgid "En columna"
+msgstr "В столбце"
+
+#: admin/panel.php:786
+msgid "Verificado por..."
+msgstr "Проверено..."
+
+#: admin/panel.php:787
+msgid "Texto alternativo que se mostrará debajo de los enlaces de descarga"
+msgstr ""
+"Альтернативный текст, который будет отображаться под ссылками для скачивания"
+
+#: admin/panel.php:791
+msgid "Centrado"
+msgstr "Центр"
+
+#: admin/panel.php:799
+msgid "Únete a nuestro grupo de telegram"
+msgstr "Присоединяйтесь к нашей группе Telegram"
+
+#: admin/panel.php:800
+msgid ""
+"Botón para unirse a Telegram que aparecerá debajo de \"Verificado por...\""
+msgstr ""
+"Кнопка для присоединения к Telegram, которая отображается под надписью "
+"«Проверено…»"
+
+#: admin/panel.php:804 includes/template-actions.php:1130
+msgid "ÚNETE A NUESTRO GRUPO DE TELEGRAM"
+msgstr "ПРИСОЕДИНЯЙТЕСЬ К НАШЕЙ ТЕЛЕГРАММНОЙ ГРУППЕ"
+
+#: admin/panel.php:809
+msgid "Temporizador de redirección"
+msgstr "Таймер перенаправления"
+
+#: admin/panel.php:810
+msgid "Temporizador para la redirección del enlace de descarga"
+msgstr "Таймер для перенаправления ссылки для скачивания"
+
+#: admin/panel.php:813 admin/panel.php:825
+msgid "segundos"
+msgstr "секунды"
+
+#: admin/panel.php:821
+msgid "Temporizador de descarga"
+msgstr "Таймер загрузки"
+
+#: admin/panel.php:822
+msgid "Temporizador para mostrar los enlaces de descarga"
+msgstr "Таймер для отображения ссылок для скачивания"
+
+#: admin/panel.php:833
+msgid "Diseño de temporizador"
+msgstr "дизайн таймера"
+
+#: admin/panel.php:835
+msgid "Tipo 1"
+msgstr "Тип 1"
+
+#: admin/panel.php:836
+msgid "Tipo 2"
+msgstr "Тип 2"
+
+#: admin/panel.php:840
+msgid "Ordenar cajas"
+msgstr "Сортировать коробки"
+
+#: admin/panel.php:841
+msgid "Modifica el orden de las cajas a tu gusto"
+msgstr "Измените порядок ящиков по своему вкусу"
+
+#: admin/panel.php:846
+msgid "ADS Single Center"
+msgstr "ADS Single Center"
+
+#: admin/panel.php:847 functions.php:534 includes/template-actions.php:541
+msgid "Novedades"
+msgstr "Какие новости"
+
+#: admin/panel.php:848 functions.php:309 includes/template-actions.php:435
+msgid "Versiones"
+msgstr "Версии"
+
+#: admin/panel.php:849 includes/template-actions.php:650
+msgid "Video"
+msgstr "видео"
+
+#: admin/panel.php:850 includes/template-actions.php:565
+msgid "Imágenes"
+msgstr "Изображений"
+
+#: admin/panel.php:852 admin/panel.php:1184 includes/template-actions.php:713
+msgid "Apps relacionadas"
+msgstr "Связанные приложения"
+
+#: admin/panel.php:853
+msgid "Apps desarrollador"
+msgstr "Приложения для разработчиков"
+
+#: admin/panel.php:854 functions.php:314
+msgid "Cajas personalizadas"
+msgstr "Пользовательские коробки"
+
+#: admin/panel.php:855 admin/panel.php:1150
+msgid "Etiquetas"
+msgstr "Теги"
+
+#: admin/panel.php:860 functions.php:409 includes/ajax.php:115
+#, php-format
+msgid "Caja permanente %s"
+msgstr "Постоянный ящик %s"
+
+#: admin/panel.php:864 admin/panel.php:1024
+msgid "Comentarios"
+msgstr "Комментарии"
+
+#: admin/panel.php:881
+msgid "Cajas a quitar en la página de (descarga / redirección) interna "
+msgstr "Ящики для удаления на внутренней странице (загрузка / перенаправление)"
+
+#: admin/panel.php:882
+msgid ""
+"Marca las cajas que no quieres que aparezca en la página de descarga o "
+"redirección interna."
+msgstr ""
+"Установите флажки, которые не должны отображаться на странице загрузки или "
+"внутреннего перенаправления."
+
+#: admin/panel.php:901
+msgid "Cantidad en la entrada"
+msgstr "Сумма в посте"
+
+#: admin/panel.php:902
+msgid "Escoge la cantidad de versiones que aparecerá en la caja de la entrada"
+msgstr ""
+"Выберите количество версий, которые будут отображаться в почтовом ящике."
+
+#: admin/panel.php:907
+msgid "Cajas a quitar de la entrada de versión antigua"
+msgstr "Ящики, которые необходимо удалить из записи старой версии"
+
+#: admin/panel.php:908
+msgid ""
+"Marca las cajas que no quieres que aparezca en las entradas de historial de "
+"versiones."
+msgstr ""
+"Отметьте поля, которые вы не хотите отображать в сообщениях истории версий."
+
+#: admin/panel.php:922
+msgid "Mostrar enlace directo de descarga"
+msgstr "Показать прямую ссылку для скачивания"
+
+#: admin/panel.php:922
+msgid ""
+"Esta opción permitirá mostrar el enlace de descarga de la versión antigua "
+"sin necesidad que el usuario acceda al post a descargar. Mostrará el primer "
+"enlace de descarga. En caso no exista, el enlace será hacia el post."
+msgstr ""
+"Эта опция покажет ссылку для скачивания старой версии, и пользователю не "
+"потребуется доступ к публикации для загрузки. Будет показана первая ссылка "
+"для скачивания. Если его не существует, ссылка будет на публикацию."
+
+#: admin/panel.php:923
+msgid "Permitir ir al primer enlace de descarga directamente"
+msgstr "Разрешить переход напрямую к первой ссылке для скачивания"
+
+#: admin/panel.php:940
+msgid "Logo"
+msgstr "Logo"
+
+#: admin/panel.php:941
+msgid "La imagen debe tener un límite de 60px de altura."
+msgstr "Изображение должно иметь ограничение по высоте 60 пикселей."
+
+#: admin/panel.php:952
+msgid "Favicon"
+msgstr "Фавикон"
+
+#: admin/panel.php:961
+#, php-format
+msgid "Sube tus favicons de distintos tamaños para todos los dispositivos. %s"
+msgstr "Загрузите значки разных размеров для всех устройств. %s"
+
+#: admin/panel.php:961
+msgid "Leer tutorial"
+msgstr "Прочитать руководство"
+
+#: admin/panel.php:966
+msgid "Redes sociales"
+msgstr "Социальные сети"
+
+#: admin/panel.php:970 admin/panel.php:973
+msgid "Color"
+msgstr "Цвет"
+
+#: admin/panel.php:972
+msgid "Gris"
+msgstr "серый"
+
+#: admin/panel.php:1003
+msgid "Textos"
+msgstr "Тексты"
+
+#: admin/panel.php:1004
+msgid "Modifica algunos textos por defecto"
+msgstr "Измените некоторые тексты по умолчанию"
+
+#: admin/panel.php:1009 functions.php:124 includes/template-functions.php:1185
+msgid "Aplicaciones más calificadas"
+msgstr "Приложения с самым высоким рейтингом"
+
+#: admin/panel.php:1012 functions.php:125 includes/template-functions.php:1186
+msgid "Últimas aplicaciones de nuestra web"
+msgstr "Последние приложения"
+
+#: admin/panel.php:1018
+msgid "Botón descargar APK"
+msgstr "Кнопка загрузки APK"
+
+#: admin/panel.php:1025
+msgid "Puedes mostrar los comentarios de Wordpress y también los de Facebook."
+msgstr ""
+"Вы можете отображать комментарии Wordpress, а также комментарии Facebook."
+
+#: admin/panel.php:1029
+msgid "Comentarios de Wordpress"
+msgstr "Комментарии Wordpress"
+
+#: admin/panel.php:1032 comments.php:42
+msgid "Comentarios de Facebook"
+msgstr "Комментарии в Facebook"
+
+#: admin/panel.php:1035
+msgid "Comentarios de Wordpress y Facebook"
+msgstr "Комментарии Wordpress и Facebook"
+
+#: admin/panel.php:1038
+msgid "Desactivar comentarios"
+msgstr "Отключить комментарии"
+
+#: admin/panel.php:1043 admin/panel.php:1401
+msgid "Códigos header"
+msgstr "Коды заголовков"
+
+#: admin/panel.php:1044
+msgid ""
+"Coloca los códigos en el header, como: Google Analytics, Webmasters, Alexa, "
+"etc."
+msgstr ""
+"Поместите коды в шапку, например: Google Analytics, Webmasters, Alexa и т. Д."
+
+#: admin/panel.php:1049
+msgid "Códigos Recaptcha v3"
+msgstr "Ключи Recaptcha v3"
+
+#: admin/panel.php:1050
+msgid ""
+"Para poder evitar que robots envíen los reportes automáticamente se "
+"recomienda usar recaptcha."
+msgstr ""
+"Чтобы роботы не отправляли отчеты автоматически, рекомендуется использовать "
+"recaptcha."
+
+#: admin/panel.php:1050 admin/panel.php:1070
+msgid "Obtener claves"
+msgstr "Получить ключи"
+
+#: admin/panel.php:1057 admin/panel.php:1077
+msgid "Clave del sitio"
+msgstr "Ключ сайта"
+
+#: admin/panel.php:1061 admin/panel.php:1081
+msgid "Clave secreta"
+msgstr "Секретный ключ"
+
+#: admin/panel.php:1069
+msgid "Códigos Recaptcha v2"
+msgstr "Ключи Recaptcha v2"
+
+#: admin/panel.php:1070
+msgid "Complete los códigos de reCaptcha v2."
+msgstr "Введите коды reCaptcha v2"
+
+#: admin/panel.php:1089
+msgid "Lazy loading"
+msgstr "Lazy loading"
+
+#: admin/panel.php:1089
+msgid ""
+"Con esta función podrás retrasar la carga de imágenes. Esto hará que la web "
+"en general cargue más rápido debido a que las imágenes no cargarán "
+"inicialmente."
+msgstr ""
+"С помощью этой функции вы можете отложить загрузку изображений. Это ускорит "
+"загрузку Интернета в целом, поскольку изображения не загружаются изначально."
+
+#: admin/panel.php:1090
+msgid "Retrasar carga de imágenes"
+msgstr "Отложить загрузку изображений"
+
+#: admin/panel.php:1100
+msgid "Apps de versiones anteriores"
+msgstr "Приложения предыдущих версий"
+
+#: admin/panel.php:1101
+msgid ""
+"Controla la aparición de apps de versiones anteriores en diferentes partes. "
+"Solo aparecerán las últimas versiones."
+msgstr ""
+"Управляйте внешним видом приложений из предыдущих версий в разных частях. "
+"Будут появляться только последние версии."
+
+#: admin/panel.php:1108
+msgid "Inicio"
+msgstr "Дом"
+
+#: admin/panel.php:1115
+msgid "Categorías (Inicio)"
+msgstr "Категории (Главная)"
+
+#: admin/panel.php:1122
+msgid "Apps más calificadas (Inicio)"
+msgstr "Приложения с самым высоким рейтингом (главная)"
+
+#: admin/panel.php:1129
+msgid "Buscador"
+msgstr "Поиск"
+
+#: admin/panel.php:1136
+msgid "Taxonomía desarrollador"
+msgstr "Таксономия разработчиков"
+
+#: admin/panel.php:1143 functions.php:202 functions.php:207
+#: includes/widget-categories.php:9 includes/widget-categories.php:19
+#: includes/widget-categories.php:41
+msgid "Categorías"
+msgstr "Категории"
+
+#: admin/panel.php:1157
+msgid "Widgets"
+msgstr "Widgets"
+
+#: admin/panel.php:1165
+msgid "Fecha de cada post"
+msgstr "Дата публикации"
+
+#: admin/panel.php:1166
+msgid ""
+"Muestra la fecha en que fue creado el post en todas partes (Inicio, Widgets,"
+"etc.)"
+msgstr "Показывает дату публикации везде (Дом, Виджеты и т. Д.)"
+
+#: admin/panel.php:1176
+msgid "Tipo de fecha"
+msgstr "Тип даты"
+
+#: admin/panel.php:1178
+msgid "Fecha de creación del post"
+msgstr "Дата создания публикации"
+
+#: admin/panel.php:1180
+msgid "Fecha de última actualización de la app"
+msgstr "Дата последнего обновления приложения"
+
+#: admin/panel.php:1185
+msgid "Escoger la manera de mostrar apps relacionadas"
+msgstr "Выберите способ отображения связанных приложений"
+
+#: admin/panel.php:1191
+msgid "Por categoría(s)"
+msgstr "По категориям"
+
+#: admin/panel.php:1194
+msgid "Por etiqueta(s)"
+msgstr "По тегам"
+
+#: admin/panel.php:1197
+msgid "Por título similar"
+msgstr "По похожему названию"
+
+#: admin/panel.php:1200
+msgid "Al azar"
+msgstr "Случайный"
+
+#: admin/panel.php:1204
+msgid "Información para descargar los archivos"
+msgstr "Информация для скачивания файлов"
+
+#: admin/panel.php:1205
+msgid "Escribe los pasos que servirán de ayuda para el usuario."
+msgstr "Напишите шаги, которые помогут пользователю."
+
+#: admin/panel.php:1206
+msgid "Autocompletar texto por defecto"
+msgstr "Автозаполнение текста по умолчанию"
+
+#: admin/panel.php:1216
+msgid "Título de la aplicación"
+msgstr "Заголовок приложения"
+
+#: admin/panel.php:1217
+msgid "Para archivos APK"
+msgstr "Для файлов APK"
+
+#: admin/panel.php:1220
+msgid "Para archivos ZIP"
+msgstr "Для файлов ZIP"
+
+#: admin/panel.php:1221
+msgid ""
+"Algunos ZIP pueden obtener archivos APK y OBB necesarios para la "
+"instalación, por ello se debe recomendar usar una aplicación para instalar "
+"ese tipo de archivos, nosotros recomendamos \"Split APKs Installer\"."
+msgstr ""
+"Некоторые ZIP-файлы могут содержать файлы APK и OBB, необходимые для "
+"установки, поэтому рекомендуется использовать приложение для установки "
+"файлов этого типа, мы рекомендуем \"Split APKs Installer\"."
+
+#: admin/panel.php:1221
+msgid "Ver aplicación"
+msgstr "Посмотреть приложение"
+
+#: admin/panel.php:1226
+msgid "Encriptar enlaces"
+msgstr "Зашифровать ссылки"
+
+#: admin/panel.php:1227
+msgid "Con esta función podrás encriptar los enlaces de descarga."
+msgstr "С помощью этой функции вы сможете зашифровать ссылки для скачивания."
+
+#: admin/panel.php:1237
+msgid "Solicitar correo electrónico en reportes"
+msgstr "Запросить электронную почту в отчетах"
+
+#: admin/panel.php:1238
+msgid ""
+"Activa esta opción si quieres que se le solicite el correo electrónico al "
+"usuario que realiza el reporte."
+msgstr ""
+"Активируйте эту опцию, если вы хотите, чтобы пользователю, составляющему "
+"отчет, предлагалось ввести адрес электронной почты."
+
+#: admin/panel.php:1248
+msgid "Enviar reporte por correo electrónico"
+msgstr "Отправить отчет по электронной почте"
+
+#: admin/panel.php:1249
+msgid ""
+"Activa esta opción si quieres que el reporte enviado por el usuario sea "
+"enviado a tu email de administrador."
+msgstr ""
+"Активируйте эту опцию, если вы хотите, чтобы отчет, отправленный "
+"пользователем, был отправлен на ваш адрес электронной почты администратора."
+
+#: admin/panel.php:1259
+msgid "Cinta \"actualizado\" desde la modificación del post"
+msgstr "Лента \"обновлена\" после модификации поста"
+
+#: admin/panel.php:1259
+msgid ""
+"La cinta de \"Actualizado\" se muestra en los posts durante 15 días de "
+"creado el post. Al activar esta opción se basará en los 15 días de "
+"modificado el post."
+msgstr ""
+"Лента «Обновлено» отображается в сообщениях в течение 15 дней после создания "
+"сообщения. Активация этой опции будет основана на 15 днях после изменения "
+"сообщения."
+
+#: admin/panel.php:1260
+msgid "Opción que permitirá mostrar la cinta desde la modificación del post"
+msgstr "Вариант, который позволит показать ленту из модификации поста"
+
+#: admin/panel.php:1270
+msgid "Desactivar notificaciones de apps por actualizar"
+msgstr "Отключить уведомления для приложений для обновления"
+
+#: admin/panel.php:1285
+msgid "Sección Blog en Home"
+msgstr "Раздел блога на Доме"
+
+#: admin/panel.php:1286
+msgid "Coloque la cantidad de posts que debe aparecer en el home."
+msgstr ""
+"Укажите количество сообщений, которые должны появиться на главной странице."
+
+#: admin/panel.php:1296
+msgid "Blog Page"
+msgstr "Страница блога"
+
+#: admin/panel.php:1297
+msgid "Coloque la cantidad de posts que debe aparecer en la página blog"
+msgstr ""
+"Разместите количество сообщений, которые должны появиться на странице блога"
+
+#: admin/panel.php:1307
+msgid "Blog Sidebar"
+msgstr "Blog Sidebar"
+
+#: admin/panel.php:1308
+msgid ""
+"Activa esta opción para que puedas agregar widgets al sidebar exclusivo del "
+"área de blog"
+msgstr ""
+"Активируйте эту опцию, чтобы вы могли добавлять виджеты на эксклюзивную "
+"боковую панель области блога."
+
+#: admin/panel.php:1314
+msgid "Agregar Widgets"
+msgstr "Добавить виджеты"
+
+#: admin/panel.php:1325
+msgid "Activo"
+msgstr "Активный"
+
+#: admin/panel.php:1326
+msgid "Activar o desactivar el sidebar."
+msgstr "Активировать или деактивировать боковую панель."
+
+#: admin/panel.php:1335
+msgid "Posición del sidebar"
+msgstr "Положение боковой панели"
+
+#: admin/panel.php:1336
+msgid "Escoja la ubicación del sidebar."
+msgstr "Выберите положение боковой панели."
+
+#: admin/panel.php:1340
+msgid "Derecha"
+msgstr "Верно"
+
+#: admin/panel.php:1342
+msgid "Izquierda"
+msgstr "Левый"
+
+#: admin/panel.php:1351
+msgid "Estilo de color"
+msgstr "Цвет Стиль"
+
+#: admin/panel.php:1352
+msgid "Escoja el tipo de tono que tendrá el tema."
+msgstr "Выберите тип тона, который будет иметь тема."
+
+#: admin/panel.php:1355
+msgid "Claro"
+msgstr "Свет"
+
+#: admin/panel.php:1357
+msgid "Oscuro"
+msgstr "Темный"
+
+#: admin/panel.php:1359
+msgid "Navegador"
+msgstr "Браузер"
+
+#: admin/panel.php:1363
+msgid "Que el usuario escoja color"
+msgstr "Позвольте пользователю выбрать цвет"
+
+#: admin/panel.php:1364
+msgid "Permitir que el usuario seleccione el color del tema."
+msgstr "Разрешить пользователю выбирать цвет темы."
+
+#: admin/panel.php:1372
+msgid "Color principal"
+msgstr "Основной цвет"
+
+#: admin/panel.php:1373
+msgid "Escoja el color principal del tema."
+msgstr "Выберите основной цвет темы."
+
+#: admin/panel.php:1396
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: admin/panel.php:1397
+msgid "Coloca el ID de Analytics"
+msgstr "Поместите идентификатор аналитики"
+
+#: admin/panel.php:1402
+#, php-format
+msgid "Coloca los códigos en el header (dentro de la etiqueta %s)"
+msgstr "Поместите коды в шапку (внутри тега %s)"
+
+#: admin/panel.php:1406
+msgid "Códigos body"
+msgstr "Коды тела"
+
+#: admin/panel.php:1407
+#, php-format
+msgid "Coloca códigos debajo de la etiqueta %s"
+msgstr "Put codes under the %s tag"
+
+#: admin/panel.php:1411
+msgid "Añade el código de anuncio para la versión AMP"
+msgstr "Добавьте рекламный код для версии AMP"
+
+#: admin/panel.php:1417
+msgid "Añade el código de anuncio para esas secciones en la versión AMP."
+msgstr "Добавьте рекламный код для этих разделов в версию AMP."
+
+#: admin/panel.php:1423
+msgid "Añade el código de anuncio para el single y page en la versión AMP."
+msgstr "Добавьте рекламный код для сингла и страницы в версию AMP."
+
+#: admin/panel.php:1430
+msgid ""
+"Añade el código de anuncio para el single y page en la parte central en la "
+"versión AMP."
+msgstr "Добавьте рекламный код для сингла и страницы посередине в версии AMP."
+
+#: admin/panel.php:1437 admin/panel.php:1509 admin/panel.php:1517
+#: admin/panel.php:1525 admin/panel.php:1533
+msgid "(Página interna)"
+msgstr "(Внутренняя страница)"
+
+#: admin/panel.php:1438
+msgid ""
+"Añade el código de anuncio para la parte superior de los enlaces de descarga "
+"en la página interna de la versión AMP."
+msgstr ""
+"Добавьте рекламный код вверху ссылок для скачивания на внутренней странице "
+"AMP-версии."
+
+#: admin/panel.php:1450
+msgid "Texto encima de cada anuncio (Opcional)"
+msgstr "Текст над каждым объявлением (необязательно)"
+
+#: admin/panel.php:1451
+msgid "Coloca un texto encima de cada anuncio."
+msgstr "Поместите текст поверх каждого объявления."
+
+#: admin/panel.php:1457
+msgid "Añade el código de anuncio debajo del header."
+msgstr "Добавьте рекламный код под заголовком."
+
+#: admin/panel.php:1462 admin/panel.php:1476 admin/panel.php:1489
+#: admin/panel.php:1501 admin/panel.php:1525 admin/panel.php:1533
+#: admin/panel.php:1565 admin/panel.php:1573 admin/panel.php:1581
+msgid "Móvil"
+msgstr "Мобильный"
+
+#: admin/panel.php:1463
+msgid "Añade el código de anuncio para la versión móvil"
+msgstr "Добавьте рекламный код для мобильной версии"
+
+#: admin/panel.php:1470
+msgid "Añade el código de anuncio para esas secciones."
+msgstr "Добавьте рекламный код для этих разделов."
+
+#: admin/panel.php:1477
+msgid "Añade el código de anuncio para esas secciones en la versión móvil."
+msgstr "Добавьте рекламный код для этих разделов в мобильную версию."
+
+#: admin/panel.php:1484
+msgid "Añade el código de anuncio para el single y page."
+msgstr "Добавьте рекламный код для сингла и страницы."
+
+#: admin/panel.php:1490
+msgid "Añade el código de anuncio para el single y page en la versión móvil."
+msgstr "Добавьте рекламный код для сингла и страницы в мобильной версии."
+
+#: admin/panel.php:1496
+msgid "Añade el código de anuncio para el single y page en la parte central."
+msgstr "Добавьте рекламный код для сингла и страницы посередине."
+
+#: admin/panel.php:1502
+msgid ""
+"Añade el código de anuncio para el single y page en la parte central en la "
+"versión móvil."
+msgstr ""
+"Добавьте рекламный код для сингла и страницы посередине в мобильной версии."
+
+#: admin/panel.php:1510
+msgid ""
+"Añade el código de anuncio para la parte superior de los enlaces de descarga "
+"en la página interna."
+msgstr ""
+"Добавьте рекламный код вверху ссылок для скачивания на внутренней странице."
+
+#: admin/panel.php:1518
+msgid ""
+"Añade el código de anuncio para la parte inferior de los enlaces de descarga "
+"en la página interna."
+msgstr ""
+"Добавьте рекламный код внизу ссылок для скачивания на внутренней странице."
+
+#: admin/panel.php:1526
+msgid ""
+"Añade el código de anuncio para la parte superior de los enlaces de descarga "
+"en la página interna en la versión móvil."
+msgstr ""
+"Добавьте рекламный код вверху ссылок для скачивания на внутренней странице в "
+"мобильной версии."
+
+#: admin/panel.php:1534
+msgid ""
+"Añade el código de anuncio para la parte inferior de los enlaces de descarga "
+"en la página interna en la versión móvil."
+msgstr ""
+"Добавьте рекламный код внизу ссылок для скачивания на внутренней странице в "
+"мобильной версии."
+
+#: admin/panel.php:1541 admin/panel.php:1549 admin/panel.php:1557
+#: admin/panel.php:1565 admin/panel.php:1573 admin/panel.php:1581
+msgid "(Página única)"
+msgstr "(одна страница)"
+
+#: admin/panel.php:1542
+msgid ""
+"Añade el código de anuncio para la parte superior de los enlaces de descarga "
+"en la página única."
+msgstr ""
+"Добавьте рекламный код в верхнюю часть ссылок для скачивания на отдельной "
+"странице."
+
+#: admin/panel.php:1550 admin/panel.php:1558
+msgid ""
+"Añade el código de anuncio para la parte inferior de los enlaces de descarga "
+"en la página única."
+msgstr ""
+"Добавьте рекламный код в нижнюю часть ссылок для скачивания на отдельной "
+"странице."
+
+#: admin/panel.php:1566
+msgid ""
+"Añade el código de anuncio para la parte superior de los enlaces de descarga "
+"en la página única en la versión móvil."
+msgstr ""
+"Добавьте рекламный код в верхнюю часть ссылок для скачивания на отдельной "
+"странице для мобильных устройств."
+
+#: admin/panel.php:1574 admin/panel.php:1582
+msgid ""
+"Añade el código de anuncio para la parte inferior de los enlaces de descarga "
+"en la página única en la versión móvil."
+msgstr ""
+"Добавьте рекламный код в нижнюю часть ссылок для скачивания на отдельной "
+"странице для мобильных устройств."
+
+#: admin/panel.php:1594
+msgid "Texto Footer"
+msgstr "Текстовый нижний колонтитул"
+
+#: admin/panel.php:1595
+msgid "Coloca cualquier texto en el footer. Permite HTML."
+msgstr "Поместите любой текст в нижний колонтитул. Разрешает HTML."
+
+#: admin/panel.php:1600
+msgid "Códigos Footer"
+msgstr "Коды нижнего колонтитула"
+
+#: admin/panel.php:1642
+msgid ""
+"Estos valores son importantes para poder descargar y/o subir el APK de gran "
+"peso a su servidor o servidores externos."
+msgstr ""
+"Эти значения важны для того, чтобы иметь возможность загружать или выгружать "
+"тяжелый APK на ваш сервер или внешние серверы."
+
+#: admin/panel.php:1642
+msgid "¿Cómo cambiar estos valores?"
+msgstr "Как изменить эти значения?"
+
+#: admin/panel.php:1647
+msgid "Activado"
+msgstr "Активирован"
+
+#: admin/panel.php:1647
+msgid "Desactivado"
+msgstr "Деактивировано"
+
+#: admin/panel.php:1651 admin/panel.php:1655
+msgid "Se recomienda mayor o igual a 300"
+msgstr "Рекомендуется больше или равно 300"
+
+#: admin/panel.php:1659 admin/panel.php:1663 admin/panel.php:1667
+msgid "Se recomienda mayor o igual a 4G"
+msgstr "Рекомендуется больше или равно 4G"
+
+#: admin/panel.php:1879
+msgid "Número de elementos por página"
+msgstr "Количество элементов на странице"
+
+#: amp/single-versions.php:27 single-versions.php:27
+msgid "Regresar"
+msgstr "Назад"
+
+#: archive-blog.php:21 archive.php:37 category.php:32
+#: includes/widget-mas-calificados.php:48
+#: includes/widget-mas-vistos-blog.php:40 includes/widget-mas-vistos.php:48
+#: includes/widget-mejor-calificados.php:49
+#: includes/widget-ultimos-posts-blog.php:39
+#: includes/widget-ultimos-posts.php:47 search.php:15 tag.php:26
+#: taxonomy-cblog.php:26 taxonomy-dev.php:27
+msgid "No hay entradas"
+msgstr "Нет входа"
+
+#: archive.php:7 archive.php:10
+msgid "Apps"
+msgstr "Программы"
+
+#: archive.php:13
+msgid "Apps de"
+msgstr "Приложения от"
+
+#: comments.php:10
+msgid "Un comentario en"
+msgstr "Комментарий к"
+
+#: comments.php:10
+msgid "comentarios en"
+msgstr "Комментарии на"
+
+#: comments.php:29
+msgid "Comentarios cerrados"
+msgstr "Комментарии закрыты"
+
+#: functions.php:17
+msgid "menu"
+msgstr "mеню"
+
+#: functions.php:19
+msgid "menu movil"
+msgstr "меню movil"
+
+#: functions.php:21
+msgid "menu footer"
+msgstr "меню footer"
+
+#: functions.php:80
+msgid "Theme Appyn para aplicaciones Android"
+msgstr "Theme Appyn для приложений Android"
+
+#: functions.php:90
+msgid "Derechos reservados"
+msgstr "Все права защищены"
+
+#: functions.php:109 functions.php:145
+msgid "¿Cómo instalar [Title] APK?"
+msgstr "Как установить [Title] APK?"
+
+#: functions.php:110 functions.php:146
+msgid "1. Toca el archivo [Title] APK descargado."
+msgstr "1. Коснитесь загруженного APK-файла [Title]."
+
+#: functions.php:111 functions.php:147
+msgid "2. Toca instalar."
+msgstr "2. Коснитесь установить."
+
+#: functions.php:112 functions.php:148
+msgid "3. Sigue los pasos que aparece en pantalla."
+msgstr "3. Следуйте инструкциям на экране."
+
+#: functions.php:116 functions.php:152
+msgid "¿Cómo instalar [Title]?"
+msgstr "Как установить [Title]?"
+
+#: functions.php:117 functions.php:153
+msgid "1. Descargar el archivo ZIP."
+msgstr "1. Загрузите ZIP-файл."
+
+#: functions.php:118 functions.php:154
+#, php-format
+msgid "2. Instale la aplicación %s"
+msgstr "2. Установите приложение %s."
+
+#: functions.php:119 functions.php:155
+msgid "3. Abra la aplicación y pulse en \"Instalar APKs\"."
+msgstr "3. Откройте приложение и нажмите \"Установить APK\"."
+
+#: functions.php:120 functions.php:156
+msgid ""
+"4. Busque la carpeta donde se encuentra el ZIP descargado y selecciónelo."
+msgstr ""
+"4. Найдите папку, в которой находится загруженный ZIP-файл, и выберите его."
+
+#: functions.php:121 functions.php:157
+msgid "5. Sigue los pasos que aparece en pantalla."
+msgstr "5. Следуйте инструкциям на экране."
+
+#: functions.php:127 template-parts/single-infoapp.php:26
+msgid "Descargar APK"
+msgstr "Скачать APK"
+
+#: functions.php:190 functions.php:195 includes/ajax.php:31
+#: includes/template-actions.php:1469 includes/template-actions.php:1475
+#: taxonomy-dev.php:5
+msgid "Desarrollador"
+msgstr "Разработчик"
+
+#: functions.php:229
+msgid "versiones"
+msgstr "версии"
+
+#: functions.php:310
+msgid "Información de la aplicación"
+msgstr "Информация о приложении"
+
+#: functions.php:311
+msgid "Video de la aplicación"
+msgstr "Приложение Видео"
+
+#: functions.php:312
+msgid "Imágenes de la aplicación"
+msgstr "Изображения приложений"
+
+#: functions.php:313
+msgid "Enlaces de descarga de la aplicación"
+msgstr "Ссылки для скачивания приложения"
+
+#: functions.php:315
+msgid "Cajas personalizadas permanentes"
+msgstr "Постоянные нестандартные ящики"
+
+#: functions.php:316
+msgid "Control de anuncios"
+msgstr "Контроль рекламы"
+
+#: functions.php:327 includes/class-list-table-atul.php:144
+msgid "Fecha de actualización"
+msgstr "Дата обновления"
+
+#: functions.php:386
+msgid "No hay versiones"
+msgstr "нет версий"
+
+#: functions.php:398
+msgid "Desactivar anuncios"
+msgstr "Отключить рекламу"
+
+#: functions.php:410 functions.php:430 includes/ajax.php:96
+#: includes/ajax.php:116
+msgid "Título para la caja"
+msgstr "Заголовок коробки"
+
+#: functions.php:414 functions.php:434 includes/ajax.php:102
+#: includes/ajax.php:120
+msgid "Borrar caja"
+msgstr "Удалить поле"
+
+#: functions.php:419 functions.php:439
+msgid "Añadir caja"
+msgstr "Добавить коробку"
+
+#: functions.php:449
+msgid "Estado de aplicación"
+msgstr "Статус приложения"
+
+#: functions.php:450
+msgid ""
+"Con esta opción aparecerá una franja en cada aplicación lo cual indicará si "
+"se ha actualizado o es una aplicación nueva. La opción activa tendrá un "
+"tiempo de duración de 2 semanas basada en la fecha de publicación del post. "
+"Por ejemplo, si usted marca \"Actualizado\" y la fecha de creación del post "
+"es hoy, la franja aparecerá solo por 2 semanas."
+msgstr ""
+"С этой опцией в каждом приложении появится полоса, в которой будет указано, "
+"было ли оно обновлено или является новым приложением. Активный вариант будет "
+"иметь продолжительность 2 недели в зависимости от даты публикации сообщения. "
+"Например, если вы отметите «Обновлено», а дата создания публикации - "
+"сегодня, полоса будет отображаться только в течение 2 недель."
+
+#: functions.php:464 includes/template-actions.php:1497
+#: template-parts/template-download.php:22
+msgid "Tamaño"
+msgstr "Размер"
+
+#: functions.php:468
+msgid "Última actualización"
+msgstr "Обновлено"
+
+#: functions.php:472 includes/template-actions.php:442
+#: includes/template-actions.php:1513 template-parts/template-download.php:26
+msgid "Requerimientos"
+msgstr "Требования"
+
+#: functions.php:476 includes/template-actions.php:1530
+msgid "Consíguelo en"
+msgstr "Получите это"
+
+#: functions.php:484
+msgid "Número de votos"
+msgstr "Количество голосов"
+
+#: functions.php:488
+msgid "Media"
+msgstr "В среднем"
+
+#: functions.php:492 includes/template-actions.php:1521
+msgid "Descargas"
+msgstr "загрузки"
+
+#: functions.php:495
+msgid "Tipo de aplicación (Categoría)"
+msgstr "Тип приложения (Категория)"
+
+#: functions.php:504
+msgid "Sistema operativo"
+msgstr "Операционная система"
+
+#: functions.php:518
+msgid "Gratis"
+msgstr "Бесплатно"
+
+#: functions.php:520
+msgid "Pago"
+msgstr "Оплата"
+
+#: functions.php:554 functions.php:705
+msgid "Subir"
+msgstr "Загрузить"
+
+#: functions.php:592
+msgid "Añadir imágenes"
+msgstr "Добавить изображения"
+
+#: functions.php:628 functions.php:633 functions.php:699
+msgid "Enlace directo / Redirección"
+msgstr "Прямая ссылка / перенаправление"
+
+#: functions.php:630 functions.php:634 functions.php:704
+msgid "Descarga directa"
+msgstr "Прямая загрузка"
+
+#: functions.php:641
+msgid "Tipo de archivos"
+msgstr "Тип файлов"
+
+#: functions.php:642
+#, php-format
+msgid ""
+"Marque qué tipo de archivo el usuario descargará. Gracias a esto podrá "
+"mostrar unos pasos según el tipo de opción escogida. <a href=\"%s\">Ver/"
+"Editar los pasos</a>"
+msgstr ""
+"Проверьте, какой тип файла загрузит пользователь. Благодаря этому вы сможете "
+"показать некоторые шаги в соответствии с выбранным типом опции. <a href=\"%s"
+"\">Просмотр / изменение шагов</a>"
+
+#: functions.php:657
+msgid "Para eliminar un campo solo déjelo vacío"
+msgstr "Чтобы удалить поле, просто оставьте его пустым"
+
+#: functions.php:658
+msgid "Enlaces 'nofollow' por defecto"
+msgstr "Ссылки 'nofollow' по умолчанию"
+
+#: functions.php:664
+msgid "Enlace"
+msgstr "Ссылка"
+
+#: functions.php:665
+msgid "Texto"
+msgstr "Текст"
+
+#: functions.php:666
+msgid "Atributo"
+msgstr "Атрибут"
+
+#: functions.php:691
+msgid "Añadir enlace"
+msgstr "Добавить ссылку"
+
+#: functions.php:692
+msgid "Ver en la documentación"
+msgstr "Смотрите в документации"
+
+#: functions.php:779
+msgid "Seguir leyendo"
+msgstr "Подробнее"
+
+#: functions.php:1266
+msgid "Votar"
+msgstr "Голосование"
+
+#: functions.php:1267 includes/template-functions.php:49
+msgid "Votos"
+msgstr "Голоса"
+
+#: functions.php:1269
+msgid "Leer menos"
+msgstr "Читать меньше"
+
+#: functions.php:1270
+msgid "de"
+msgstr "из"
+
+#: functions.php:1271
+msgid "Gracias por enviarnos su reporte."
+msgstr "Спасибо, что отправили нам свой отчет."
+
+#: functions.php:1412
+msgid "No hay archivo para descargar."
+msgstr "Нет файла для загрузки."
+
+#: includes/admin.php:42
+msgid "Ocurrió un error"
+msgstr "Произошла ошибка"
+
+#: includes/admin.php:62
+#, php-format
+msgid "Está disponible una nueva versión del theme %s"
+msgstr "Доступна новая версия темы %s"
+
+#: includes/admin.php:62
+#, php-format
+msgid "Revisa los detalles de la versión %s"
+msgstr "Просмотреть сведения о версии %s"
+
+#: includes/admin.php:62
+msgid "Descárgala ahora"
+msgstr "Скачать сейчас"
+
+#: includes/admin.php:174
+msgid "Convertir en versión anterior"
+msgstr "Преобразовать в предыдущую версию"
+
+#: includes/admin.php:208
+msgid "Actualizar información"
+msgstr "Обновить информацию"
+
+#: includes/admin.php:221
+msgid "Ver post padre"
+msgstr "Просмотреть родительский пост"
+
+#: includes/admin.php:316
+msgid "Importante: Este post es una versión antigua"
+msgstr "Важно: этот пост является старой версией"
+
+#: includes/admin.php:320
+msgid ""
+"¿Quiere actualizar la información de esta aplicación? Recuerda que "
+"reemplazará toda la información."
+msgstr ""
+"Вы хотите обновить информацию в этом приложении? Помните, что он заменит всю "
+"информацию."
+
+#: includes/admin.php:418 includes/admin.php:422
+msgid "Convertir a versión anterior"
+msgstr "Преобразовать в предыдущую версию"
+
+#: includes/admin.php:478 includes/class-ftp.php:30
+#, php-format
+msgid "No se pudo conectar a \"%s\". Verifique nuevamente"
+msgstr "Не удалось подключиться к \"%s\". Проверить снова"
+
+#: includes/admin.php:480
+msgid "Complete el campo URL"
+msgstr "Заполните поле URL"
+
+#: includes/admin.php:483 includes/class-ftp.php:35
+msgid "No se puede cambiar al modo pasivo"
+msgstr "Не могу переключиться в пассивный режим"
+
+#: includes/admin.php:493
+msgid "¡Se ha creado el archivo \"test-file.txt\" en su servidor!"
+msgstr "На вашем сервере создан файл \"test-file.txt\"!"
+
+#: includes/admin.php:497
+msgid ""
+"Es importante que coloque el campo URL ya que esa será la dirección con la "
+"que los usuarios accederán a descargar los archivos. Complete el campo y "
+"realice nuevamente el test de conexión."
+msgstr ""
+"Важно, чтобы вы поместили поле URL-адреса, поскольку это будет адрес, с "
+"которого пользователи будут получать доступ для загрузки файлов. Заполните "
+"поле и повторите проверку подключения."
+
+#: includes/admin.php:499
+#, php-format
+msgid "Accede al archivo a través de este %s"
+msgstr "Доступ к файлу через %s"
+
+#: includes/admin.php:499
+msgid "enlace"
+msgstr "ссылка"
+
+#: includes/admin.php:499
+msgid ""
+"Si no puede acceder al enlace debe colocar el campo URL de manera correcta."
+msgstr ""
+"Если вы не можете получить доступ к ссылке, вы должны правильно указать поле "
+"URL."
+
+#: includes/admin.php:500
+msgid ""
+"Si accedió al enlace y apareció el texto \"Hello World\" entonces la "
+"conexión fue exitosa."
+msgstr ""
+"Если вы перешли по ссылке и появился текст «Hello World», значит, соединение "
+"было успешным."
+
+#: includes/admin.php:503
+msgid ""
+"No se pudo generar el archivo de prueba. Es posible que el directorio que ha "
+"colocado no exista."
+msgstr ""
+"Не удалось создать тестовый файл. Возможно, размещенный вами каталог не "
+"существует."
+
+#: includes/admin.php:508 includes/class-ftp.php:46
+msgid "Datos del servidor incorrectos. Verifique nuevamente"
+msgstr "Неверные данные сервера. Проверить снова"
+
+#: includes/ajax.php:171
+msgid "Post reportado"
+msgstr "Сообщение отправлено"
+
+#: includes/ajax.php:172
+msgid "Hola, tienes un post reportado"
+msgstr "Привет, у вас есть сообщение, о котором сообщили"
+
+#: includes/ajax.php:173
+msgid "Post"
+msgstr "Почта"
+
+#: includes/ajax.php:174
+msgid "Asunto"
+msgstr "Тема"
+
+#: includes/ajax.php:180
+msgid "Email"
+msgstr "Эл. адрес"
+
+#: includes/ajax.php:226
+msgid "Archivo subido y asignado al post."
+msgstr "Файл загружен и назначен посту."
+
+#: includes/class-dropbox.php:200
+msgid "Error: Token de acceso incorrecto"
+msgstr "Ошибка: неверный токен доступа"
+
+#: includes/class-ftp.php:43
+msgid "No se pudo subir el archivo"
+msgstr "Файл не может быть загружен"
+
+#: includes/class-list-table-atul.php:97
+msgid "No hay apps para actualizar"
+msgstr "Нет приложений для обновления"
+
+#: includes/class-list-table-atul.php:105
+msgid "Ver en Google Play"
+msgstr "Посмотреть в Google Play"
+
+#: includes/class-list-table-atul.php:128
+#: includes/class-list-table-atul.php:161
+msgid "Actualizar"
+msgstr "Обновить"
+
+#: includes/class-list-table-atul.php:142
+msgid "Versión actual"
+msgstr "Текущая версия"
+
+#: includes/class-list-table-atul.php:143
+msgid "Nueva Versión"
+msgstr "Новая версия"
+
+#: includes/class-list-table-atul.php:207
+msgid "Todos"
+msgstr "Все"
+
+#: includes/class-upload-apk.php:211 includes/class-upload-apk.php:217
+#, php-format
+msgid "Error: %s"
+msgstr "Ошибка: %s"
+
+#: includes/class-upload-apk.php:217
+msgid "Ocurrió un problema con el servidor de carga"
+msgstr "Возникла проблема с сервером загрузки"
+
+#: includes/class-upload-apk.php:240
+msgid "El archivo pesa 0KB. No fue descargado ni subido"
+msgstr "Размер файла 0КБ. Он не был ни загружен, ни загружен"
+
+#: includes/class-upload-apk.php:291
+msgid "Falta la conexión con Dropbox"
+msgstr "Отсутствует соединение с Dropbox"
+
+#: includes/class-upload-apk.php:319
+msgid "No ha realizado la conexión a Google Drive"
+msgstr "Вы не подключились к Google Диску"
+
+#: includes/class-upload-apk.php:360
+msgid "Complete los campos para la conexión FTP"
+msgstr "Заполните поля для FTP-соединения"
+
+#: includes/class-upload-apk.php:387
+msgid "Coloque el API Key de 1Fichier"
+msgstr "Поместите ключ API 1Fichier"
+
+#: includes/class-upload-apk.php:418
+msgid "No ha realizado la conexión a OneDrive"
+msgstr "Вы не подключились к OneDrive"
+
+#: includes/template-actions.php:137 includes/template-actions.php:197
+msgid "Ver más"
+msgstr "Посмотреть больше"
+
+#: includes/template-actions.php:441
+msgid "Peso"
+msgstr "Размер"
+
+#: includes/template-actions.php:443
+msgid "Fecha"
+msgstr "Дата"
+
+#: includes/template-actions.php:523
+msgid "Ver más versiones"
+msgstr "Посмотреть другие версии"
+
+#: includes/template-actions.php:762
+msgid "Apps del desarrollador"
+msgstr "Приложения разработчика"
+
+#: includes/template-actions.php:784
+msgid "TAGS"
+msgstr "ТЕГИ"
+
+#: includes/template-actions.php:895
+msgid "Reportar esta app"
+msgstr "Пожаловаться на это приложение"
+
+#: includes/template-actions.php:902
+msgid "Detalle del reporte (Opcional)"
+msgstr "Подробный отчет (необязательно)"
+
+#: includes/template-actions.php:907
+msgid "Email *"
+msgstr "Эл. адрес *"
+
+#: includes/template-actions.php:909 template-parts/single-infoapp-get.php:58
+#: template-parts/single-infoapp.php:40
+msgid "Reportar"
+msgstr "Отчет"
+
+#: includes/template-actions.php:1062 template-parts/single-infoapp-get.php:21
+msgid "Enlace de descarga"
+msgstr "Ссылка для скачивания"
+
+#: includes/template-actions.php:1092 template-parts/single-infoapp-get.php:23
+#: template-parts/single-infoapp.php:23
+msgid "Descargar"
+msgstr "Скачать"
+
+#: includes/template-actions.php:1413
+msgid "Mostrar enlaces"
+msgstr "Показать ссылки"
+
+#: includes/template-actions.php:1489
+msgid "Actualización"
+msgstr "Обновлено"
+
+#: includes/template-functions.php:37
+msgid "Calificación"
+msgstr "Счет"
+
+#: includes/template-functions.php:37
+msgid "estrellas"
+msgstr "звезды"
+
+#: includes/template-functions.php:51
+msgid "No hay votos"
+msgstr "Нет голосов"
+
+#: includes/template-functions.php:150
+msgid "Navegación de comentarios"
+msgstr "Комментировать навигацию"
+
+#: includes/template-functions.php:153
+msgid "Comentarios antiguos"
+msgstr "Старые комментарии"
+
+#: includes/template-functions.php:157
+msgid "Comentarios más nuevos"
+msgstr "последние комментарии"
+
+#: includes/template-functions.php:189
+msgid "No funcionan los enlaces de descarga"
+msgstr "Ссылки для скачивания не работают"
+
+#: includes/template-functions.php:190
+msgid "Hay una nueva versión"
+msgstr "Есть новая версия"
+
+#: includes/template-functions.php:191
+msgid "Otros"
+msgstr "Другие"
+
+#: includes/template-functions.php:322
+msgid "Deja un comentario"
+msgstr "Оставить комментарий"
+
+#: includes/template-functions.php:343
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: includes/template-functions.php:343 includes/template-functions.php:349
+#: includes/template-functions.php:379
+msgid "(Editar)"
+msgstr "(Редактировать)"
+
+#: includes/template-functions.php:349
+msgid "Trackback:"
+msgstr "Trackback:"
+
+#: includes/template-functions.php:366
+msgid "dice"
+msgstr "говорит"
+
+#: includes/template-functions.php:369
+msgid "Tu comentario está en espera de aprobación."
+msgstr "Ваш комментарий ожидает подтверждения."
+
+#: includes/template-functions.php:374
+#, php-format
+msgid "%1$s a las %2$s"
+msgstr "%1$s в %2$s"
+
+#: includes/template-functions.php:828
+msgid "De pago"
+msgstr "Оплата"
+
+#: includes/template-functions.php:1033 includes/template-functions.php:1267
+msgid "Nuevo"
+msgstr "Новый"
+
+#: includes/template-functions.php:1038 includes/template-functions.php:1042
+#: includes/template-functions.php:1268
+msgid "Actualizado"
+msgstr "Обновлено"
+
+#: includes/template-functions.php:1144 includes/template-functions.php:1152
+msgid "(No activado)"
+msgstr "(Не активировано)"
+
+#: includes/template-functions.php:1146
+msgid "(Falta token de acceso)"
+msgstr "(Отсутствует токен доступа)"
+
+#: includes/template-functions.php:1278
+msgid "Ninguno"
+msgstr "Никто"
+
+#: includes/template-functions.php:1305
+msgid "Juegos"
+msgstr "Игры"
+
+#: includes/template-functions.php:1306
+msgid "Juegos de acción"
+msgstr "Экшен игры"
+
+#: includes/template-functions.php:1307
+msgid "Juegos de aventura"
+msgstr "Приключения игры"
+
+#: includes/template-functions.php:1308
+msgid "Juegos de carreras"
+msgstr "Гонки игры"
+
+#: includes/template-functions.php:1309
+msgid "Juegos de cartas"
+msgstr "Карточные игры"
+
+#: includes/template-functions.php:1310
+msgid "Juegos de casino"
+msgstr "Казино игры"
+
+#: includes/template-functions.php:1311
+msgid "Juegos educativos"
+msgstr "Обучающие игры"
+
+#: includes/template-functions.php:1312
+msgid "Juegos de estrategia"
+msgstr "Стратегии игры"
+
+#: includes/template-functions.php:1313
+msgid "Juegos de deportes"
+msgstr "Спортивные игры"
+
+#: includes/template-functions.php:1314
+msgid "Juegos de mesa"
+msgstr "Настольные игры"
+
+#: includes/template-functions.php:1315
+msgid "Juegos de palabras"
+msgstr "Словесные игры"
+
+#: includes/template-functions.php:1316
+msgid "Juegos de rol"
+msgstr "Ролевые игры"
+
+#: includes/template-functions.php:1317
+msgid "Juegos ocasionales"
+msgstr "Казуальные игры"
+
+#: includes/template-functions.php:1318
+msgid "Juegos de música"
+msgstr "Музыка игры"
+
+#: includes/template-functions.php:1319
+msgid "Preguntas y respuestas"
+msgstr "Викторины игры"
+
+#: includes/template-functions.php:1320
+msgid "Juegos de rompecabezas"
+msgstr "Головоломки игры"
+
+#: includes/template-functions.php:1321
+msgid "Sala de juegos"
+msgstr "Аркады игры"
+
+#: includes/template-functions.php:1322
+msgid "Juegos de simulación"
+msgstr "Симуляторы игры"
+
+#: includes/template-functions.php:1323
+msgid "Aplicaciones de video"
+msgstr "Видеоплееры и редакторы"
+
+#: includes/template-functions.php:1324
+msgid "Apps de reloj"
+msgstr "Приложения для часов"
+
+#: includes/template-functions.php:1325
+msgid "Arte y diseño"
+msgstr "Искусство и дизайн"
+
+#: includes/template-functions.php:1326
+msgid "Autos y vehículos"
+msgstr "Автомобили и транспорт"
+
+#: includes/template-functions.php:1327
+msgid "Belleza"
+msgstr "Красота"
+
+#: includes/template-functions.php:1328
+msgid "Bibliotecas y demostración"
+msgstr "Разное"
+
+#: includes/template-functions.php:1329
+msgid "Caras de reloj"
+msgstr "Циферблаты"
+
+#: includes/template-functions.php:1330
+msgid "Comer y beber"
+msgstr "Еда и напитки"
+
+#: includes/template-functions.php:1331
+msgid "Compras"
+msgstr "Покупки"
+
+#: includes/template-functions.php:1332
+msgid "Comunicación"
+msgstr "Связь"
+
+#: includes/template-functions.php:1333
+msgid "Conocer personas"
+msgstr "Знакомства"
+
+#: includes/template-functions.php:1334
+msgid "Cómics"
+msgstr "Комиксы"
+
+#: includes/template-functions.php:1335
+msgid "Deportes"
+msgstr "Спорт"
+
+#: includes/template-functions.php:1336
+msgid "Educación"
+msgstr "Образование"
+
+#: includes/template-functions.php:1337
+msgid "Entretenimiento"
+msgstr "Развлечения"
+
+#: includes/template-functions.php:1338
+msgid "Estilo de vida"
+msgstr "Стиль жизни"
+
+#: includes/template-functions.php:1339
+msgid "Eventos"
+msgstr "Мероприятия"
+
+#: includes/template-functions.php:1340
+msgid "Finanzas"
+msgstr "Финансы"
+
+#: includes/template-functions.php:1341
+msgid "Fotografía"
+msgstr "Фотография"
+
+#: includes/template-functions.php:1342
+msgid "Herramientas"
+msgstr "Инструменты"
+
+#: includes/template-functions.php:1343
+msgid "Inmuebles y hogar"
+msgstr "Жилье и дом"
+
+#: includes/template-functions.php:1344
+msgid "Libros y referencias"
+msgstr "Книги и справочники"
+
+#: includes/template-functions.php:1345
+msgid "Mapas y navegación"
+msgstr "Карты и навигация"
+
+#: includes/template-functions.php:1346
+msgid "Medicina"
+msgstr "Медицина"
+
+#: includes/template-functions.php:1347
+msgid "Música y audio"
+msgstr "Музыка и аудио"
+
+#: includes/template-functions.php:1348
+msgid "Negocios"
+msgstr "Бизнес"
+
+#: includes/template-functions.php:1349
+msgid "Noticias y revistas"
+msgstr "Новости и журналы"
+
+#: includes/template-functions.php:1350
+msgid "Personalización"
+msgstr "Персонализация"
+
+#: includes/template-functions.php:1351
+msgid "Productividad"
+msgstr "Работа"
+
+#: includes/template-functions.php:1352
+msgid "Salud y bienestar"
+msgstr "Здоровье и фитнес"
+
+#: includes/template-functions.php:1353
+msgid "Ser padres"
+msgstr "Материнство и детство"
+
+#: includes/template-functions.php:1354
+msgid "Social"
+msgstr "Социальные"
+
+#: includes/template-functions.php:1355
+msgid "Tiempo"
+msgstr "Погода"
+
+#: includes/template-functions.php:1356
+msgid "Viajes"
+msgstr "Путешествия "
+
+#: includes/widget-categories.php:10
+msgid "Muestra las categorías"
+msgstr "Показать категории"
+
+#: includes/widget-categories.php:49
+msgid "Columnas"
+msgstr "Столбцы"
+
+#: includes/widget-facebook.php:12
+msgid "Muestra la caja de tu página de Facebook"
+msgstr "Покажите коробку своей страницы в Facebook"
+
+#: includes/widget-facebook.php:40
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/widget-mas-calificados.php:10
+msgid "Muestra las apps más calificadas de tu sitio"
+msgstr "Показать приложения с самым высоким рейтингом на вашем сайте"
+
+#: includes/widget-mas-calificados.php:73 includes/widget-mas-vistos.php:73
+#: includes/widget-mejor-calificados.php:74
+#: includes/widget-ultimos-posts.php:72
+msgid "De una categoría"
+msgstr "Категория"
+
+#: includes/widget-mas-calificados.php:75 includes/widget-mas-vistos.php:75
+#: includes/widget-mejor-calificados.php:76
+#: includes/widget-ultimos-posts.php:74
+msgid "Ninguna"
+msgstr "Ничего такого"
+
+#: includes/widget-mas-calificados.php:89
+#: includes/widget-mas-vistos-blog.php:64 includes/widget-mas-vistos.php:89
+#: includes/widget-mejor-calificados.php:89
+#: includes/widget-ultimos-posts-blog.php:63
+#: includes/widget-ultimos-posts.php:88
+msgid "Número de entradas a mostrar"
+msgstr "Количество отображаемых записей"
+
+#: includes/widget-mas-vistos-blog.php:9 includes/widget-mas-vistos-blog.php:19
+#: includes/widget-mas-vistos-blog.php:56
+msgid "Posts más vistos"
+msgstr "Самые просматриваемые сообщения"
+
+#: includes/widget-mas-vistos-blog.php:10
+msgid "Muestra los posts más vistos de tu sitio"
+msgstr "Показывать самые просматриваемые сообщения на вашем сайте"
+
+#: includes/widget-mas-vistos.php:9 includes/widget-mas-vistos.php:19
+#: includes/widget-mas-vistos.php:65
+msgid "Apps más vistas"
+msgstr "Самые просматриваемые приложения"
+
+#: includes/widget-mas-vistos.php:10
+msgid "Muestra las apps más vistas de tu sitio"
+msgstr "Показать самые просматриваемые приложения на вашем сайте"
+
+#: includes/widget-mejor-calificados.php:9
+#: includes/widget-mejor-calificados.php:19
+#: includes/widget-mejor-calificados.php:66
+msgid "Apps mejor calificadas"
+msgstr "Лучшие приложения"
+
+#: includes/widget-mejor-calificados.php:10
+msgid "Muestra las apps mejor calificadas de tu sitio"
+msgstr "Покажите на своем сайте приложения с лучшими оценками"
+
+#: includes/widget-twitter.php:10
+msgid "Coloca tu nombre de usuario de Twitter y comenzarán a seguirte"
+msgstr ""
+"Введите свое имя пользователя Twitter, и они начнут подписываться на вас"
+
+#: includes/widget-twitter.php:19 includes/widget-twitter.php:38
+msgid "Síguenos en Twitter"
+msgstr "Следуйте за нами на Twitter"
+
+#: includes/widget-ultimos-posts-blog.php:9
+#: includes/widget-ultimos-posts-blog.php:19
+#: includes/widget-ultimos-posts-blog.php:55
+msgid "Últimos posts"
+msgstr "Последние посты"
+
+#: includes/widget-ultimos-posts-blog.php:10
+msgid "Muestra los últimos posts de tu sitio"
+msgstr "Показать последние сообщения вашего сайта"
+
+#: includes/widget-ultimos-posts.php:9 includes/widget-ultimos-posts.php:19
+#: includes/widget-ultimos-posts.php:64
+msgid "Últimas Aplicaciones"
+msgstr "Последние приложения"
+
+#: includes/widget-ultimos-posts.php:10
+msgid "Muestra las últimas aplicaciones de tu sitio"
+msgstr "Показать последние приложения на вашем сайте"
+
+#: includes/widget-youtube.php:10
+msgid "Muestra cualquier video de YouTube colocando solo el ID"
+msgstr "Отображает любое видео YouTube, размещая только идентификатор"
+
+#: includes/widget-youtube.php:36
+msgid "Youtube"
+msgstr "Youtube"
+
+#: tag.php:4
+msgid "TAG"
+msgstr "ЯРЛЫК"
+
+#: taxonomy-cblog.php:5
+msgid "Categoría"
+msgstr "Категория"
+
+#: template-parts/single-infoapp-get.php:30
+#: template-parts/template-download.php:39
+msgid "No hay enlace de redirección..."
+msgstr "Нет ссылки для перенаправления ..."
+
+#: template-parts/single-infoapp-get.php:33
+#: template-parts/template-download.php:42
+msgid "Será redireccionado en unos segundos..."
+msgstr "Через несколько секунд вы будете перенаправлены ..."
+
+#: template-parts/single-infoapp-get.php:34
+#: template-parts/template-download.php:43
+msgid "Si la redirección no funciona, haga clic"
+msgstr "Если перенаправление не работает, нажмите"
+
+#: template-parts/single-infoapp-get.php:34
+#: template-parts/template-download.php:43
+msgid "aquí"
+msgstr "здесь"
+
+#: template-parts/single-infoapp.php:32
+msgid "Última versión"
+msgstr "Последняя версия"
+
+#: template-parts/template-download.php:14
+msgid "Nombre del paquete"
+msgstr "Имя пакета"
+
+#~ msgid "Crea una app en Dropbox y obtén el token de acceso."
+#~ msgstr "Создайте приложение в Dropbox и получите токен доступа."
+
+#~ msgid "Token de acceso"
+#~ msgstr "Токен доступа"
+
+#~ msgid "Error: Falta token de acceso"
+#~ msgstr "Ошибка: токен доступа отсутствует"
+
+#~ msgid "Falta token de acceso"
+#~ msgstr "Токен доступа отсутствует"
+
+#~ msgid "Esperar"
+#~ msgstr "Ждать"
+
+#~ msgid "No hay enlace de descarga..."
+#~ msgstr "Нет ссылки для скачивания ..."
+
+#~ msgid "Su descarga comenzará en un momento..."
+#~ msgstr "Ваша загрузка начнется через мгновение ..."
+
+#~ msgid "Si no descarga el archivo, haga clic"
+#~ msgstr "Если вы не загружаете файл, нажмите"
+
+#~ msgid "Empresa"
+#~ msgstr "Бизнес"
+
+#~ msgid "Automoción"
+#~ msgstr "Автомобили и транспорт"
+
+#~ msgid "Salud"
+#~ msgstr "Здоровье и фитнес"
+
+#~ msgid "Seguridad"
+#~ msgstr "Безопасность"
+
+#~ msgid "Multimedia"
+#~ msgstr "Мультимедиа"
+
+#~ msgid "Editar"
+#~ msgstr "Редактировать"
+
+#~ msgid "Acciones"
+#~ msgstr "Действия"

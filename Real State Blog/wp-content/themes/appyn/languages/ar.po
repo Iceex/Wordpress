@@ -1,0 +1,2673 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Arabic\n"
+"POT-Creation-Date: 2022-07-12 07:14-0500\n"
+"PO-Revision-Date: 2022-07-12 07:15-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && "
+"n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: Poedit 3.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:5
+msgid "La página que estás buscando no existe."
+msgstr "الصفحة التي تبحث عنها غير موجودة."
+
+#: 404.php:7 admin/panel.php:1015 amp/header.php:90 functions.php:126
+#: includes/template-functions.php:1187
+msgid "Buscar una aplicación"
+msgstr "ابحث عن تطبيق"
+
+#: admin/class-eps.php:24 admin/class-eps.php:83
+msgid "Error: La API Key es inválida."
+msgstr "خطأ: مفتاح API غير صالح."
+
+#: admin/class-eps.php:24 admin/class-eps.php:77 admin/class-eps.php:83
+#: admin/panel.php:1387
+msgid "Más información"
+msgstr "معلومات اكثر"
+
+#: admin/class-eps.php:33
+msgid "Error: No hay URL de Playstore en este post"
+msgstr "خطأ: لا يوجد عنوان URL لـ Playstore في هذه المشاركة"
+
+#: admin/class-eps.php:44
+msgid "Error: Al parecer la URL no existe. Verifique nuevamente."
+msgstr "خطأ: يبدو أن عنوان URL غير موجود. تحقق مرة اخرى."
+
+#: admin/class-eps.php:77
+msgid "Error: Este dominio no está habilitado."
+msgstr "خطأ: لم يتم تمكين هذا المجال."
+
+#: admin/class-eps.php:89
+msgid "Error: No se pudo obtener los datos de esta app."
+msgstr "خطأ: لا يمكن الحصول على البيانات من هذا التطبيق."
+
+#: admin/class-eps.php:174
+msgid "Información importada."
+msgstr "المعلومات المستوردة."
+
+#: admin/class-eps.php:175
+#, php-format
+msgid "Entrada \"%s\" creada."
+msgstr "تم إنشاء الإدخال \"%s\"."
+
+#: admin/class-eps.php:175 admin/panel.php:130
+msgid "Ver post"
+msgstr "انظر المنشور"
+
+#: admin/class-eps.php:227
+msgid "Información actualizada."
+msgstr "معلومات محدثة."
+
+#: admin/class-eps.php:228
+#, php-format
+msgid "Entrada \"%s\" actualizada."
+msgstr "تم تحديث الإدخال \"%s\"."
+
+#: admin/class-eps.php:370
+msgid "Se encontró un archivo APK y OBB"
+msgstr "تم العثور على ملف APK و OBB"
+
+#: admin/class-eps.php:371 admin/class-eps.php:379
+msgid "Descargando archivo..."
+msgstr "تحميل الملف…"
+
+#: admin/class-eps.php:371 admin/class-eps.php:379 includes/ajax.php:239
+msgid "En proceso..."
+msgstr "في تقدم..."
+
+#: admin/class-eps.php:372
+#, php-format
+msgid "Subiendo a %s en ZIP"
+msgstr "تحميل إلى %s في ZIP"
+
+#: admin/class-eps.php:375
+msgid "Se encontró un archivo APK"
+msgstr "تم العثور على ملف APK"
+
+#: admin/class-eps.php:377
+msgid "Se encontró un archivo ZIP"
+msgstr "تم العثور على ملف ZIP"
+
+#: admin/class-eps.php:380
+#, php-format
+msgid "Subiendo a %s"
+msgstr "الصعود إلى %s"
+
+#: admin/class-eps.php:391
+#, php-format
+msgid "Error: La aplicación que desea importar ya existe. %s"
+msgstr "خطأ: التطبيق الذي تريد استيراده موجود بالفعل. %s"
+
+#: admin/class-eps.php:391
+msgid "Ver entrada"
+msgstr "انظر الدخول"
+
+#: admin/panel.php:12
+msgid "Importar contenido"
+msgstr "استيراد المحتوى"
+
+#: admin/panel.php:14 admin/panel.php:91
+msgid "Reportes"
+msgstr "التقارير"
+
+#: admin/panel.php:16 admin/panel.php:39 admin/panel.php:188
+#: includes/admin.php:231
+msgid "Apps por actualizar"
+msgstr "تطبيقات للتحديث"
+
+#: admin/panel.php:37 admin/panel.php:49 includes/admin.php:198
+msgid "Importar contenido (Google Play)"
+msgstr "استيراد المحتوى (Google Play)"
+
+#: admin/panel.php:41
+msgid "Registro de cambios"
+msgstr "سجل التغيير"
+
+#: admin/panel.php:43
+msgid "Documentación"
+msgstr "توثيق"
+
+#: admin/panel.php:52
+msgid "Importar datos"
+msgstr "بيانات الاستيراد"
+
+#: admin/panel.php:56
+msgid ""
+"Al hacer clic en \"Importar datos\" se creará un post con toda la información "
+"importada basándose en las opciones mostradas a continuación..."
+msgstr ""
+"سيؤدي النقر فوق \"استيراد البيانات\" إلى إنشاء منشور بجميع المعلومات المستوردة "
+"بناءً على الخيارات الموضحة أدناه ..."
+
+#: admin/panel.php:57
+msgid "Opciones al importar datos"
+msgstr "خيارات عند استيراد البيانات"
+
+#: admin/panel.php:59 admin/panel.php:429
+msgid "Estado del post"
+msgstr "حالة النشر"
+
+#: admin/panel.php:59 admin/panel.php:434
+msgid "Publicado"
+msgstr "نشرت"
+
+#: admin/panel.php:59 admin/panel.php:432
+msgid "Borrador"
+msgstr "مسودة"
+
+#: admin/panel.php:60
+msgid "Crear categoría si no existe"
+msgstr "أنشئ فئة إذا لم تكن موجودة"
+
+#: admin/panel.php:60 admin/panel.php:61 admin/panel.php:62 admin/panel.php:69
+#: admin/panel.php:70
+msgid "No"
+msgstr "لا"
+
+#: admin/panel.php:60 admin/panel.php:61 admin/panel.php:62 admin/panel.php:69
+#: admin/panel.php:70
+msgid "Sí"
+msgstr "نعم"
+
+#: admin/panel.php:61
+msgid "Crear taxonomía <i>Desarrollador</i> si no existe"
+msgstr "أنشئ تصنيف <i> Developer </i> إذا لم يكن موجودًا"
+
+#: admin/panel.php:62 admin/panel.php:454
+msgid "Obtener APK"
+msgstr "احصل على APK"
+
+#: admin/panel.php:65 admin/panel.php:464
+msgid "Servidor de subida"
+msgstr "خادم التحميل"
+
+#: admin/panel.php:68
+msgid "Cantidad de imágenes importadas"
+msgstr "عدد الصور المستوردة"
+
+#: admin/panel.php:69 admin/panel.php:492 functions.php:484 functions.php:488
+msgid "Rating"
+msgstr "تقييم"
+
+#: admin/panel.php:70 admin/panel.php:499
+msgid "Apps duplicadas"
+msgstr "تطبيقات مكررة"
+
+#: admin/panel.php:72
+msgid "Cambiar opciones"
+msgstr "تغيير الخيارات"
+
+#: admin/panel.php:92
+#, php-format
+msgid "%s entrada reportada"
+msgstr "أبلغ %s عن إدخال"
+
+#: admin/panel.php:92
+#, php-format
+msgid "%s entradas reportadas"
+msgstr "أبلغ %s عن إدخالات"
+
+#: admin/panel.php:98 admin/panel.php:279 admin/panel.php:524 functions.php:326
+#: includes/class-list-table-atul.php:141 includes/widget-categories.php:45
+#: includes/widget-facebook.php:44 includes/widget-mas-calificados.php:69
+#: includes/widget-mas-vistos-blog.php:60 includes/widget-mas-vistos.php:69
+#: includes/widget-mejor-calificados.php:70 includes/widget-twitter.php:42
+#: includes/widget-ultimos-posts-blog.php:59 includes/widget-ultimos-posts.php:68
+#: includes/widget-youtube.php:40
+msgid "Título"
+msgstr "عنوان"
+
+#: admin/panel.php:99 includes/ajax.php:176
+msgid "Detalles"
+msgstr "تفاصيل"
+
+#: admin/panel.php:100
+msgid "Acción"
+msgstr "عمل"
+
+#: admin/panel.php:112 includes/class-list-table-atul.php:105
+msgid "Editar post"
+msgstr "تعديل المنشور"
+
+#: admin/panel.php:136
+msgid "No hay reportes"
+msgstr "لا توجد تقارير"
+
+#: admin/panel.php:143
+msgid "Borrar reportes"
+msgstr "حذف التقارير"
+
+#: admin/panel.php:196 search.php:5
+msgid "Buscar"
+msgstr "بحث"
+
+#: admin/panel.php:227
+msgid "Theme"
+msgstr "قالب"
+
+#: admin/panel.php:228 functions.php:325 functions.php:460 functions.php:1700
+#: functions.php:1771 includes/ajax.php:27 includes/template-actions.php:440
+#: includes/template-actions.php:1505 template-parts/loop/app-slider.php:13
+#: template-parts/loop/app.php:11 template-parts/template-download.php:18
+msgid "Versión"
+msgstr "الإصدار"
+
+#: admin/panel.php:231 admin/panel.php:758 admin/panel.php:934
+msgid "Opciones generales"
+msgstr "خيارات عامة"
+
+#: admin/panel.php:234 admin/panel.php:274
+msgid "Home"
+msgstr "الصفحة الرئيسية"
+
+#: admin/panel.php:237 admin/panel.php:732
+msgid "Single"
+msgstr "غير مرتبطة"
+
+#: admin/panel.php:240 admin/panel.php:402
+msgid "Importador de contenido"
+msgstr "أداة استيراد المحتوى"
+
+#: admin/panel.php:243 admin/panel.php:898
+msgid "Historial de versiones"
+msgstr "تاريخ النسخة"
+
+#: admin/panel.php:246 includes/template-actions.php:128
+msgid "Blog"
+msgstr "مدونة"
+
+#: admin/panel.php:249 admin/panel.php:1348
+msgid "Colores"
+msgstr "الألوان"
+
+#: admin/panel.php:252
+msgid "Sidebar"
+msgstr "الشريط الجانبي"
+
+#: admin/panel.php:255 admin/panel.php:1446
+msgid "Anuncios"
+msgstr "الإعلانات"
+
+#: admin/panel.php:258 admin/panel.php:1382 admin/panel.php:1385
+msgid "AMP"
+msgstr "AMP"
+
+#: admin/panel.php:261
+msgid "Footer"
+msgstr "تذييل"
+
+#: admin/panel.php:264 admin/panel.php:1607
+msgid "Info"
+msgstr "معلومة"
+
+#: admin/panel.php:268
+msgid "Guardar cambios"
+msgstr "حفظ التغييرات"
+
+#: admin/panel.php:280
+msgid "Coloca el título del Home"
+msgstr "ضع عنوان المنزل"
+
+#: admin/panel.php:286 admin/panel.php:526 admin/panel.php:845 functions.php:456
+#: includes/template-actions.php:394
+msgid "Descripción"
+msgstr "وصف"
+
+#: admin/panel.php:287
+msgid "Coloca la descripción del Home"
+msgstr "ضع وصف الصفحة الرئيسية"
+
+#: admin/panel.php:292
+msgid "Imágenes de Portada"
+msgstr "صور الغلاف"
+
+#: admin/panel.php:293
+msgid ""
+"Sube hasta 5 imágenes para que aparezca en el Home aleatoriamente. De "
+"preferencia imágenes mayores de 1300px de ancho y 300px de altura"
+msgstr ""
+"قم بتحميل ما يصل إلى 5 صور لتظهر على الصفحة الرئيسية بشكل عشوائي. يُفضل الصور "
+"الأكبر من 1300 بكسل عرضًا وارتفاع 300 بكسل"
+
+#: admin/panel.php:311 includes/widget-mas-calificados.php:9
+#: includes/widget-mas-calificados.php:19 includes/widget-mas-calificados.php:65
+msgid "Apps más calificadas"
+msgstr "التطبيقات الأعلى تقييمًا"
+
+#: admin/panel.php:312
+msgid "Slider con las aplicaciones más descargadas."
+msgstr "شريط التمرير مع التطبيقات الأكثر تنزيلًا."
+
+#: admin/panel.php:324 admin/panel.php:344 admin/panel.php:385
+#: admin/panel.php:904 admin/panel.php:1291 admin/panel.php:1302
+msgid "Entradas"
+msgstr "المنشورات"
+
+#: admin/panel.php:329
+msgid "Ocultar entradas"
+msgstr "إخفاء الإدخالات"
+
+#: admin/panel.php:330
+msgid "Oculta las entradas del inicio."
+msgstr "إخفاء الإدخالات من البداية."
+
+#: admin/panel.php:338
+msgid "Entradas por página"
+msgstr "المشاركات في كل صفحة"
+
+#: admin/panel.php:339
+msgid "Límite de entradas."
+msgstr "حد المشاركة."
+
+#: admin/panel.php:347
+msgid "Orden de las entradas"
+msgstr "ترتيب المنشورات"
+
+#: admin/panel.php:348
+msgid "Ordena las entradas del Home por fecha, por modificación o aleatorio."
+msgstr "فرز منشورات الصفحة الرئيسية حسب التاريخ أو التعديل أو عشوائيًا."
+
+#: admin/panel.php:352
+msgid "Por fecha"
+msgstr "حسب التاريخ"
+
+#: admin/panel.php:352 admin/panel.php:774 admin/panel.php:835
+#: admin/panel.php:972 admin/panel.php:1191
+msgid "(Por defecto)"
+msgstr "(تقصير)"
+
+#: admin/panel.php:354
+msgid "Por modificación"
+msgstr "عن طريق التعديل"
+
+#: admin/panel.php:356
+msgid "Aleatorio"
+msgstr "عشوائي"
+
+#: admin/panel.php:360
+msgid "Posts Categorías Home"
+msgstr "مشاركات فئات الصفحة الرئيسية"
+
+#: admin/panel.php:361
+msgid ""
+"Escoge qué categorías y cuántos de estos quieres que aparezca en el Home "
+"debajo de los últimos posts"
+msgstr ""
+"اختر الفئات وعددها التي تريد أن تظهر على الصفحة الرئيسية ضمن أحدث المنشورات"
+
+#: admin/panel.php:390
+msgid "Ocultar blog"
+msgstr "إخفاء المدونة"
+
+#: admin/panel.php:391
+msgid "Oculta las entradas del blog"
+msgstr "إخفاء مشاركات المدونة"
+
+#: admin/panel.php:406 admin/panel.php:683
+msgid "API Key"
+msgstr "API Key"
+
+#: admin/panel.php:407
+msgid ""
+"Clave única que se necesita para poder utilizar el importador de contenido."
+msgstr "مفتاح فريد مطلوب لتتمكن من استخدام أداة استيراد المحتوى."
+
+#: admin/panel.php:407
+msgid "¿Cómo obtengo el mio?"
+msgstr "كيف تحصل على خاصتي؟"
+
+#: admin/panel.php:412
+msgid "Roles"
+msgstr "الأدوار"
+
+#: admin/panel.php:413
+msgid "Tipo de usuario a quienes aparecerá el importador de contenido."
+msgstr "نوع المستخدم الذي سيظهر له برنامج استيراد المحتوى."
+
+#: admin/panel.php:421
+msgid "Administrador"
+msgstr "مدير"
+
+#: admin/panel.php:422
+msgid "Administrador y Editor"
+msgstr "المسؤول والمحرر"
+
+#: admin/panel.php:423
+msgid "Administrador, Editor y Autor"
+msgstr "المسؤول والمحرر والمؤلف"
+
+#: admin/panel.php:424
+msgid "Administrador, Editor, Autor y Colaborador"
+msgstr "المسؤول والمحرر والمؤلف والمساهم"
+
+#: admin/panel.php:438
+msgid "Crear categoría"
+msgstr "إنشاء فئة"
+
+#: admin/panel.php:439
+msgid "Crea la categoría si no existe"
+msgstr "قم بإنشاء الفئة إذا لم تكن موجودة"
+
+#: admin/panel.php:446
+msgid "Crear taxonomía 'Desarrollador'"
+msgstr "إنشاء تصنيف \"المطور\""
+
+#: admin/panel.php:447
+msgid "Crea la taxonomía 'Desarrollador' si no existe"
+msgstr "أنشئ تصنيف \"المطور\" إذا لم يكن موجودًا"
+
+#: admin/panel.php:465
+msgid "Seleccionar servidor para subir los archivos APK."
+msgstr "حدد الخادم لتحميل ملفات APK."
+
+#: admin/panel.php:468 includes/template-functions.php:1154
+msgid "Mi servidor"
+msgstr "الخادم الخاص بي"
+
+#: admin/panel.php:469 admin/panel.php:544 includes/template-functions.php:1144
+msgid "Google Drive"
+msgstr "Google Drive"
+
+#: admin/panel.php:470 admin/panel.php:587 includes/template-functions.php:1146
+msgid "Dropbox"
+msgstr "Dropbox"
+
+#: admin/panel.php:471 admin/panel.php:626 includes/template-functions.php:1148
+msgid "FTP"
+msgstr "FTP"
+
+#: admin/panel.php:472 admin/panel.php:674 includes/template-functions.php:1150
+msgid "1Fichier"
+msgstr "1Fichier"
+
+#: admin/panel.php:473 admin/panel.php:688 includes/template-functions.php:1152
+msgid "OneDrive"
+msgstr "OneDrive"
+
+#: admin/panel.php:477
+msgid "Slug"
+msgstr "Slug"
+
+#: admin/panel.php:478
+msgid "Agrega automáticamente un texto al final del nombre del archivo."
+msgstr "إضافة نص تلقائيًا إلى نهاية اسم الملف."
+
+#: admin/panel.php:481 admin/panel.php:815 admin/panel.php:827
+msgid "Ejemplo"
+msgstr "مثال"
+
+#: admin/panel.php:485
+msgid "Capturas de pantalla"
+msgstr "لقطات"
+
+#: admin/panel.php:486
+msgid "Cantidad de capturas de pantalla de la aplicación."
+msgstr "عدد لقطات الشاشة للتطبيق."
+
+#: admin/panel.php:489
+msgid "Capturas"
+msgstr "لقطات"
+
+#: admin/panel.php:493
+msgid "Tomar las calificaciones de la aplicación."
+msgstr "خذ تقييمات التطبيق."
+
+#: admin/panel.php:500
+msgid "Poder importar aplicaciones duplicadas"
+msgstr "تكون قادرة على استيراد التطبيقات المكررة"
+
+#: admin/panel.php:507
+msgid "Al actualizar información de una app"
+msgstr "Al actualizar información de una app"
+
+#: admin/panel.php:511
+msgid "Crear una nueva versión"
+msgstr "قم بإنشاء نسخة جديدة"
+
+#: admin/panel.php:512
+msgid "Crea un post con la versión nueva cuando actualiza una app."
+msgstr "قم بإنشاء رسالة بالإصدار الجديد عندما تقوم بتحديث أحد التطبيقات."
+
+#: admin/panel.php:518
+msgid "Deshabilitar campos"
+msgstr "تعطيل الحقول"
+
+#: admin/panel.php:519
+msgid ""
+"Campos a deshabilitar al momento de actualizar la información de una "
+"aplicación."
+msgstr "الحقول المطلوب تعطيلها عند تحديث معلومات التطبيق."
+
+#: admin/panel.php:528
+msgid "Contenido"
+msgstr "المحتوى"
+
+#: admin/panel.php:530 includes/template-actions.php:1541
+msgid "Ícono"
+msgstr "أيقونة"
+
+#: admin/panel.php:532 admin/panel.php:746 admin/panel.php:851 functions.php:627
+#: functions.php:632 includes/template-actions.php:381
+#: includes/template-actions.php:1064
+msgid "Enlaces de descarga"
+msgstr "روابط التحميل"
+
+#: admin/panel.php:536
+msgid "Eliminar imagen destacada antigua"
+msgstr "إزالة الصورة المميزة القديمة"
+
+#: admin/panel.php:537
+msgid ""
+"Elimina la imagen destacada antigua del post. Afectará también a las versiones "
+"antiguas."
+msgstr ""
+"قم بإزالة الصورة المميزة القديمة من المنشور. سيؤثر على الإصدارات القديمة أيضًا."
+
+#: admin/panel.php:550
+msgid ""
+"Crea una API de Google Drive y coloca el ID de cliente y código secreto en los "
+"siguientes campos."
+msgstr ""
+"قم بإنشاء Google Drive API ووضع معرف العميل والرمز السري في الحقول التالية."
+
+#: admin/panel.php:550
+#, php-format
+msgid "Siga el %s para crear la API."
+msgstr "اتبع %s لإنشاء API."
+
+#: admin/panel.php:550
+msgid "Tutorial"
+msgstr "مرشد"
+
+#: admin/panel.php:553 admin/panel.php:697
+msgid "ID de cliente"
+msgstr "معرف العميل"
+
+#: admin/panel.php:557 admin/panel.php:701
+msgid "Secreto del cliente"
+msgstr "سر العميل"
+
+#: admin/panel.php:561 admin/panel.php:705
+msgid "Carpeta"
+msgstr "مجلد"
+
+#: admin/panel.php:561
+msgid ""
+"Coloca el nombre de una carpeta que se creará automáticamente y se subirán "
+"allí todos los archivos."
+msgstr "أدخل اسم المجلد الذي سيتم إنشاؤه تلقائيًا وسيتم تحميل جميع الملفات هناك."
+
+#: admin/panel.php:570 admin/panel.php:609 admin/panel.php:714
+msgid "Conectar nueva cuenta"
+msgstr "ربط حساب جديد"
+
+#: admin/panel.php:570 admin/panel.php:714
+msgid ""
+"Haga clic aquí solo si ha añadido un nuevo ID de cliente y Secreto. Aparecerá "
+"nuevamente el botón de conectar que deberá pulsar."
+msgstr ""
+"انقر هنا فقط إذا قمت بإضافة معرف عميل وسر جديد. سيظهر زر الاتصال الذي يجب أن "
+"تضغط عليه مرة أخرى."
+
+#: admin/panel.php:577
+msgid "Conectado a Google Drive"
+msgstr "متصل بـ Google Drive"
+
+#: admin/panel.php:579 admin/panel.php:618 admin/panel.php:723
+msgid "Recuerda guardar los cambios antes de realizar la conexión"
+msgstr "تذكر حفظ التغييرات قبل إجراء الاتصال"
+
+#: admin/panel.php:580
+msgid "Conectar a Google Drive"
+msgstr "Connect to Google Drive"
+
+#: admin/panel.php:593
+msgid ""
+"Crea una app en Dropbox y coloca el app key y app secret en los siguientes "
+"campos."
+msgstr "أنشئ تطبيقًا في Dropbox وضع مفتاح التطبيق وسر التطبيق في الحقول التالية."
+
+#: admin/panel.php:593 admin/panel.php:680 admin/panel.php:694
+#, php-format
+msgid "Siga el %s."
+msgstr "اقرأ %s."
+
+#: admin/panel.php:593 admin/panel.php:680 admin/panel.php:694
+msgid "tutorial"
+msgstr "مرشد"
+
+#: admin/panel.php:596
+msgid "App key"
+msgstr "App key"
+
+#: admin/panel.php:600
+msgid "App secret"
+msgstr "App secret"
+
+#: admin/panel.php:609
+msgid ""
+"Haga clic aquí solo si ha añadido un nuevo app key y app secret. Aparecerá "
+"nuevamente el botón de conectar que deberá pulsar."
+msgstr ""
+"انقر هنا فقط إذا قمت بإضافة مفتاح تطبيق جديد وسر تطبيق. سيظهر زر الاتصال مرة "
+"أخرى ، ويجب الضغط عليه."
+
+#: admin/panel.php:616
+msgid "Conectado a Dropbox"
+msgstr "متصل بـ Dropbox"
+
+#: admin/panel.php:619
+msgid "Conectar a Dropbox"
+msgstr "اتصل بـ Dropbox"
+
+#: admin/panel.php:632
+msgid ""
+"¿Tienes un servidor externo? Realiza la conexión vía FTP para que los archivos "
+"importados sea subido a su propio servidor."
+msgstr ""
+"هل لديك خادم خارجي؟ قم بإجراء الاتصال عبر FTP بحيث يمكن تحميل الملفات "
+"المستوردة على الخادم الخاص بك."
+
+#: admin/panel.php:635
+msgid "Nombre o IP del servidor"
+msgstr "Server"
+
+#: admin/panel.php:639
+msgid "Puerto"
+msgstr "Port"
+
+#: admin/panel.php:643 includes/widget-twitter.php:46
+msgid "Usuario"
+msgstr "المستعمل"
+
+#: admin/panel.php:647
+msgid "Contraseña"
+msgstr "Password"
+
+#: admin/panel.php:651
+msgid "Directorio"
+msgstr "Directory"
+
+#: admin/panel.php:652
+msgid "Ubica la ruta exacta donde se guardarán los archivos"
+msgstr "حدد المسار الدقيق حيث سيتم حفظ الملفات"
+
+#: admin/panel.php:659
+msgid "URL"
+msgstr "URL"
+
+#: admin/panel.php:660
+msgid "Coloca la dirección con la que se accederá a tus archivos"
+msgstr "أدخل العنوان الذي سيتم الوصول إلى ملفاتك به"
+
+#: admin/panel.php:667
+msgid "Recuerda guardar los cambios para probar la conexión"
+msgstr "تذكر حفظ التغييرات لاختبار الاتصال"
+
+#: admin/panel.php:668
+msgid "Probar conexión FTP"
+msgstr "اختبار اتصال FTP"
+
+#: admin/panel.php:680
+msgid "Genera una API Key en 1Fichier"
+msgstr "قم بإنشاء مفتاح API في 1Fichier"
+
+#: admin/panel.php:694
+msgid "Crea una app en OneDrive"
+msgstr "أنشئ تطبيقًا في OneDrive"
+
+#: admin/panel.php:721
+msgid "Conectado a OneDrive"
+msgstr "متصل بـ OneDrive"
+
+#: admin/panel.php:724
+msgid "Conectar a OneDrive"
+msgstr "اتصل بـ OneDrive"
+
+#: admin/panel.php:735 functions.php:1268
+msgid "Leer más"
+msgstr "قراءة المزيد"
+
+#: admin/panel.php:736
+msgid "Muestra todo el contenido del post o déjalo con el botón 'leer más'"
+msgstr "اعرض كل محتوى المنشور أو اتركه مع زر \"قراءة المزيد\""
+
+#: admin/panel.php:740
+msgid "Leer más (defecto)"
+msgstr "قراءة المزيد (افتراضي)"
+
+#: admin/panel.php:742
+msgid "Mostrar todo"
+msgstr "اعرض كل شيء"
+
+#: admin/panel.php:747
+msgid "¿Cómo funciona esto?"
+msgstr "كيف يعمل هذا؟"
+
+#: admin/panel.php:749
+msgid "Normal"
+msgstr "عادي"
+
+#: admin/panel.php:751
+msgid "Página interna"
+msgstr "الصفحة الداخلية"
+
+#: admin/panel.php:752
+msgid "Página interna con doble paso"
+msgstr "الصفحة الداخلية مع مرور مزدوج"
+
+#: admin/panel.php:753
+msgid "Página única"
+msgstr "صفحة واحدة"
+
+#: admin/panel.php:758
+msgid "Completar reCaptcha"
+msgstr "إكمال reCaptcha"
+
+#: admin/panel.php:758
+#, php-format
+msgid ""
+"Tiene que completar los códigos de reCaptcha v2 en los campos requeridos en %s"
+msgstr "يجب عليك ملء أكواد reCaptcha v2 في الحقول المطلوبة في %s"
+
+#: admin/panel.php:759
+msgid ""
+"Opción que solicitará al usuario completar el reCaptcha para ver los enlaces "
+"de descarga."
+msgstr "الخيار الذي سيطلب من المستخدم إكمال reCaptcha لرؤية روابط التنزيل."
+
+#: admin/panel.php:770
+msgid "Estilo de los enlaces de descarga"
+msgstr "نمط رابط التنزيل"
+
+#: admin/panel.php:771
+msgid "Escoge el estilo de los enlaces de descarga"
+msgstr "اختر نمط روابط التنزيل"
+
+#: admin/panel.php:774
+msgid "En fila"
+msgstr "في النسق"
+
+#: admin/panel.php:776
+msgid "En fila centrado"
+msgstr "مضمنة في الوسط"
+
+#: admin/panel.php:778
+msgid "En columna"
+msgstr "في العمود"
+
+#: admin/panel.php:786
+msgid "Verificado por..."
+msgstr "أكد عن طريق..."
+
+#: admin/panel.php:787
+msgid "Texto alternativo que se mostrará debajo de los enlaces de descarga"
+msgstr "سيتم عرض النص البديل أسفل روابط التنزيل"
+
+#: admin/panel.php:791
+msgid "Centrado"
+msgstr "المركز"
+
+#: admin/panel.php:799
+msgid "Únete a nuestro grupo de telegram"
+msgstr "انضم إلى مجموعة Telegram الخاصة بنا"
+
+#: admin/panel.php:800
+msgid ""
+"Botón para unirse a Telegram que aparecerá debajo de \"Verificado por...\""
+msgstr "زر للانضمام إلى Telegram الذي سيظهر ضمن \"تم التحقق من قبل ...\""
+
+#: admin/panel.php:804 includes/template-actions.php:1130
+msgid "ÚNETE A NUESTRO GRUPO DE TELEGRAM"
+msgstr "انضم إلى مجموعة Telegram الخاصة بنا"
+
+#: admin/panel.php:809
+msgid "Temporizador de redirección"
+msgstr "إعادة توجيه الموقت"
+
+#: admin/panel.php:810
+msgid "Temporizador para la redirección del enlace de descarga"
+msgstr "الموقت لإعادة توجيه رابط التنزيل"
+
+#: admin/panel.php:813 admin/panel.php:825
+msgid "segundos"
+msgstr "ثانية"
+
+#: admin/panel.php:821
+msgid "Temporizador de descarga"
+msgstr "مؤقت التفريغ"
+
+#: admin/panel.php:822
+msgid "Temporizador para mostrar los enlaces de descarga"
+msgstr "مؤقت لإظهار روابط التنزيل"
+
+#: admin/panel.php:833
+msgid "Diseño de temporizador"
+msgstr "تصميم الموقت"
+
+#: admin/panel.php:835
+msgid "Tipo 1"
+msgstr "النوع 1"
+
+#: admin/panel.php:836
+msgid "Tipo 2"
+msgstr "النوع 2"
+
+#: admin/panel.php:840
+msgid "Ordenar cajas"
+msgstr "مربعات الفرز"
+
+#: admin/panel.php:841
+msgid "Modifica el orden de las cajas a tu gusto"
+msgstr "قم بتعديل ترتيب الصناديق حسب رغبتك"
+
+#: admin/panel.php:846
+msgid "ADS Single Center"
+msgstr "ADS Single Center"
+
+#: admin/panel.php:847 functions.php:534 includes/template-actions.php:541
+msgid "Novedades"
+msgstr "الوافدون الجدد"
+
+#: admin/panel.php:848 functions.php:309 includes/template-actions.php:435
+msgid "Versiones"
+msgstr "إصدارات"
+
+#: admin/panel.php:849 includes/template-actions.php:650
+msgid "Video"
+msgstr "فيديو"
+
+#: admin/panel.php:850 includes/template-actions.php:565
+msgid "Imágenes"
+msgstr "الصور"
+
+#: admin/panel.php:852 admin/panel.php:1184 includes/template-actions.php:713
+msgid "Apps relacionadas"
+msgstr "التطبيقات ذات الصلة"
+
+#: admin/panel.php:853
+msgid "Apps desarrollador"
+msgstr "تطبيقات المطور"
+
+#: admin/panel.php:854 functions.php:314
+msgid "Cajas personalizadas"
+msgstr "مربعات مخصصة"
+
+#: admin/panel.php:855 admin/panel.php:1150
+msgid "Etiquetas"
+msgstr "العلامات"
+
+#: admin/panel.php:860 functions.php:409 includes/ajax.php:115
+#, php-format
+msgid "Caja permanente %s"
+msgstr "صندوق دائم %s"
+
+#: admin/panel.php:864 admin/panel.php:1024
+msgid "Comentarios"
+msgstr "تعليقات"
+
+#: admin/panel.php:881
+msgid "Cajas a quitar en la página de (descarga / redirección) interna "
+msgstr "المربعات المراد إزالتها في الصفحة الداخلية (تنزيل / إعادة توجيه) "
+
+#: admin/panel.php:882
+msgid ""
+"Marca las cajas que no quieres que aparezca en la página de descarga o "
+"redirección interna."
+msgstr ""
+"حدد المربعات التي لا تريد ظهورها في صفحة التنزيل أو إعادة التوجيه الداخلية."
+
+#: admin/panel.php:901
+msgid "Cantidad en la entrada"
+msgstr "المبلغ في البريد"
+
+#: admin/panel.php:902
+msgid "Escoge la cantidad de versiones que aparecerá en la caja de la entrada"
+msgstr "اختر عدد الإصدارات التي ستظهر في مربع المنشور"
+
+#: admin/panel.php:907
+msgid "Cajas a quitar de la entrada de versión antigua"
+msgstr "مربعات لإزالتها من إصدار النسخة القديمة"
+
+#: admin/panel.php:908
+msgid ""
+"Marca las cajas que no quieres que aparezca en las entradas de historial de "
+"versiones."
+msgstr "حدد المربعات التي لا تريد أن تظهر في إدخالات محفوظات الإصدارات."
+
+#: admin/panel.php:922
+msgid "Mostrar enlace directo de descarga"
+msgstr "إظهار ارتباط التنزيل المباشر"
+
+#: admin/panel.php:922
+msgid ""
+"Esta opción permitirá mostrar el enlace de descarga de la versión antigua sin "
+"necesidad que el usuario acceda al post a descargar. Mostrará el primer enlace "
+"de descarga. En caso no exista, el enlace será hacia el post."
+msgstr ""
+"سيعرض هذا الخيار رابط تنزيل الإصدار القديم دون حاجة المستخدم إلى الوصول إلى "
+"المنشور للتنزيل. سيظهر رابط التنزيل الأول. إذا لم يكن موجودًا ، فسيكون الرابط "
+"إلى المنشور."
+
+#: admin/panel.php:923
+msgid "Permitir ir al primer enlace de descarga directamente"
+msgstr "اسمح بالذهاب إلى رابط التنزيل الأول مباشرةً"
+
+#: admin/panel.php:940
+msgid "Logo"
+msgstr "شعار"
+
+#: admin/panel.php:941
+msgid "La imagen debe tener un límite de 60px de altura."
+msgstr "يجب ألا يزيد ارتفاع الصورة عن 60 بكسل."
+
+#: admin/panel.php:952
+msgid "Favicon"
+msgstr "فافيكون"
+
+#: admin/panel.php:961
+#, php-format
+msgid "Sube tus favicons de distintos tamaños para todos los dispositivos. %s"
+msgstr "قم بتحميل الرموز المفضلة بأحجام مختلفة لجميع الأجهزة. %s"
+
+#: admin/panel.php:961
+msgid "Leer tutorial"
+msgstr "اقرأ البرنامج التعليمي"
+
+#: admin/panel.php:966
+msgid "Redes sociales"
+msgstr "الشبكات الاجتماعية"
+
+#: admin/panel.php:970 admin/panel.php:973
+msgid "Color"
+msgstr "اللون"
+
+#: admin/panel.php:972
+msgid "Gris"
+msgstr "رمادي"
+
+#: admin/panel.php:1003
+msgid "Textos"
+msgstr "نصوص"
+
+#: admin/panel.php:1004
+msgid "Modifica algunos textos por defecto"
+msgstr "تعديل بعض النصوص الافتراضية"
+
+#: admin/panel.php:1009 functions.php:124 includes/template-functions.php:1185
+msgid "Aplicaciones más calificadas"
+msgstr "التطبيقات الأعلى تقييمًا"
+
+#: admin/panel.php:1012 functions.php:125 includes/template-functions.php:1186
+msgid "Últimas aplicaciones de nuestra web"
+msgstr "أحدث التطبيقات على موقعنا"
+
+#: admin/panel.php:1018
+msgid "Botón descargar APK"
+msgstr "زر تنزيل APK"
+
+#: admin/panel.php:1025
+msgid "Puedes mostrar los comentarios de Wordpress y también los de Facebook."
+msgstr "يمكنك عرض تعليقات Wordpress وأيضًا تعليقات Facebook."
+
+#: admin/panel.php:1029
+msgid "Comentarios de Wordpress"
+msgstr "تعليقات من WordPress"
+
+#: admin/panel.php:1032 comments.php:42
+msgid "Comentarios de Facebook"
+msgstr "تعليقات من Facebook"
+
+#: admin/panel.php:1035
+msgid "Comentarios de Wordpress y Facebook"
+msgstr "تعليقات من Wordpress و Facebook"
+
+#: admin/panel.php:1038
+msgid "Desactivar comentarios"
+msgstr "تعطيل التعليقات"
+
+#: admin/panel.php:1043 admin/panel.php:1401
+msgid "Códigos header"
+msgstr "رموز الرأس"
+
+#: admin/panel.php:1044
+msgid ""
+"Coloca los códigos en el header, como: Google Analytics, Webmasters, Alexa, "
+"etc."
+msgstr ""
+"ضع أكواد HTML في العنوان ، مثل: Google Analytics ، Webmasters ، Alexa ، إلخ."
+
+#: admin/panel.php:1049
+msgid "Códigos Recaptcha v3"
+msgstr "أكواد Recaptcha v3"
+
+#: admin/panel.php:1050
+msgid ""
+"Para poder evitar que robots envíen los reportes automáticamente se recomienda "
+"usar recaptcha."
+msgstr ""
+"من أجل منع الروبوتات من إرسال التقارير تلقائيًا ، يوصى باستخدام recaptcha."
+
+#: admin/panel.php:1050 admin/panel.php:1070
+msgid "Obtener claves"
+msgstr "احصل على المفاتيح"
+
+#: admin/panel.php:1057 admin/panel.php:1077
+msgid "Clave del sitio"
+msgstr "مفتاح الموقع"
+
+#: admin/panel.php:1061 admin/panel.php:1081
+msgid "Clave secreta"
+msgstr "كلمة السر السرية"
+
+#: admin/panel.php:1069
+msgid "Códigos Recaptcha v2"
+msgstr "أكواد Recaptcha v2"
+
+#: admin/panel.php:1070
+msgid "Complete los códigos de reCaptcha v2."
+msgstr "املأ أكواد reCaptcha v2."
+
+#: admin/panel.php:1089
+msgid "Lazy loading"
+msgstr "Lazy loading"
+
+#: admin/panel.php:1089
+msgid ""
+"Con esta función podrás retrasar la carga de imágenes. Esto hará que la web en "
+"general cargue más rápido debido a que las imágenes no cargarán inicialmente."
+msgstr ""
+"باستخدام هذه الوظيفة ، يمكنك تأخير تحميل الصور. سيؤدي ذلك إلى زيادة سرعة تحميل "
+"الويب الكلي لأن الصور لن يتم تحميلها في البداية."
+
+#: admin/panel.php:1090
+msgid "Retrasar carga de imágenes"
+msgstr "تأخير تحميل الصورة"
+
+#: admin/panel.php:1100
+msgid "Apps de versiones anteriores"
+msgstr "تطبيقات الإصدار السابق"
+
+#: admin/panel.php:1101
+msgid ""
+"Controla la aparición de apps de versiones anteriores en diferentes partes. "
+"Solo aparecerán las últimas versiones."
+msgstr ""
+"تحكم في مظهر تطبيقات الإصدار الأقدم في أجزاء مختلفة. ستظهر فقط أحدث الإصدارات."
+
+#: admin/panel.php:1108
+msgid "Inicio"
+msgstr "الصفحة الرئيسية"
+
+#: admin/panel.php:1115
+msgid "Categorías (Inicio)"
+msgstr "الفئات (الصفحة الرئيسية)"
+
+#: admin/panel.php:1122
+msgid "Apps más calificadas (Inicio)"
+msgstr "التطبيقات الأعلى تقييمًا (الصفحة الرئيسية)"
+
+#: admin/panel.php:1129
+msgid "Buscador"
+msgstr "باحث"
+
+#: admin/panel.php:1136
+msgid "Taxonomía desarrollador"
+msgstr "تصنيف المطور"
+
+#: admin/panel.php:1143 functions.php:202 functions.php:207
+#: includes/widget-categories.php:9 includes/widget-categories.php:19
+#: includes/widget-categories.php:41
+msgid "Categorías"
+msgstr "التصنيفات"
+
+#: admin/panel.php:1157
+msgid "Widgets"
+msgstr "Widgets"
+
+#: admin/panel.php:1165
+msgid "Fecha de cada post"
+msgstr "تاريخ كل منشور"
+
+#: admin/panel.php:1166
+msgid ""
+"Muestra la fecha en que fue creado el post en todas partes (Inicio, Widgets,"
+"etc.)"
+msgstr "اعرض تاريخ إنشاء المنشور في كل مكان (الصفحة الرئيسية ، Widgets ، إلخ.)"
+
+#: admin/panel.php:1176
+msgid "Tipo de fecha"
+msgstr "نوع التاريخ"
+
+#: admin/panel.php:1178
+msgid "Fecha de creación del post"
+msgstr "تاريخ إنشاء ما بعد"
+
+#: admin/panel.php:1180
+msgid "Fecha de última actualización de la app"
+msgstr "تاريخ آخر تحديث للتطبيق"
+
+#: admin/panel.php:1185
+msgid "Escoger la manera de mostrar apps relacionadas"
+msgstr "اختر كيفية عرض التطبيقات ذات الصلة"
+
+#: admin/panel.php:1191
+msgid "Por categoría(s)"
+msgstr "حسب الفئات"
+
+#: admin/panel.php:1194
+msgid "Por etiqueta(s)"
+msgstr "حسب العلامة (العلامات)"
+
+#: admin/panel.php:1197
+msgid "Por título similar"
+msgstr "بعنوان مماثل"
+
+#: admin/panel.php:1200
+msgid "Al azar"
+msgstr "عشوائي"
+
+#: admin/panel.php:1204
+msgid "Información para descargar los archivos"
+msgstr "معلومات لتنزيل الملفات"
+
+#: admin/panel.php:1205
+msgid "Escribe los pasos que servirán de ayuda para el usuario."
+msgstr "اكتب الخطوات التي ستساعد المستخدم."
+
+#: admin/panel.php:1206
+msgid "Autocompletar texto por defecto"
+msgstr "نص الإكمال التلقائي بشكل افتراضي"
+
+#: admin/panel.php:1216
+msgid "Título de la aplicación"
+msgstr "عنوان التطبيق"
+
+#: admin/panel.php:1217
+msgid "Para archivos APK"
+msgstr "لملفات APK"
+
+#: admin/panel.php:1220
+msgid "Para archivos ZIP"
+msgstr "لملفات ZIP"
+
+#: admin/panel.php:1221
+msgid ""
+"Algunos ZIP pueden obtener archivos APK y OBB necesarios para la instalación, "
+"por ello se debe recomendar usar una aplicación para instalar ese tipo de "
+"archivos, nosotros recomendamos \"Split APKs Installer\"."
+msgstr ""
+"يمكن لبعض ملفات ZIP الحصول على ملفات APK و OBB الضرورية للتثبيت ، لذلك يوصى "
+"باستخدام تطبيق لتثبيت هذا النوع من الملفات ، نوصي باستخدام &quot;Split APKs "
+"Installer&quot;."
+
+#: admin/panel.php:1221
+msgid "Ver aplicación"
+msgstr "انظر التطبيق"
+
+#: admin/panel.php:1226
+msgid "Encriptar enlaces"
+msgstr "تشفير الروابط"
+
+#: admin/panel.php:1227
+msgid "Con esta función podrás encriptar los enlaces de descarga."
+msgstr "باستخدام هذه الوظيفة ، ستتمكن من تشفير روابط التنزيل."
+
+#: admin/panel.php:1237
+msgid "Solicitar correo electrónico en reportes"
+msgstr "طلب البريد الإلكتروني في التقارير"
+
+#: admin/panel.php:1238
+msgid ""
+"Activa esta opción si quieres que se le solicite el correo electrónico al "
+"usuario que realiza el reporte."
+msgstr ""
+"قم بتنشيط هذا الخيار إذا كنت تريد أن يتم طلب البريد الإلكتروني من المستخدم "
+"الذي يقوم بإعداد التقرير."
+
+#: admin/panel.php:1248
+msgid "Enviar reporte por correo electrónico"
+msgstr "تقرير البريد الإلكتروني"
+
+#: admin/panel.php:1249
+msgid ""
+"Activa esta opción si quieres que el reporte enviado por el usuario sea "
+"enviado a tu email de administrador."
+msgstr ""
+"قم بتنشيط هذا الخيار إذا كنت تريد إرسال التقرير الذي أرسله المستخدم إلى البريد "
+"الإلكتروني للمسؤول."
+
+#: admin/panel.php:1259
+msgid "Cinta \"actualizado\" desde la modificación del post"
+msgstr "ضع في اعتبارك تعديل المنشور لإظهار الشريط \"المحدث\""
+
+#: admin/panel.php:1259
+msgid ""
+"La cinta de \"Actualizado\" se muestra en los posts durante 15 días de creado "
+"el post. Al activar esta opción se basará en los 15 días de modificado el post."
+msgstr ""
+"يتم عرض شريط \"مُحدَّث\" على المنشورات لمدة 15 يومًا بعد إنشاء المنشور. سيتم تفعيل "
+"هذا الخيار على أساس 15 يومًا بعد تعديل المنشور."
+
+#: admin/panel.php:1260
+msgid "Opción que permitirá mostrar la cinta desde la modificación del post"
+msgstr "الخيار الذي سيسمح بإظهار الشريط من تعديل المنشور"
+
+#: admin/panel.php:1270
+msgid "Desactivar notificaciones de apps por actualizar"
+msgstr "قم بتعطيل الإشعارات لتحديث التطبيقات"
+
+#: admin/panel.php:1285
+msgid "Sección Blog en Home"
+msgstr "قسم المدونة في الصفحة الرئيسية"
+
+#: admin/panel.php:1286
+msgid "Coloque la cantidad de posts que debe aparecer en el home."
+msgstr "ضع عدد المشاركات التي يجب أن تظهر في الصفحة الرئيسية."
+
+#: admin/panel.php:1296
+msgid "Blog Page"
+msgstr "صفحة المدونة"
+
+#: admin/panel.php:1297
+msgid "Coloque la cantidad de posts que debe aparecer en la página blog"
+msgstr "ضع عدد المنشورات التي يجب أن تظهر على صفحة المدونة"
+
+#: admin/panel.php:1307
+msgid "Blog Sidebar"
+msgstr "Blog Sidebar"
+
+#: admin/panel.php:1308
+msgid ""
+"Activa esta opción para que puedas agregar widgets al sidebar exclusivo del "
+"área de blog"
+msgstr ""
+"قم بتنشيط هذا الخيار بحيث يمكنك إضافة عناصر واجهة مستخدم إلى الشريط الجانبي "
+"الحصري لمنطقة المدونة"
+
+#: admin/panel.php:1314
+msgid "Agregar Widgets"
+msgstr "إضافة الحاجيات"
+
+#: admin/panel.php:1325
+msgid "Activo"
+msgstr "نشيط"
+
+#: admin/panel.php:1326
+msgid "Activar o desactivar el sidebar."
+msgstr "تنشيط أو إلغاء تنشيط الشريط الجانبي."
+
+#: admin/panel.php:1335
+msgid "Posición del sidebar"
+msgstr "موضع الشريط الجانبي"
+
+#: admin/panel.php:1336
+msgid "Escoja la ubicación del sidebar."
+msgstr "اختر موقع الشريط الجانبي."
+
+#: admin/panel.php:1340
+msgid "Derecha"
+msgstr "حق"
+
+#: admin/panel.php:1342
+msgid "Izquierda"
+msgstr "اليسار"
+
+#: admin/panel.php:1351
+msgid "Estilo de color"
+msgstr "نمط اللون"
+
+#: admin/panel.php:1352
+msgid "Escoja el tipo de tono que tendrá el tema."
+msgstr "اختر نوع النغمة التي سيكون لها الموضوع."
+
+#: admin/panel.php:1355
+msgid "Claro"
+msgstr "واضح"
+
+#: admin/panel.php:1357
+msgid "Oscuro"
+msgstr "داكن"
+
+#: admin/panel.php:1359
+msgid "Navegador"
+msgstr "المستعرض"
+
+#: admin/panel.php:1363
+msgid "Que el usuario escoja color"
+msgstr "دع المستخدم يختار اللون"
+
+#: admin/panel.php:1364
+msgid "Permitir que el usuario seleccione el color del tema."
+msgstr "السماح للمستخدم بتحديد لون المظهر."
+
+#: admin/panel.php:1372
+msgid "Color principal"
+msgstr "اللون الأساسي"
+
+#: admin/panel.php:1373
+msgid "Escoja el color principal del tema."
+msgstr "اختر اللون الرئيسي للموضوع."
+
+#: admin/panel.php:1396
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: admin/panel.php:1397
+msgid "Coloca el ID de Analytics"
+msgstr "أدخل معرّف Analytics"
+
+#: admin/panel.php:1402
+#, php-format
+msgid "Coloca los códigos en el header (dentro de la etiqueta %s)"
+msgstr "ضع الرموز في رأس الصفحة (داخل علامة %s)"
+
+#: admin/panel.php:1406
+msgid "Códigos body"
+msgstr "رموز الجسم"
+
+#: admin/panel.php:1407
+#, php-format
+msgid "Coloca códigos debajo de la etiqueta %s"
+msgstr "ضع الرموز تحت علامة %s"
+
+#: admin/panel.php:1411
+msgid "Añade el código de anuncio para la versión AMP"
+msgstr "أضف رمز الإعلان لنسخة AMP"
+
+#: admin/panel.php:1417
+msgid "Añade el código de anuncio para esas secciones en la versión AMP."
+msgstr "أضف رمز الإعلان لهذه الأقسام في إصدار AMP."
+
+#: admin/panel.php:1423
+msgid "Añade el código de anuncio para el single y page en la versión AMP."
+msgstr "أضف رمز الإعلان للصفحة الفردية والصفحة في إصدار AMP."
+
+#: admin/panel.php:1430
+msgid ""
+"Añade el código de anuncio para el single y page en la parte central en la "
+"versión AMP."
+msgstr "أضف رمز الإعلان للصفحة الفردية والصفحة في المنتصف في إصدار AMP."
+
+#: admin/panel.php:1437 admin/panel.php:1509 admin/panel.php:1517
+#: admin/panel.php:1525 admin/panel.php:1533
+msgid "(Página interna)"
+msgstr "(صفحة داخلية)"
+
+#: admin/panel.php:1438
+msgid ""
+"Añade el código de anuncio para la parte superior de los enlaces de descarga "
+"en la página interna de la versión AMP."
+msgstr "أضف شفرة الإعلان أعلى روابط التنزيل في الصفحة الداخلية لإصدار AMP."
+
+#: admin/panel.php:1450
+msgid "Texto encima de cada anuncio (Opcional)"
+msgstr "نص فوق كل إعلان (اختياري)"
+
+#: admin/panel.php:1451
+msgid "Coloca un texto encima de cada anuncio."
+msgstr "ضع نصًا فوق كل إعلان."
+
+#: admin/panel.php:1457
+msgid "Añade el código de anuncio debajo del header."
+msgstr "أضف رمز الإعلان أسفل العنوان."
+
+#: admin/panel.php:1462 admin/panel.php:1476 admin/panel.php:1489
+#: admin/panel.php:1501 admin/panel.php:1525 admin/panel.php:1533
+#: admin/panel.php:1565 admin/panel.php:1573 admin/panel.php:1581
+msgid "Móvil"
+msgstr "التليفون المحمول"
+
+#: admin/panel.php:1463
+msgid "Añade el código de anuncio para la versión móvil"
+msgstr "أضف رمز الإعلان الخاص بإصدار الجوال"
+
+#: admin/panel.php:1470
+msgid "Añade el código de anuncio para esas secciones."
+msgstr "أضف رمز الإعلان لتلك الأقسام."
+
+#: admin/panel.php:1477
+msgid "Añade el código de anuncio para esas secciones en la versión móvil."
+msgstr "أضف رمز الإعلان لهذه الأقسام في إصدار الجوال."
+
+#: admin/panel.php:1484
+msgid "Añade el código de anuncio para el single y page."
+msgstr "أضف رمز الإعلان للصفحة الفردية."
+
+#: admin/panel.php:1490
+msgid "Añade el código de anuncio para el single y page en la versión móvil."
+msgstr "أضف شفرة الإعلان الخاصة بالصفحة والصفحة في إصدار الجوال."
+
+#: admin/panel.php:1496
+msgid "Añade el código de anuncio para el single y page en la parte central."
+msgstr "أضف رمز الإعلان للصفحة الفردية والصفحة في المنتصف."
+
+#: admin/panel.php:1502
+msgid ""
+"Añade el código de anuncio para el single y page en la parte central en la "
+"versión móvil."
+msgstr "أضف رمز الإعلان للصفحة والصفحة في الجزء المركزي في إصدار الجوال."
+
+#: admin/panel.php:1510
+msgid ""
+"Añade el código de anuncio para la parte superior de los enlaces de descarga "
+"en la página interna."
+msgstr "أضف شفرة الإعلان إلى أعلى روابط التنزيل على الصفحة الداخلية."
+
+#: admin/panel.php:1518
+msgid ""
+"Añade el código de anuncio para la parte inferior de los enlaces de descarga "
+"en la página interna."
+msgstr "أضف شفرة الإعلان إلى أسفل روابط التنزيل على الصفحة الداخلية."
+
+#: admin/panel.php:1526
+msgid ""
+"Añade el código de anuncio para la parte superior de los enlaces de descarga "
+"en la página interna en la versión móvil."
+msgstr ""
+"أضف رمز الإعلان إلى أعلى روابط التنزيل على الصفحة الداخلية في إصدار الجوال."
+
+#: admin/panel.php:1534
+msgid ""
+"Añade el código de anuncio para la parte inferior de los enlaces de descarga "
+"en la página interna en la versión móvil."
+msgstr ""
+"أضف شفرة الإعلان إلى أسفل روابط التنزيل على الصفحة الداخلية في إصدار الجوال."
+
+#: admin/panel.php:1541 admin/panel.php:1549 admin/panel.php:1557
+#: admin/panel.php:1565 admin/panel.php:1573 admin/panel.php:1581
+msgid "(Página única)"
+msgstr "(صفحة واحدة)"
+
+#: admin/panel.php:1542
+msgid ""
+"Añade el código de anuncio para la parte superior de los enlaces de descarga "
+"en la página única."
+msgstr "أضف شفرة الإعلان أعلى روابط التنزيل في الصفحة الواحدة."
+
+#: admin/panel.php:1550 admin/panel.php:1558
+msgid ""
+"Añade el código de anuncio para la parte inferior de los enlaces de descarga "
+"en la página única."
+msgstr "أضف شفرة الإعلان إلى أسفل روابط التنزيل في الصفحة الواحدة."
+
+#: admin/panel.php:1566
+msgid ""
+"Añade el código de anuncio para la parte superior de los enlaces de descarga "
+"en la página única en la versión móvil."
+msgstr ""
+"أضف رمز الإعلان أعلى روابط التنزيل على الصفحة الواحدة على الهاتف المحمول."
+
+#: admin/panel.php:1574 admin/panel.php:1582
+msgid ""
+"Añade el código de anuncio para la parte inferior de los enlaces de descarga "
+"en la página única en la versión móvil."
+msgstr ""
+"أضف شفرة الإعلان إلى أسفل روابط التنزيل على الصفحة الفردية على الهاتف المحمول."
+
+#: admin/panel.php:1594
+msgid "Texto Footer"
+msgstr "نص التذييل"
+
+#: admin/panel.php:1595
+msgid "Coloca cualquier texto en el footer. Permite HTML."
+msgstr "ضع أي نص في التذييل. السماح بتنسيق HTML."
+
+#: admin/panel.php:1600
+msgid "Códigos Footer"
+msgstr "رموز التذييل"
+
+#: admin/panel.php:1642
+msgid ""
+"Estos valores son importantes para poder descargar y/o subir el APK de gran "
+"peso a su servidor o servidores externos."
+msgstr ""
+"هذه القيم مهمة لتكون قادرًا على تنزيل و / أو تحميل ملف APK الثقيل إلى خادمك أو "
+"خوادم خارجية."
+
+#: admin/panel.php:1642
+msgid "¿Cómo cambiar estos valores?"
+msgstr "كيف تغير هذه القيم؟"
+
+#: admin/panel.php:1647
+msgid "Activado"
+msgstr "مفعل"
+
+#: admin/panel.php:1647
+msgid "Desactivado"
+msgstr "معاق"
+
+#: admin/panel.php:1651 admin/panel.php:1655
+msgid "Se recomienda mayor o igual a 300"
+msgstr "من المستحسن أن تكون أكبر من أو تساوي 300"
+
+#: admin/panel.php:1659 admin/panel.php:1663 admin/panel.php:1667
+msgid "Se recomienda mayor o igual a 4G"
+msgstr "من المستحسن أن تكون أكبر من أو تساوي 4G"
+
+#: admin/panel.php:1879
+msgid "Número de elementos por página"
+msgstr "عدد العناصر في الصفحة"
+
+#: amp/single-versions.php:27 single-versions.php:27
+msgid "Regresar"
+msgstr "لكي ترجع"
+
+#: archive-blog.php:21 archive.php:37 category.php:32
+#: includes/widget-mas-calificados.php:48 includes/widget-mas-vistos-blog.php:40
+#: includes/widget-mas-vistos.php:48 includes/widget-mejor-calificados.php:49
+#: includes/widget-ultimos-posts-blog.php:39 includes/widget-ultimos-posts.php:47
+#: search.php:15 tag.php:26 taxonomy-cblog.php:26 taxonomy-dev.php:27
+msgid "No hay entradas"
+msgstr "لا تذاكر"
+
+#: archive.php:7 archive.php:10
+msgid "Apps"
+msgstr "تطبيقات"
+
+#: archive.php:13
+msgid "Apps de"
+msgstr "تطبيقات"
+
+#: comments.php:10
+msgid "Un comentario en"
+msgstr "تعليق على"
+
+#: comments.php:10
+msgid "comentarios en"
+msgstr "تعليقات على"
+
+#: comments.php:29
+msgid "Comentarios cerrados"
+msgstr "التعليقات مغلقة"
+
+#: functions.php:17
+msgid "menu"
+msgstr "قائمة طعام"
+
+#: functions.php:19
+msgid "menu movil"
+msgstr "قائمة المحمول"
+
+#: functions.php:21
+msgid "menu footer"
+msgstr "تذييل القائمة"
+
+#: functions.php:80
+msgid "Theme Appyn para aplicaciones Android"
+msgstr "Appyn Theme لتطبيقات Android"
+
+#: functions.php:90
+msgid "Derechos reservados"
+msgstr "كل الحقوق محفوظة"
+
+#: functions.php:109 functions.php:145
+msgid "¿Cómo instalar [Title] APK?"
+msgstr "كيفية تثبيت [Title] APK؟"
+
+#: functions.php:110 functions.php:146
+msgid "1. Toca el archivo [Title] APK descargado."
+msgstr "1. اضغط على ملف APK [Title] الذي تم تنزيله."
+
+#: functions.php:111 functions.php:147
+msgid "2. Toca instalar."
+msgstr "2. المس تثبيت."
+
+#: functions.php:112 functions.php:148
+msgid "3. Sigue los pasos que aparece en pantalla."
+msgstr "3. اتبع الخطوات التي تظهر على الشاشة."
+
+#: functions.php:116 functions.php:152
+msgid "¿Cómo instalar [Title]?"
+msgstr "كيف يتم تثبيت [Title]؟"
+
+#: functions.php:117 functions.php:153
+msgid "1. Descargar el archivo ZIP."
+msgstr "1. قم بتنزيل ملف ZIP."
+
+#: functions.php:118 functions.php:154
+#, php-format
+msgid "2. Instale la aplicación %s"
+msgstr "2. قم بتثبيت تطبيق %s"
+
+#: functions.php:119 functions.php:155
+msgid "3. Abra la aplicación y pulse en \"Instalar APKs\"."
+msgstr "3. افتح التطبيق وانقر على \"تثبيت APKs\"."
+
+#: functions.php:120 functions.php:156
+msgid "4. Busque la carpeta donde se encuentra el ZIP descargado y selecciónelo."
+msgstr "4. ابحث عن المجلد الذي يوجد به ملف ZIP الذي تم تنزيله وحدده."
+
+#: functions.php:121 functions.php:157
+msgid "5. Sigue los pasos que aparece en pantalla."
+msgstr "5. اتبع الخطوات التي تظهر على الشاشة."
+
+#: functions.php:127 template-parts/single-infoapp.php:26
+msgid "Descargar APK"
+msgstr "تحميل APK"
+
+#: functions.php:190 functions.php:195 includes/ajax.php:31
+#: includes/template-actions.php:1469 includes/template-actions.php:1475
+#: taxonomy-dev.php:5
+msgid "Desarrollador"
+msgstr "مطور"
+
+#: functions.php:229
+msgid "versiones"
+msgstr "الإصدارات"
+
+#: functions.php:310
+msgid "Información de la aplicación"
+msgstr "معلومات التطبيق"
+
+#: functions.php:311
+msgid "Video de la aplicación"
+msgstr "فيديو التطبيق"
+
+#: functions.php:312
+msgid "Imágenes de la aplicación"
+msgstr "صور التطبيق"
+
+#: functions.php:313
+msgid "Enlaces de descarga de la aplicación"
+msgstr "روابط تحميل التطبيق"
+
+#: functions.php:315
+msgid "Cajas personalizadas permanentes"
+msgstr "صناديق مخصصة دائمة"
+
+#: functions.php:316
+msgid "Control de anuncios"
+msgstr "التحكم في الإعلانات"
+
+#: functions.php:327 includes/class-list-table-atul.php:144
+msgid "Fecha de actualización"
+msgstr "تاريخ التحديث"
+
+#: functions.php:386
+msgid "No hay versiones"
+msgstr "لا توجد إصدارات"
+
+#: functions.php:398
+msgid "Desactivar anuncios"
+msgstr "عطل الاعلانات"
+
+#: functions.php:410 functions.php:430 includes/ajax.php:96 includes/ajax.php:116
+msgid "Título para la caja"
+msgstr "عنوان الصندوق"
+
+#: functions.php:414 functions.php:434 includes/ajax.php:102
+#: includes/ajax.php:120
+msgid "Borrar caja"
+msgstr "صندوق واضح"
+
+#: functions.php:419 functions.php:439
+msgid "Añadir caja"
+msgstr "إضافة مربع"
+
+#: functions.php:449
+msgid "Estado de aplicación"
+msgstr "حالة التطبيق"
+
+#: functions.php:450
+msgid ""
+"Con esta opción aparecerá una franja en cada aplicación lo cual indicará si se "
+"ha actualizado o es una aplicación nueva. La opción activa tendrá un tiempo de "
+"duración de 2 semanas basada en la fecha de publicación del post. Por ejemplo, "
+"si usted marca \"Actualizado\" y la fecha de creación del post es hoy, la "
+"franja aparecerá solo por 2 semanas."
+msgstr ""
+"باستخدام هذا الخيار ، سيظهر شريط في كل تطبيق يوضح ما إذا كان قد تم تحديثه أم "
+"أنه تطبيق جديد. سيكون الخيار النشط لمدة أسبوعين بناءً على تاريخ نشر المنشور. "
+"على سبيل المثال ، إذا حددت \"مُحدَّث\" وكان تاريخ إنشاء المنشور اليوم ، فسيظهر "
+"الشريط لمدة أسبوعين فقط."
+
+#: functions.php:464 includes/template-actions.php:1497
+#: template-parts/template-download.php:22
+msgid "Tamaño"
+msgstr "بحجم"
+
+#: functions.php:468
+msgid "Última actualización"
+msgstr "اخر تحديث"
+
+#: functions.php:472 includes/template-actions.php:442
+#: includes/template-actions.php:1513 template-parts/template-download.php:26
+msgid "Requerimientos"
+msgstr "المتطلبات"
+
+#: functions.php:476 includes/template-actions.php:1530
+msgid "Consíguelo en"
+msgstr "احصل عليه"
+
+#: functions.php:484
+msgid "Número de votos"
+msgstr "عدد الأصوات"
+
+#: functions.php:488
+msgid "Media"
+msgstr "نصف"
+
+#: functions.php:492 includes/template-actions.php:1521
+msgid "Descargas"
+msgstr "التحميلات"
+
+#: functions.php:495
+msgid "Tipo de aplicación (Categoría)"
+msgstr "نوع التطبيق (الفئة)"
+
+#: functions.php:504
+msgid "Sistema operativo"
+msgstr "نظام التشغيل"
+
+#: functions.php:518
+msgid "Gratis"
+msgstr "مجانا"
+
+#: functions.php:520
+msgid "Pago"
+msgstr "دفع"
+
+#: functions.php:554 functions.php:705
+msgid "Subir"
+msgstr "اذهب للأعلى"
+
+#: functions.php:592
+msgid "Añadir imágenes"
+msgstr "إضافة الصور"
+
+#: functions.php:628 functions.php:633 functions.php:699
+msgid "Enlace directo / Redirección"
+msgstr "ارتباط مباشر / إعادة توجيه"
+
+#: functions.php:630 functions.php:634 functions.php:704
+msgid "Descarga directa"
+msgstr "تحميل مباشر"
+
+#: functions.php:641
+msgid "Tipo de archivos"
+msgstr "نوع الملفات"
+
+#: functions.php:642
+#, php-format
+msgid ""
+"Marque qué tipo de archivo el usuario descargará. Gracias a esto podrá mostrar "
+"unos pasos según el tipo de opción escogida. <a href=\"%s\">Ver/Editar los "
+"pasos</a>"
+msgstr ""
+"تحقق من نوع الملف الذي سيقوم المستخدم بتنزيله. بفضل هذا ستتمكن من إظهار بعض "
+"الخطوات وفقًا لنوع الخيار المختار. <a href=\"%s\"> عرض/تحرير الخطوات </a>"
+
+#: functions.php:657
+msgid "Para eliminar un campo solo déjelo vacío"
+msgstr "لحذف حقل اتركه فارغًا"
+
+#: functions.php:658
+msgid "Enlaces 'nofollow' por defecto"
+msgstr "روابط \"nofollow\" الافتراضية"
+
+#: functions.php:664
+msgid "Enlace"
+msgstr "حلقة الوصل"
+
+#: functions.php:665
+msgid "Texto"
+msgstr "نص"
+
+#: functions.php:666
+msgid "Atributo"
+msgstr "ينسب"
+
+#: functions.php:691
+msgid "Añadir enlace"
+msgstr "إضافة رابط"
+
+#: functions.php:692
+msgid "Ver en la documentación"
+msgstr "انظر في الوثائق"
+
+#: functions.php:779
+msgid "Seguir leyendo"
+msgstr "تابع القراءة"
+
+#: functions.php:1266
+msgid "Votar"
+msgstr "تصويت"
+
+#: functions.php:1267 includes/template-functions.php:49
+msgid "Votos"
+msgstr "الأصوات"
+
+#: functions.php:1269
+msgid "Leer menos"
+msgstr "أقرأ أقل"
+
+#: functions.php:1270
+msgid "de"
+msgstr "من"
+
+#: functions.php:1271
+msgid "Gracias por enviarnos su reporte."
+msgstr "شكرا لك على إرسال التقرير الخاص بك إلينا."
+
+#: functions.php:1412
+msgid "No hay archivo para descargar."
+msgstr "لا يوجد ملف للتحميل."
+
+#: includes/admin.php:42
+msgid "Ocurrió un error"
+msgstr "حدث خطأ"
+
+#: includes/admin.php:62
+#, php-format
+msgid "Está disponible una nueva versión del theme %s"
+msgstr "يتوفر إصدار جديد من السمة %s"
+
+#: includes/admin.php:62
+#, php-format
+msgid "Revisa los detalles de la versión %s"
+msgstr "تحقق من تفاصيل الإصدار %s"
+
+#: includes/admin.php:62
+msgid "Descárgala ahora"
+msgstr "التحميل الان"
+
+#: includes/admin.php:174
+msgid "Convertir en versión anterior"
+msgstr "التحويل إلى الإصدار السابق"
+
+#: includes/admin.php:208
+msgid "Actualizar información"
+msgstr "تحديث المعلومات"
+
+#: includes/admin.php:221
+msgid "Ver post padre"
+msgstr "انظر وظيفة الوالدين"
+
+#: includes/admin.php:316
+msgid "Importante: Este post es una versión antigua"
+msgstr "هام: هذا المنشور نسخة قديمة"
+
+#: includes/admin.php:320
+msgid ""
+"¿Quiere actualizar la información de esta aplicación? Recuerda que reemplazará "
+"toda la información."
+msgstr ""
+"هل تريد تحديث المعلومات في هذا التطبيق؟ تذكر أنه سيحل محل جميع المعلومات."
+
+#: includes/admin.php:418 includes/admin.php:422
+msgid "Convertir a versión anterior"
+msgstr "التحويل إلى الإصدار السابق"
+
+#: includes/admin.php:478 includes/class-ftp.php:30
+#, php-format
+msgid "No se pudo conectar a \"%s\". Verifique nuevamente"
+msgstr "تعذر الاتصال بـ \"%s\". تحقق مرة اخرى"
+
+#: includes/admin.php:480
+msgid "Complete el campo URL"
+msgstr "املأ حقل URL"
+
+#: includes/admin.php:483 includes/class-ftp.php:35
+msgid "No se puede cambiar al modo pasivo"
+msgstr "لا يمكن التبديل إلى الوضع الخامل"
+
+#: includes/admin.php:493
+msgid "¡Se ha creado el archivo \"test-file.txt\" en su servidor!"
+msgstr "تم إنشاء ملف \"test-file.txt\" على الخادم الخاص بك!"
+
+#: includes/admin.php:497
+msgid ""
+"Es importante que coloque el campo URL ya que esa será la dirección con la que "
+"los usuarios accederán a descargar los archivos. Complete el campo y realice "
+"nuevamente el test de conexión."
+msgstr ""
+"من المهم أن تضع حقل URL لأن هذا سيكون العنوان الذي سيصل المستخدمون من خلاله "
+"لتنزيل الملفات. املأ الحقل وقم بإجراء اختبار الاتصال مرة أخرى."
+
+#: includes/admin.php:499
+#, php-format
+msgid "Accede al archivo a través de este %s"
+msgstr "قم بالوصول إلى الملف من خلال%s"
+
+#: includes/admin.php:499
+msgid "enlace"
+msgstr "حلقة الوصل"
+
+#: includes/admin.php:499
+msgid ""
+"Si no puede acceder al enlace debe colocar el campo URL de manera correcta."
+msgstr "إذا لم تتمكن من الوصول إلى الرابط ، يجب أن تضع حقل عنوان URL بشكل صحيح."
+
+#: includes/admin.php:500
+msgid ""
+"Si accedió al enlace y apareció el texto \"Hello World\" entonces la conexión "
+"fue exitosa."
+msgstr ""
+"إذا قمت بالوصول إلى الرابط وظهر النص \"Hello World\" ، فهذا يعني أن الاتصال "
+"كان ناجحًا."
+
+#: includes/admin.php:503
+msgid ""
+"No se pudo generar el archivo de prueba. Es posible que el directorio que ha "
+"colocado no exista."
+msgstr "تعذر إنشاء ملف الاختبار. قد لا يكون الدليل الذي قمت بوضعه موجودًا."
+
+#: includes/admin.php:508 includes/class-ftp.php:46
+msgid "Datos del servidor incorrectos. Verifique nuevamente"
+msgstr "بيانات الخادم غير صحيحة. تحقق مرة اخرى"
+
+#: includes/ajax.php:171
+msgid "Post reportado"
+msgstr "تم الإبلاغ عن المشاركة"
+
+#: includes/ajax.php:172
+msgid "Hola, tienes un post reportado"
+msgstr "مرحبا ، لديك وظيفة المبلغ عنها"
+
+#: includes/ajax.php:173
+msgid "Post"
+msgstr "Post"
+
+#: includes/ajax.php:174
+msgid "Asunto"
+msgstr "الموضوع"
+
+#: includes/ajax.php:180
+msgid "Email"
+msgstr "بريد إلكتروني"
+
+#: includes/ajax.php:226
+msgid "Archivo subido y asignado al post."
+msgstr "تم تحميل الملف وتعيينه إلى الوظيفة."
+
+#: includes/class-dropbox.php:200
+msgid "Error: Token de acceso incorrecto"
+msgstr "خطأ: رمز وصول غير صالح"
+
+#: includes/class-ftp.php:43
+msgid "No se pudo subir el archivo"
+msgstr "لا يمكن تحميل الملف"
+
+#: includes/class-list-table-atul.php:97
+msgid "No hay apps para actualizar"
+msgstr "لا توجد تطبيقات للتحديث"
+
+#: includes/class-list-table-atul.php:105
+msgid "Ver en Google Play"
+msgstr "عرض على Google Play"
+
+#: includes/class-list-table-atul.php:128 includes/class-list-table-atul.php:161
+msgid "Actualizar"
+msgstr "للتحديث"
+
+#: includes/class-list-table-atul.php:142
+msgid "Versión actual"
+msgstr "النسخة الحالية"
+
+#: includes/class-list-table-atul.php:143
+msgid "Nueva Versión"
+msgstr "نسخة جديدة"
+
+#: includes/class-list-table-atul.php:207
+msgid "Todos"
+msgstr "الجميع"
+
+#: includes/class-upload-apk.php:211 includes/class-upload-apk.php:217
+#, php-format
+msgid "Error: %s"
+msgstr "خطأ: %s"
+
+#: includes/class-upload-apk.php:217
+msgid "Ocurrió un problema con el servidor de carga"
+msgstr "حدثت مشكلة في خادم التحميل"
+
+#: includes/class-upload-apk.php:240
+msgid "El archivo pesa 0KB. No fue descargado ni subido"
+msgstr "يزن الملف 0KB. لم يتم تحميلها ولا تحميلها"
+
+#: includes/class-upload-apk.php:291
+msgid "Falta la conexión con Dropbox"
+msgstr "اتصال Dropbox مفقود"
+
+#: includes/class-upload-apk.php:319
+msgid "No ha realizado la conexión a Google Drive"
+msgstr "لم تقم بإجراء اتصال بـ Google Drive"
+
+#: includes/class-upload-apk.php:360
+msgid "Complete los campos para la conexión FTP"
+msgstr "قم بملء الحقول الخاصة باتصال FTP"
+
+#: includes/class-upload-apk.php:387
+msgid "Coloque el API Key de 1Fichier"
+msgstr "ضع 1Fichier API Key"
+
+#: includes/class-upload-apk.php:418
+msgid "No ha realizado la conexión a OneDrive"
+msgstr "أنت غير متصل بـ OneDrive"
+
+#: includes/template-actions.php:137 includes/template-actions.php:197
+msgid "Ver más"
+msgstr "المزيد"
+
+#: includes/template-actions.php:441
+msgid "Peso"
+msgstr "وزن"
+
+#: includes/template-actions.php:443
+msgid "Fecha"
+msgstr "تاريخ"
+
+#: includes/template-actions.php:523
+msgid "Ver más versiones"
+msgstr "رؤية المزيد من الإصدارات"
+
+#: includes/template-actions.php:762
+msgid "Apps del desarrollador"
+msgstr "تطبيقات المطور"
+
+#: includes/template-actions.php:784
+msgid "TAGS"
+msgstr "العلامات"
+
+#: includes/template-actions.php:895
+msgid "Reportar esta app"
+msgstr "الإبلاغ عن هذا التطبيق"
+
+#: includes/template-actions.php:902
+msgid "Detalle del reporte (Opcional)"
+msgstr "تفاصيل التقرير (اختياري)"
+
+#: includes/template-actions.php:907
+msgid "Email *"
+msgstr "بريد إلكتروني *"
+
+#: includes/template-actions.php:909 template-parts/single-infoapp-get.php:58
+#: template-parts/single-infoapp.php:40
+msgid "Reportar"
+msgstr "نقل"
+
+#: includes/template-actions.php:1062 template-parts/single-infoapp-get.php:21
+msgid "Enlace de descarga"
+msgstr "رابط التحميل"
+
+#: includes/template-actions.php:1092 template-parts/single-infoapp-get.php:23
+#: template-parts/single-infoapp.php:23
+msgid "Descargar"
+msgstr "للتنزيل"
+
+#: includes/template-actions.php:1413
+msgid "Mostrar enlaces"
+msgstr "إظهار الروابط"
+
+#: includes/template-actions.php:1489
+msgid "Actualización"
+msgstr "تطوير"
+
+#: includes/template-functions.php:37
+msgid "Calificación"
+msgstr "المؤهل"
+
+#: includes/template-functions.php:37
+msgid "estrellas"
+msgstr "النجوم"
+
+#: includes/template-functions.php:51
+msgid "No hay votos"
+msgstr "لا اصوات"
+
+#: includes/template-functions.php:150
+msgid "Navegación de comentarios"
+msgstr "تصفح التعليقات"
+
+#: includes/template-functions.php:153
+msgid "Comentarios antiguos"
+msgstr "التعليقات القديمة"
+
+#: includes/template-functions.php:157
+msgid "Comentarios más nuevos"
+msgstr "أحدث التعليقات"
+
+#: includes/template-functions.php:189
+msgid "No funcionan los enlaces de descarga"
+msgstr "روابط التنزيل لا تعمل"
+
+#: includes/template-functions.php:190
+msgid "Hay una nueva versión"
+msgstr "هناك نسخة جديدة"
+
+#: includes/template-functions.php:191
+msgid "Otros"
+msgstr "الآخرين"
+
+#: includes/template-functions.php:322
+msgid "Deja un comentario"
+msgstr "اترك تعليقا"
+
+#: includes/template-functions.php:343
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: includes/template-functions.php:343 includes/template-functions.php:349
+#: includes/template-functions.php:379
+msgid "(Editar)"
+msgstr "(تعديل)"
+
+#: includes/template-functions.php:349
+msgid "Trackback:"
+msgstr "Trackback:"
+
+#: includes/template-functions.php:366
+msgid "dice"
+msgstr "هو يقول"
+
+#: includes/template-functions.php:369
+msgid "Tu comentario está en espera de aprobación."
+msgstr "تعليقك ينتظر الموافقة."
+
+#: includes/template-functions.php:374
+#, php-format
+msgid "%1$s a las %2$s"
+msgstr "%1$s الساعة %2$s"
+
+#: includes/template-functions.php:828
+msgid "De pago"
+msgstr "دفع"
+
+#: includes/template-functions.php:1033 includes/template-functions.php:1267
+msgid "Nuevo"
+msgstr "جديد"
+
+#: includes/template-functions.php:1038 includes/template-functions.php:1042
+#: includes/template-functions.php:1268
+msgid "Actualizado"
+msgstr "محدث"
+
+#: includes/template-functions.php:1144 includes/template-functions.php:1152
+msgid "(No activado)"
+msgstr "(غير مفعل)"
+
+#: includes/template-functions.php:1146
+msgid "(Falta token de acceso)"
+msgstr "(رمز الوصول مفقود)"
+
+#: includes/template-functions.php:1278
+msgid "Ninguno"
+msgstr "لا شيء"
+
+#: includes/template-functions.php:1305
+msgid "Juegos"
+msgstr "ألعاب"
+
+#: includes/template-functions.php:1306
+msgid "Juegos de acción"
+msgstr "ألعاب حركة"
+
+#: includes/template-functions.php:1307
+msgid "Juegos de aventura"
+msgstr "مغامرات"
+
+#: includes/template-functions.php:1308
+msgid "Juegos de carreras"
+msgstr "سباق"
+
+#: includes/template-functions.php:1309
+msgid "Juegos de cartas"
+msgstr "الورق"
+
+#: includes/template-functions.php:1310
+msgid "Juegos de casino"
+msgstr "كازينو"
+
+#: includes/template-functions.php:1311
+msgid "Juegos educativos"
+msgstr "تعليمية"
+
+#: includes/template-functions.php:1312
+msgid "Juegos de estrategia"
+msgstr "استراتيجية"
+
+#: includes/template-functions.php:1313
+msgid "Juegos de deportes"
+msgstr "رياضة"
+
+#: includes/template-functions.php:1314
+msgid "Juegos de mesa"
+msgstr "لوحة"
+
+#: includes/template-functions.php:1315
+msgid "Juegos de palabras"
+msgstr "كلمات"
+
+#: includes/template-functions.php:1316
+msgid "Juegos de rol"
+msgstr "تقمص الأدوار"
+
+#: includes/template-functions.php:1317
+msgid "Juegos ocasionales"
+msgstr "خفيفة"
+
+#: includes/template-functions.php:1318
+msgid "Juegos de música"
+msgstr "موسيقى"
+
+#: includes/template-functions.php:1319
+msgid "Preguntas y respuestas"
+msgstr "معلومات عامة"
+
+#: includes/template-functions.php:1320
+msgid "Juegos de rompecabezas"
+msgstr "ألغاز"
+
+#: includes/template-functions.php:1321
+msgid "Sala de juegos"
+msgstr "ألعاب كلاسيكية"
+
+#: includes/template-functions.php:1322
+msgid "Juegos de simulación"
+msgstr "المحاكاة"
+
+#: includes/template-functions.php:1323
+msgid "Aplicaciones de video"
+msgstr "أدوات الفيديو"
+
+#: includes/template-functions.php:1324
+msgid "Apps de reloj"
+msgstr "تطبيقات الساعة الذكية"
+
+#: includes/template-functions.php:1325
+msgid "Arte y diseño"
+msgstr "فن وتصميم"
+
+#: includes/template-functions.php:1326
+msgid "Autos y vehículos"
+msgstr "سيارات ومركبات"
+
+#: includes/template-functions.php:1327
+msgid "Belleza"
+msgstr "الجمال"
+
+#: includes/template-functions.php:1328
+msgid "Bibliotecas y demostración"
+msgstr "المكتبات والعروض التوضيحية"
+
+#: includes/template-functions.php:1329
+msgid "Caras de reloj"
+msgstr "خلفيات شاشة الساعة"
+
+#: includes/template-functions.php:1330
+msgid "Comer y beber"
+msgstr "طعام ومشروب"
+
+#: includes/template-functions.php:1331
+msgid "Compras"
+msgstr "تسوّق"
+
+#: includes/template-functions.php:1332
+msgid "Comunicación"
+msgstr "الاتصال"
+
+#: includes/template-functions.php:1333
+msgid "Conocer personas"
+msgstr "تعارف"
+
+#: includes/template-functions.php:1334
+msgid "Cómics"
+msgstr "كتب مصوّرة"
+
+#: includes/template-functions.php:1335
+msgid "Deportes"
+msgstr "ألعاب رياضية"
+
+#: includes/template-functions.php:1336
+msgid "Educación"
+msgstr "التعليم"
+
+#: includes/template-functions.php:1337
+msgid "Entretenimiento"
+msgstr "ترفيه"
+
+#: includes/template-functions.php:1338
+msgid "Estilo de vida"
+msgstr "نمط حياة"
+
+#: includes/template-functions.php:1339
+msgid "Eventos"
+msgstr "الأحداث"
+
+#: includes/template-functions.php:1340
+msgid "Finanzas"
+msgstr "شؤون مالية"
+
+#: includes/template-functions.php:1341
+msgid "Fotografía"
+msgstr "الصور الفوتوغرافية"
+
+#: includes/template-functions.php:1342
+msgid "Herramientas"
+msgstr "الأدوات"
+
+#: includes/template-functions.php:1343
+msgid "Inmuebles y hogar"
+msgstr "المنزل"
+
+#: includes/template-functions.php:1344
+msgid "Libros y referencias"
+msgstr "الكتب والمراجع"
+
+#: includes/template-functions.php:1345
+msgid "Mapas y navegación"
+msgstr "الخرائط والتنقل"
+
+#: includes/template-functions.php:1346
+msgid "Medicina"
+msgstr "طب"
+
+#: includes/template-functions.php:1347
+msgid "Música y audio"
+msgstr "الموسيقى والصوت"
+
+#: includes/template-functions.php:1348
+msgid "Negocios"
+msgstr "أعمال"
+
+#: includes/template-functions.php:1349
+msgid "Noticias y revistas"
+msgstr "الأخبار والمجلات"
+
+#: includes/template-functions.php:1350
+msgid "Personalización"
+msgstr "تخصيص"
+
+#: includes/template-functions.php:1351
+msgid "Productividad"
+msgstr "الإنتاجية"
+
+#: includes/template-functions.php:1352
+msgid "Salud y bienestar"
+msgstr "الصحة واللياقة البدنية"
+
+#: includes/template-functions.php:1353
+msgid "Ser padres"
+msgstr "الأهل والأطفال"
+
+#: includes/template-functions.php:1354
+msgid "Social"
+msgstr "اجتماعي"
+
+#: includes/template-functions.php:1355
+msgid "Tiempo"
+msgstr "الطقس"
+
+#: includes/template-functions.php:1356
+msgid "Viajes"
+msgstr "السفر ومعلومات محلية"
+
+#: includes/widget-categories.php:10
+msgid "Muestra las categorías"
+msgstr "فئات العرض"
+
+#: includes/widget-categories.php:49
+msgid "Columnas"
+msgstr "الأعمدة"
+
+#: includes/widget-facebook.php:12
+msgid "Muestra la caja de tu página de Facebook"
+msgstr "إظهار مربع صفحة الفيسبوك الخاصة بك"
+
+#: includes/widget-facebook.php:40
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/widget-mas-calificados.php:10
+msgid "Muestra las apps más calificadas de tu sitio"
+msgstr "اعرض التطبيقات الأعلى تصنيفًا على موقعك"
+
+#: includes/widget-mas-calificados.php:73 includes/widget-mas-vistos.php:73
+#: includes/widget-mejor-calificados.php:74 includes/widget-ultimos-posts.php:72
+msgid "De una categoría"
+msgstr "من فئة"
+
+#: includes/widget-mas-calificados.php:75 includes/widget-mas-vistos.php:75
+#: includes/widget-mejor-calificados.php:76 includes/widget-ultimos-posts.php:74
+msgid "Ninguna"
+msgstr "لا شيء"
+
+#: includes/widget-mas-calificados.php:89 includes/widget-mas-vistos-blog.php:64
+#: includes/widget-mas-vistos.php:89 includes/widget-mejor-calificados.php:89
+#: includes/widget-ultimos-posts-blog.php:63 includes/widget-ultimos-posts.php:88
+msgid "Número de entradas a mostrar"
+msgstr "عدد الإدخالات المراد عرضها"
+
+#: includes/widget-mas-vistos-blog.php:9 includes/widget-mas-vistos-blog.php:19
+#: includes/widget-mas-vistos-blog.php:56
+msgid "Posts más vistos"
+msgstr "أكثر المشاركات مشاهدة"
+
+#: includes/widget-mas-vistos-blog.php:10
+msgid "Muestra los posts más vistos de tu sitio"
+msgstr "عرض أكثر المشاركات مشاهدة على موقعك"
+
+#: includes/widget-mas-vistos.php:9 includes/widget-mas-vistos.php:19
+#: includes/widget-mas-vistos.php:65
+msgid "Apps más vistas"
+msgstr "التطبيقات الأكثر مشاهدة"
+
+#: includes/widget-mas-vistos.php:10
+msgid "Muestra las apps más vistas de tu sitio"
+msgstr "اعرض التطبيقات الأكثر مشاهدة على موقعك"
+
+#: includes/widget-mejor-calificados.php:9
+#: includes/widget-mejor-calificados.php:19
+#: includes/widget-mejor-calificados.php:66
+msgid "Apps mejor calificadas"
+msgstr "التطبيقات الأعلى تقييمًا"
+
+#: includes/widget-mejor-calificados.php:10
+msgid "Muestra las apps mejor calificadas de tu sitio"
+msgstr "اعرض أفضل التطبيقات تقييمًا على موقعك"
+
+#: includes/widget-twitter.php:10
+msgid "Coloca tu nombre de usuario de Twitter y comenzarán a seguirte"
+msgstr "أدخل اسم مستخدم Twitter الخاص بك وسيبدأون في متابعتك"
+
+#: includes/widget-twitter.php:19 includes/widget-twitter.php:38
+msgid "Síguenos en Twitter"
+msgstr "تابعنا على تويتر"
+
+#: includes/widget-ultimos-posts-blog.php:9
+#: includes/widget-ultimos-posts-blog.php:19
+#: includes/widget-ultimos-posts-blog.php:55
+msgid "Últimos posts"
+msgstr "آخر المشاركات"
+
+#: includes/widget-ultimos-posts-blog.php:10
+msgid "Muestra los últimos posts de tu sitio"
+msgstr "عرض أحدث المشاركات من موقعك"
+
+#: includes/widget-ultimos-posts.php:9 includes/widget-ultimos-posts.php:19
+#: includes/widget-ultimos-posts.php:64
+msgid "Últimas Aplicaciones"
+msgstr "أحدث التطبيقات"
+
+#: includes/widget-ultimos-posts.php:10
+msgid "Muestra las últimas aplicaciones de tu sitio"
+msgstr "اعرض أحدث التطبيقات من موقعك"
+
+#: includes/widget-youtube.php:10
+msgid "Muestra cualquier video de YouTube colocando solo el ID"
+msgstr "اعرض أي فيديو على YouTube بإدخال المعرف فقط"
+
+#: includes/widget-youtube.php:36
+msgid "Youtube"
+msgstr "Youtube"
+
+#: tag.php:4
+msgid "TAG"
+msgstr "ضع الكلمة المناسبة"
+
+#: taxonomy-cblog.php:5
+msgid "Categoría"
+msgstr "الفئة"
+
+#: template-parts/single-infoapp-get.php:30
+#: template-parts/template-download.php:39
+msgid "No hay enlace de redirección..."
+msgstr "لا يوجد رابط إعادة توجيه ..."
+
+#: template-parts/single-infoapp-get.php:33
+#: template-parts/template-download.php:42
+msgid "Será redireccionado en unos segundos..."
+msgstr "ستتم إعادة توجيهك في بضع ثوان ..."
+
+#: template-parts/single-infoapp-get.php:34
+#: template-parts/template-download.php:43
+msgid "Si la redirección no funciona, haga clic"
+msgstr "إذا لم تنجح إعادة التوجيه ، فانقر فوق"
+
+#: template-parts/single-infoapp-get.php:34
+#: template-parts/template-download.php:43
+msgid "aquí"
+msgstr "هنا"
+
+#: template-parts/single-infoapp.php:32
+msgid "Última versión"
+msgstr "الإصدار الأخير"
+
+#: template-parts/template-download.php:14
+msgid "Nombre del paquete"
+msgstr "اسم الحزمة"
+
+#~ msgid "Crea una app en Dropbox y obtén el token de acceso."
+#~ msgstr "أنشئ تطبيقًا في Dropbox واحصل على رمز الوصول."
+
+#~ msgid "Token de acceso"
+#~ msgstr "رمز وصول"
+
+#~ msgid "Error: Falta token de acceso"
+#~ msgstr "خطأ: رمز الوصول مفقود"
+
+#~ msgid "Falta token de acceso"
+#~ msgstr "رمز الوصول مفقود"
+
+#, fuzzy
+#~| msgid "Actualizar"
+#~ msgid "y actualizar"
+#~ msgstr "للتحديث"
+
+#~ msgid "Esperar"
+#~ msgstr "ينتظر"
+
+#~ msgid "No hay enlace de descarga..."
+#~ msgstr "لا يوجد رابط تحميل ..."
+
+#~ msgid "Su descarga comenzará en un momento..."
+#~ msgstr "سيبدأ التنزيل الخاص بك في لحظة ..."
+
+#~ msgid "Si no descarga el archivo, haga clic"
+#~ msgstr "إذا لم تقم بتنزيل الملف ، فانقر فوق"
+
+#~ msgid "Empresa"
+#~ msgstr "شركة"
+
+#~ msgid "Automoción"
+#~ msgstr "السيارات"
+
+#~ msgid "Salud"
+#~ msgstr "الصحة"
+
+#~ msgid "Seguridad"
+#~ msgstr "الأمان"
+
+#~ msgid "Multimedia"
+#~ msgstr "الوسائط المتعددة"
+
+#~ msgid "Editar"
+#~ msgstr "يحرر"
+
+#~ msgid "Acciones"
+#~ msgstr "أجراءات"
+
+#~ msgid "Por categoría(s) (Por defecto)"
+#~ msgstr "حسب الفئة (الفئات) (افتراضي)"
+
+#~ msgid ""
+#~ "Coloque los datos, guarde los cambios y luego haga clic al botón \"Conectar "
+#~ "a Google Drive\"."
+#~ msgstr ""
+#~ "ضع البيانات واحفظ التغييرات ثم انقر فوق الزر \"Connect to Google Drive\"."
+
+#~ msgid "mi servidor"
+#~ msgstr "الخادم الخاص بي"
+
+#, php-format
+#~ msgid "Se encontró un archivo APK y OBB. Subiendo a %s en ZIP..."
+#~ msgstr "تم العثور على ملف APK و OBB. جاري التحميل إلى %s في ZIP ..."
+
+#, php-format
+#~ msgid "Se encontró un archivo APK. Subiendo a %s..."
+#~ msgstr "تم العثور على ملف APK. جارٍ الانتقال إلى %s..."
+
+#, php-format
+#~ msgid "Se encontró un archivo ZIP. Subiendo a %s..."
+#~ msgstr "تم العثور على ملف ZIP. جارٍ الانتقال إلى %s..."
+
+#, php-format
+#~ msgid ""
+#~ "Siga el <a href=\"%s\" target=\"_blank\">Tutorial</a> para crear la API."
+#~ msgstr ""
+#~ "اتبع <a href=\"%s\" target=\"_blank\">البرنامج التعليمي</a> لإنشاء API."
+
+#~ msgid ""
+#~ "Añade el código de anuncio para la parte inferior de los enlaces de "
+#~ "descarga en la página interna de la versión AMP."
+#~ msgstr ""
+#~ "أضف شفرة الإعلان إلى أسفل روابط التنزيل على الصفحة الداخلية لإصدار AMP."
+
+#~ msgid "No hay resultados para esta búsqueda."
+#~ msgstr "لا توجد نتائج لهذا البحث."
+
+#~ msgid ""
+#~ "¿Cómo instalar [Title] APK?\n"
+#~ "1. Toca el archivo [Title] APK descargado.\n"
+#~ "2. Toca instalar.\n"
+#~ "3. Sigue los pasos que aparece en pantalla."
+#~ msgstr ""
+#~ "كيفية تثبيت [Title] APK؟\n"
+#~ "1. اضغط على ملف APK [Title] الذي تم تنزيله.\n"
+#~ "2. المس تثبيت.\n"
+#~ "3. اتبع الخطوات التي تظهر على الشاشة."
+
+#, php-format
+#~ msgid ""
+#~ "¿Cómo instalar [Title]?\n"
+#~ "1. Descargar el archivo ZIP.\n"
+#~ "2. Instale la aplicación %s.\n"
+#~ "3. Abra la aplicación y pulse en \"Instalar APKs\".\n"
+#~ "4. Busque la carpeta donde se encuentra el ZIP descargado y selecciónelo.\n"
+#~ "5. Sigue los pasos que aparece en pantalla."
+#~ msgstr ""
+#~ "كيف يتم تثبيت [Title]؟\n"
+#~ "1. قم بتنزيل ملف ZIP.\n"
+#~ "2. قم بتثبيت تطبيق %s.\n"
+#~ "3. افتح التطبيق وانقر على \"تثبيت APKs\".\n"
+#~ "4. ابحث عن المجلد الذي يوجد به ملف ZIP الذي تم تنزيله وحدده.\n"
+#~ "5. اتبع الخطوات التي تظهر على الشاشة."
+
+#~ msgid "Sí (Será subido a mi servidor)"
+#~ msgstr "نعم (سيتم تحميله على الخادم الخاص بي)"
+
+#~ msgid "[ADS Single Center]"
+#~ msgstr "[ADS Single Center]"
+
+#~ msgid "Si"
+#~ msgstr "نعم"

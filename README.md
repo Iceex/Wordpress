@@ -20,6 +20,6 @@ And others...<br>
 
 <div class="mySlides">
     <div class="numbertext">Some examples</div>
-    <img src="https://raw.githubusercontent.com/Iceex/Wordpress/main/Portafolio/Mobile-paintball.png" style="width:40%">
+    <img src="https://raw.githubusercontent.com/Iceex/Wordpress/main/Portafolio/Mobile-paintball.png" style="width:10%">
     <img src="https://github.com/Iceex/Wordpress/blob/main/Portafolio/3.1.%20paintball.png?raw=true" style="width:40%">
   </div>  
